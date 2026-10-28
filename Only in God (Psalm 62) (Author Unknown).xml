@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Only in God (Psalm 62)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Only in God is my soul at rest<br/>In Him comes my salvation<br/>He only is my rock<br/>My strength and my salvation</lines>
+    </verse>
+    <verse name="c1">
+      <lines>My Stronghold, my Saviour<br/>I shall not be afraid at all<br/>My Stronghold, my Saviour<br/>I shall not be moved</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Only in God is found safety<br/>When my enemy pursues me<br/>Only in God is found glory<br/>When I am found meek and found lowly</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Only in God is my soul at rest<br/>In Him comes my salvation</lines>
+    </verse>
+  </lyrics>
+</song>

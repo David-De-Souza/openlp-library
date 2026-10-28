@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:19">
+  <properties>
+    <titles>
+      <title>In Your Hands</title>
+    </titles>
+    <copyright>© 1996 Hillsong Music Publishing</copyright>
+    <verseOrder>v1 c1 v2 o1</verseOrder>
+    <ccliNo>1935925</ccliNo>
+    <authors>
+      <author>Reuben Morgan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm so secure<br/>You're here with me<br/>You stay the same<br/>Your love remains<br/>Here in my heart</lines>
+    </verse>
+    <verse name="c1">
+      <lines>So close I believe<br/>You're holding me now<br/>In Your hands I belong<br/>You'll never let me go<br/>So close I believe<br/>You're holding me now<br/>In Your hands I belong<br/>You'll never let me go</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You gave Your life<br/>In Your endless love<br/>You set me free<br/>And showed the way<br/>Now I am found</lines>
+    </verse>
+    <verse name="o1">
+      <lines>(Bridge)<br/>All along You were beside me<br/>Even when I couldn't tell<br/>Through the years<br/>You showed me more of You<br/>More of You</lines>
+    </verse>
+  </lyrics>
+</song>

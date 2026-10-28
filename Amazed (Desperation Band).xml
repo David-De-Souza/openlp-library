@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Amazed</title>
+    </titles>
+    <authors>
+      <author>Desperation Band</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You dance over me<br/>While I am unaware<br/>You sing all around<br/>But I never hear the sound</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lord I'm amazed by You<br/>Lord I'm amazed by You<br/>Lord I'm amazed by You<br/>How You love me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You paint the morning sky<br/>With miracles in mind<br/>My hope will always stand<br/>For You hold me in Your hand</lines>
+    </verse>
+    <verse name="b1">
+      <lines>How wide, how deep, how great<br/>Is Your love for me</lines>
+    </verse>
+  </lyrics>
+</song>

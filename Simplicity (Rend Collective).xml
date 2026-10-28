@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Simplicity</title>
+    </titles>
+    <authors>
+      <author>Rend Collective</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I come in simplicity<br/>Longing for purity<br/>To worship You<br/>In spirit and truth<br/>Only You</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Lord strip it all away<br/>'Til only You remain<br/>I'm coming back<br/>To my first love<br/>Only You</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>You're the reason I sing<br/>The reason I sing<br/>Yes my heart will sing<br/>How I love You</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>And forever I'll sing<br/>Forever I'll sing<br/>Yes my heart will sing<br/>How I love You</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I come with my broken song<br/>To You the Perfect One<br/>To worship You<br/>In spirit and truth<br/>Only You</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Give me a childlike heart<br/>Lead me to where You are<br/>Cause I'm coming back<br/>To my first love<br/>Only You</lines>
+    </verse>
+    <verse name="b1">
+      <lines><br/>How I love You<br/>How I love You<br/>How I love You<br/>My first love</lines>
+    </verse>
+  </lyrics>
+</song>

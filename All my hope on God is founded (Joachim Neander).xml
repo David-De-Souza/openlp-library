@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>All my hope on God is founded</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Joachim Neander</author>
+    </authors>
+    <songbooks>
+      <songbook name="TS620"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All my hope on God is founded;<br/>he doth still my trust renew,<br/>me through change and chance he guideth,<br/>only good and only true.<br/>God unknown, he alone<br/>calls my heart to be his own.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pride of man and earthly glory,<br/>sword and crown betray his trust;<br/>what with care and toil he buildeth,<br/>tower and temple, fall to dust.<br/>But God's pow'r, hour by hour,<br/>is my temple and my tower.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God's great goodness aye endureth,<br/>deep his wisdom, passing thought:<br/>splendour, life, and light attend him,<br/>beauty springeth out of naught.<br/>Evermore from his store<br/>new-born worlds rise and adore.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Daily doth th'almighty giver<br/>bounteous gifts on us bestow;<br/>his desire our soul delighteth,<br/>pleasure leads us where we go.<br/>Love doth stand at his hand;<br/>joy doth wait on his command.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Still from man to God eternal<br/>sacrifice of praise be done,<br/>high above all praises praising<br/>for the gift of Christ his Son.<br/>Christ doth call one and all:<br/>ye who follow shall not fall.</lines>
+    </verse>
+  </lyrics>
+</song>

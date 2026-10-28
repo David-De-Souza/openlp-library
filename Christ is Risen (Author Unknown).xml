@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Christ is Risen</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Let no one caught in sin remain<br/>Inside the lie of inward shame</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>We fix our eyes upon the cross<br/>And run to Him who showed great love</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>And bled for us<br/>Freely You bled, for us</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Christ is risen from the dead<br/>Trampling over death by death</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Come awake, come awake!<br/>Come and rise up from the grave!</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Christ is risen from the dead<br/>We are one with Him again</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>Come awake, come awake!<br/>Come and rise up from the grave</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Beneath the weight of all our sin<br/>You bowed to none but heaven's will</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>No scheme of hell, no scoffer's crown<br/>No burden great can hold You down</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>In strength You reign<br/>Forever let Your church proclaim<br/>In strength You reign<br/>Forever let Your church proclaim</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Oh death! Where is your sting?<br/>Oh hell! Where is your victory?</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Oh Church! Come stand in the light!<br/>The glory of God has defeated the night!</lines>
+    </verse>
+    <verse name="b1c">
+      <lines>Oh death! Where is your sting?<br/>Oh hell! Where is your victory?</lines>
+    </verse>
+    <verse name="b1d">
+      <lines>Oh Church! Come stand in the light!<br/>Our God is not dead, He's alive! He's alive!</lines>
+    </verse>
+  </lyrics>
+</song>

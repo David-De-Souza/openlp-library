@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:19">
+  <properties>
+    <titles>
+      <title>Isaiah 43</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>When you pass through the waters<br/>I will be with you</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>And the waves<br/>Will not overcome you</lines>
+    </verse>
+    <verse name="p1a">
+      <lines>Do not fear<br/>For I have redeemed you</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>I have called you by name<br/>You are Mine</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>For I am the Lord your God (girls echo)</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>I am the Lord your God (girls echo)<br/>(I am) the Holy One of Israel, your Savior</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I am the Lord<br/>Do not fear</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>When you pass through the fire<br/>You'll not be burnt</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>And the flames will not consume you</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Guys: You are the Lord<br/>Girls: I'll not fear</lines>
+    </verse>
+  </lyrics>
+</song>

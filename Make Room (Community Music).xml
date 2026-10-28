@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:13">
+  <properties>
+    <titles>
+      <title>Make Room</title>
+    </titles>
+    <verseOrder>v1 c1 b1</verseOrder>
+    <authors>
+      <author>Community Music</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Here is where I lay it down<br/>Every burden, every crown<br/>This is my surrender<br/>This is my surrender</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Here is where I lay it down<br/>Every lie and every doubt<br/>This is my surrender</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I will make room for You<br/>To do whatever You want to<br/>To do whatever You want to</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Shake up the ground of all my ambition<br/>Break down the walls of my inhibition<br/>Your way is better<br/>Your way is better</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Nothing but the blood</title>
+    </titles>
+    <authors>
+      <author>Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Your blood speaks a better word<br/>Than all the empty claims I've heard upon this earth<br/>Speaks righteousness for me</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>And stands in my defense<br/>Jesus it's Your blood</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>What can wash away our sins?<br/>What can make us whole again?<br/>Nothing but the blood<br/>Nothing but the blood of Jesus</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>What can wash us pure as snow?<br/>Welcomed as the friends of God<br/>Nothing but Your blood<br/>Nothing but Your blood King Jesus</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Your cross testifies in grace<br/>Tells of the Father's heart to make a way for us<br/>Now boldly we approach</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Not by earthly confidence<br/>It's only Your blood</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>What can wash away our sins?<br/>What can make us whole again?<br/>Nothing but the blood<br/>Nothing but the blood of Jesus</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>What can wash us pure as snow?<br/>Welcomed as the friends of God<br/>Nothing but Your blood<br/>Nothing but Your blood King Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

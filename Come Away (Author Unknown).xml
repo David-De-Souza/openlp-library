@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Come Away</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Don't you be in such a hurry<br/>Cause it only leads to worry</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>There's a time to work and<br/>There's a time to pray</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Try to find a quiet place<br/>To hear his voice and seek his face</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Can you hear the Spirit calling<br/>Come away</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Come away<br/>Come away</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Come and spend some time with me<br/>Come away</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Let your heart and mind be stilled<br/>Let your empty cup be filled</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>Come and spend some time with me<br/>Come away</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Are you seeking in your sorrow<br/>Are you worried 'bout tomorrow</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Are the pressures of this life too hard to bear</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>If you cast your cares on him<br/>He'll give you perfect peace within</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>Can you hear the spirit calling<br/>Come away</lines>
+    </verse>
+  </lyrics>
+</song>

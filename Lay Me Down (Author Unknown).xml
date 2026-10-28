@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:13">
+  <properties>
+    <titles>
+      <title>Lay Me Down</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>With this heart open wide<br/>From the depths from the heights<br/>I will bring a sacrifice</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>With these hands lifted high<br/>Hear my song hear my cry</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>I will bring a sacrifice<br/>I will bring a sacrifice</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>I lay me down I'm not my own<br/>I belong to you alone</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Lay me down Lay me down<br/>Hand on my heart This much is true<br/>There's no life apart from you</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Lay me down Lay me down<br/>Lay me down Lay me down</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Letting go of my pride<br/>Giving up all my rights</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Take this life and let it shine<br/>Take this life and let it shine</lines>
+    </verse>
+    <verse name="b1">
+      <lines>It will be my joy to say Your will Your way<br/>It will be my joy to say Your will Your way<br/>It will be my joy to say Your will Your way always</lines>
+    </verse>
+  </lyrics>
+</song>

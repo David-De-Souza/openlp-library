@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>Worthy</title>
+    </titles>
+    <authors>
+      <author>Housefires</author>
+      <author>Ryan Ellis</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let the fragrance arise of our love to you<br/>Let the fragrance arise of our love</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>You are Worthy<br/>You are Worthy<br/>So I'll sing your praise<br/>All my days</lines>
+    </verse>
+    <verse name="b1">
+      <lines>There’s no one like you<br/>There’s no one like you</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>You are Holy<br/>You are Holy<br/>So I'll sing your praise<br/>All my days</lines>
+    </verse>
+  </lyrics>
+</song>

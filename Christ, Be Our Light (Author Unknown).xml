@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Christ, Be Our Light</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Longing for light, we wait in darkness<br/>Longing for truth, we turn to you</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Make us your own, your holy people<br/>Light for the world to see</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Christ, be our light!<br/>Shine in our hearts, shine through the darkness</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Christ, be our light!<br/>Shine in your Church gathered today</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Longing for peace, our world is troubled<br/>Longing for hope, many despair</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Your word alone has power to save us<br/>Make us your living voice</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Longing for food, many are hungry<br/>Longing for water, many still thirst</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Make us your bread, broken for others<br/>Shared until all are fed</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Many the gifts, many the people<br/>Many the hearts that yearn to belong</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Let us be servants to one another<br/>Making your kingdom come</lines>
+    </verse>
+  </lyrics>
+</song>

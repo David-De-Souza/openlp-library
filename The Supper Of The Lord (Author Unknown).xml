@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>The Supper Of The Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Precious body precious blood<br/>Here in bread and wine<br/>Here the Lord prepares the feast divine</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Bread of Love is broken now<br/>Cup of Life is poured<br/>Come share the Supper of the Lord</lines>
+    </verse>
+    <verse name="v1">
+      <lines>This is the bread of God<br/>Coming down from heaven<br/>Giving life to us, to all the world</lines>
+    </verse>
+    <verse name="v2">
+      <lines>"I am the living spring<br/>Of eternal life<br/>You that drink from me, shall not thirst again."</lines>
+    </verse>
+    <verse name="v3">
+      <lines>"I am the bread of heaven<br/>Giving life to you<br/>You that eat this bread shall never die."</lines>
+    </verse>
+    <verse name="v4">
+      <lines>"All those who feed on me<br/>Have their life in me<br/>As I have my life in the living God."</lines>
+    </verse>
+  </lyrics>
+</song>

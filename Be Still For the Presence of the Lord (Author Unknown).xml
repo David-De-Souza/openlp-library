@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Be Still For the Presence of the Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Be still for the presence of the Lord<br/>The Holy One is here</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Come bow before Him now<br/>With reverence and fear</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>In Him no sin is found<br/>We stand on holy ground</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Be still for the presence of the Lord<br/>The Holy One is here</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Be still for the glory of the Lord<br/>Is shining all around</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>He burns with holy fire<br/>With splendour He is crowned</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>How awesome is the sight<br/>Our radiant King of light</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>Be still for the glory of the Lord<br/>Is shining all around</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Be still for the power of the Lord<br/>Is moving in this place</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>He comes to cleanse and heal<br/>To minister His grace</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>No work too hard for Him<br/>In faith receive from Him</lines>
+    </verse>
+    <verse name="v3d">
+      <lines>Be still for the power of the Lord<br/>Is moving in this place</lines>
+    </verse>
+  </lyrics>
+</song>

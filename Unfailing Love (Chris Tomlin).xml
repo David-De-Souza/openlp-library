@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>Unfailing Love</title>
+    </titles>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You have my heart, and I am yours forever<br/>You are my strength, God of grace and power</lines>
+    </verse>
+    <verse name="p1">
+      <lines>And everything, You hold in Your hands<br/>Still You make time for me, I can't understand</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Praise you God of earth and sky<br/>How beautiful is Your unfailing love<br/>Unfailing love</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>And You never change, God You remain<br/>The Holy one, my Unfailing Love<br/>Unfailing love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are my rock, the one I hold on to<br/>You are my song, and I sing for You</lines>
+    </verse>
+  </lyrics>
+</song>

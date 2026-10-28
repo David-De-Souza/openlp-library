@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Fall Afresh</title>
+    </titles>
+    <verseOrder>v1 c1 b1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Jeremy Riddle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Awaken my soul, come awake<br/>To hunger, to seek, to thirst<br/>Awaken first love, come awake<br/>And do as You did at first<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Spirit of the Living God come fall afresh on me<br/>Come wake me from my sleep<br/>Blow through the caverns of my soul<br/>Pour in me to overflow,<br/>to overflow</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Awaken my soul, come awake<br/>To worship with all your strength</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come and fill this place<br/>Let Your glory now invade<br/>Spirit come and fill this place<br/>Let Your glory now invade</lines>
+    </verse>
+  </lyrics>
+</song>

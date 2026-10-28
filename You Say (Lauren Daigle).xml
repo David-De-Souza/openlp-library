@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-05-31T11:01:11">
+  <properties>
+    <titles>
+      <title>You Say</title>
+    </titles>
+    <authors>
+      <author>Lauren Daigle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I keep fighting voices in my mind that say I'm not enough<br/>Every single lie that tells me I will never measure up</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Am I more than just the sum of every high and every low?<br/>Remind me once again just who I am, because I need to know<br/>Ooh, oh</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>You say I am loved when I can't feel a thing<br/>You say I am strong when I think I am weak<br/>And you say I am held when I am falling short</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>And when I don't belong, oh, You say I am Yours<br/>And I believe, oh, I believe<br/>What You say of me<br/>I believe</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The only thing that matters now is everything You think of me<br/>In You, I find my worth, in You, I find my identity<br/>Ooh, oh</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Taking all I have and now I'm laying it at Your feet<br/>You have every failure, God, You'll have every victory<br/>Ooh, oh</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Oh, I believe<br/>Yes, I believe<br/>What You say of me<br/>I believe</lines>
+    </verse>
+  </lyrics>
+</song>

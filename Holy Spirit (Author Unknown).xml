@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>Holy Spirit</title>
+      <title>Bryan &amp; Katie Torwalt</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>There's nothing worth more<br/>That will ever come close<br/>No thing can compare<br/>You're our Living Hope</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Your presence, Lord</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I've tasted and seen<br/>Of the sweetest of loves<br/>Where my heart becomes free<br/>And my shame is undone</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Your presence, Lord</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Holy Spirit You are welcome here<br/>Come flood this place and fill the atmosphere</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Your glory God is what our hearts long for<br/>To be overcome by Your presence Lord<br/>Your presence Lord</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Let us become more aware of Your presence<br/>Let us experience the glory of Your goodness</lines>
+    </verse>
+  </lyrics>
+</song>

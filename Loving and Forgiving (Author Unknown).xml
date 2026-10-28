@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:13">
+  <properties>
+    <titles>
+      <title>Loving and Forgiving</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All my being bless the Lord<br/>Bless the holy name of God<br/>All my being bless the Lord<br/>Remembering the goodness of God</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Loving and forgiving are you, O Lord<br/>Slow to anger, rich in kindess<br/>Loving and fogiving are you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God forgives us all our sins<br/>Healing those who live in pain<br/>Calling us from final death<br/>God fills us with goodness and love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Good and gracious is the Lord<br/>Slow to anger, rich in love<br/>God remembers not our sins<br/>Forgiving and loving is God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>As heaven soars above the earth<br/>So great the love of God for us<br/>As far as east is from the west<br/>The Lord takes our sins from us</lines>
+    </verse>
+  </lyrics>
+</song>

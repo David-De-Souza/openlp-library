@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>Hymn to Our Lady</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I'll sing a hymn to Mary,<br/>The Mother of my God,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>The Virgin of all virgins,<br/>Of David's Royal Blood.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Oh teach me holy Mary,<br/>A loving song to frame,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>When wicked men blaspheme thee,<br/>To love and bless thy name.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>O Lily of the Valley,<br/>O Mystic Rose what tree</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Or Flower, e'en the fairest,<br/>Is half as fair as thee?</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>O let me, though so lowly,<br/>Recite my Mother's fame</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>When Wicked men blaspheme thee,<br/>I'll love and bless thy name</lines>
+    </verse>
+  </lyrics>
+</song>

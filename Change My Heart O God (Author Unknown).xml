@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Change My Heart O God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Change my heart O God<br/>Make it ever true</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Change my heart O God<br/>Make me more like you</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Change my heart of stone<br/>To a heart of love</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Take my selfishness<br/>And teach me Lord to serve</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>You are the potter<br/>I am the clay</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Mould me and make me<br/>This Lord I pray</lines>
+    </verse>
+  </lyrics>
+</song>

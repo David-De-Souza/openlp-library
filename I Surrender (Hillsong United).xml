@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>I Surrender</title>
+    </titles>
+    <authors>
+      <author>Hillsong United</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Here I am<br/>Down on my knees again<br/>Surrendering all<br/>Surrendering all</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Find me here<br/>Lord as You draw me near<br/>Desperate for You<br/>Desperate for You<br/>I surrender</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I Surrender<br/>I Surrender<br/>I want to know You more<br/>I want to know You more</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Drench my soul<br/>As mercy and grace unfold<br/>I hunger and thirst<br/>I hunger and thirst</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>With arms stretched wide<br/>I know You hear my cry<br/>Speak to me now<br/>Speak to me now</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Like a rushing wind<br/>Jesus breathe within<br/>Lord have Your way<br/>Lord have Your way in me</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Like a mighty storm<br/>Stir within my soul<br/>Lord have Your way<br/>Lord have Your way in me</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>The Time Has Come</title>
+    </titles>
+    <authors>
+      <author>HIllsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Found love beyond all reason<br/>You gave Your life Your all for me</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>And called me Yours forever</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Caught in the mercy fallout<br/>I found hope found life<br/>Found all I need</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>You're all I need</lines>
+    </verse>
+    <verse name="p1a">
+      <lines>The time has come<br/>To stand for all we believe in</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>So I for one, am gonna<br/>Give my praise to You</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Today today it's all or nothing<br/>All the way</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>The praise goes out to You<br/>Yeah all the praise goes out to You</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Today today I live for one thing<br/>To give You praise</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>In everything I do<br/>Yeah all the praise goes out to You</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>All we are is Yours</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>And all we're living for<br/>Is all You are</lines>
+    </verse>
+    <verse name="b1c">
+      <lines>Is all that You are</lines>
+    </verse>
+  </lyrics>
+</song>

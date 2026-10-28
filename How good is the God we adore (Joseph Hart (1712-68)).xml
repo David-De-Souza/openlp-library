@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>How good is the God we adore</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Joseph Hart (1712-68)</author>
+    </authors>
+    <songbooks>
+      <songbook name="MP244, TS1270"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How good is the God we adore!<br/>Our faithful, unchangeable friend:<br/>His love is as great as His power<br/>and knows neither measure nor end.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For Christ is the first and the last;<br/>His Spirit will guide us safe home:<br/>we'll praise Him for all that is past<br/>and trust Him for all that's to come.</lines>
+    </verse>
+  </lyrics>
+</song>

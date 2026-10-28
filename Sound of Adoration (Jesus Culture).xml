@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Sound of Adoration</title>
+    </titles>
+    <authors>
+      <author>Jesus Culture</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>When we were lost ones<br/>You were the Shepherd that carried us home</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>When we were prodigals<br/>You ran to meet us with open arms<br/>And we can't hold back our praise</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>When we were refugees<br/>You were the One who took us in</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>When we were enemies<br/>You paid the price for all our sin<br/>And we can't hold back our praise</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>This is the sound of adoration<br/>Oh, how we love You<br/>Jesus, we love You</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>You are the joy of all creation<br/>Oh, how we love You<br/>Jesus, we love You</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>You are the Risen One<br/>You conquered death and made a way</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>You sang our freedom song<br/>Now we are dancing on our chains<br/>And we can't hold back our praise</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>By the cross, I am free<br/>Your grace changes everything<br/>I was blind, now I see<br/>Your grace changes everything</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>By the cross, I am free<br/>Your grace changes everything<br/>I was blind, now I see<br/>Your grace changes everything,<br/>Everything</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>Holy Over Me</title>
+    </titles>
+    <authors>
+      <author>Christy Nockels</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Your love has come and taken over me<br/>Your love has caused these blinded eyes to see</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You come and fill this empty life I bring<br/>You're holy, holy over me</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>My body and my soul are yours to keep<br/>Come make your temple here with liberty</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>I lay me down for You have promised me<br/>You're holy, holy over me</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Holy, holy over land and seas<br/>Holy, holy over galaxies</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Holy, holy over deepest needs<br/>You're holy, holy over me</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>You love does not depend on what I do<br/>Your love is freedom and it pleases you</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>You come and cover me in loving truth<br/>You're holy, holy over me</lines>
+    </verse>
+  </lyrics>
+</song>

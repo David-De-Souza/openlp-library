@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>All For Love</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>All for love, a Father gave<br/>For only love could make a way</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>All for love, the heavens cried<br/>For love was crucified</lines>
+    </verse>
+    <verse name="p1a">
+      <lines>Oh, how many times have I broken your heart<br/>But still you forgive if only I ask</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>And how many times have you heard me pray<br/>Draw near to me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Everything I need is You<br/>My beginning, my forever<br/>Everything I need is you</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Let me sing all for love<br/>I will join the angel's song</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ever holy is the Lord<br/>King of Glory, King of all</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>All for love a Saviour prayed<br/>Abba Father, have your way</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Though they know not what they do<br/>Let the cross draw man to you, to you<br/>To you, to you</lines>
+    </verse>
+  </lyrics>
+</song>

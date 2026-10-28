@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:19">
+  <properties>
+    <titles>
+      <title>It Is Good</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It is good to praise the Lord<br/>And make music to Your Name, O God Most High<br/>To proclaim Your love and faithfulness<br/>All the day and through the night</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lai lai lai<br/>Lai lai lai lai lai<br/>Lai lai lai lai<br/>Lai lai lai lai lai lai lai<br/>Lai lai lai lai lai lai lai lai lai<br/>Lai lai lai lai lai lai lai</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You make me glad by Your deeds O Lord<br/>So I sing for joy at all Your hands have made<br/>How great are Your works o Lord<br/>Elohim baruch hashem</lines>
+    </verse>
+    <verse name="v4">
+      <lines>May I dwell in Your courts O Lord<br/>There to flourish like the trees of Lebanon<br/>Planted in the house of Adonai<br/>There to live forevermore</lines>
+    </verse>
+  </lyrics>
+</song>

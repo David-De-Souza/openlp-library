@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:13">
+  <properties>
+    <titles>
+      <title>Make Room</title>
+    </titles>
+    <authors>
+      <author>Casting Crowns</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Family hiding from the storm<br/>Found no place at the keeper's door<br/>It was for this a Child was born<br/>To save a world so cold and hollow</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The sleeping town did not know<br/>That lying in a manger low<br/>A Savior King who had no home<br/>Has come to heal our sorrows</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Is there room in your heart?<br/>Is there room in your heart?<br/>Is there room in your heart<br/>For God to write His story?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Shepherds counting sheep at night<br/>Do not fear the glory light<br/>You are precious in His sight<br/>God has come to raise the lowly</lines>
+    </verse>
+    <verse name="c2">
+      <lines break="optional">Is there room in your heart?<br/>Is there room in your heart?<br/>Is there room in your heart<br/>For God to write His story?</lines>
+      <lines break="optional">You can come as you are<br/>But it may set you apart<br/>When you make room in your heart<br/>And trade your dreams for His glory</lines>
+      <lines>Make room in your heart<br/>Make room in your heart</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mother holds the Promise tight<br/>Every wrong will be made right<br/>The road is straight and the burden's light<br/>For in His hands, He holds tomorrow</lines>
+    </verse>
+  </lyrics>
+</song>

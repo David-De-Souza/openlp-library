@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Stronger</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>There is love that came for us<br/>Humbled to a sinner's cross</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You broke my shame and sinfuless<br/>You rose again victorious</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Faithfulness none can deny<br/>Through the storm and through the fire</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>There is truth that sets me free<br/>Jesus Christ who lives in me</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>You are stronger, You are stronger<br/>Sin is broken you have saved me</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>It is written Christ is risen<br/>Jesus you are Lord of all</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>No beginning and no end<br/>You're my hope and my defence</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>You came to seek and save the lost<br/>You paid it all upon the cross</lines>
+    </verse>
+    <verse name="b1">
+      <lines>So let your name be lifted higher<br/>Be lifted higher, be lifted higher</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>God And God Alone</title>
+    </titles>
+    <copyright>© 2016 Capitol CMG Paragon (Admin. by CopyCare Asia Ltd (Singapore Branch))/S. D. G. Publishing (Admin. by CopyCare Asia Ltd (Singapore Branch))/Sixsteps Songs (Admin. by CopyCare Asia Ltd (Singapore Branch))/Son of the Lion (Admin. by CopyCare Asia Ltd (Singapore Branch))/Worship Together Music (Admin. by CopyCare Asia Ltd (Singapore Branch))/Open Hands Music (Admin. by Essential Music Publishing LLC)/So Essential Tunes (Admin. by Essential Music Publishing LLC)</copyright>
+    <ccliNo>7054550</ccliNo>
+    <authors>
+      <author>Chris Tomlin</author>
+      <author>Jason Ingram</author>
+      <author>Jonas Myrin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>One Church one faith one anthem raised<br/>God and God alone</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>One cross one grace one name that saves<br/>All praise to You belongs<br/>All praise to You belongs</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>We lift You higher higher<br/>God and God alone<br/>Your name be louder louder<br/>Than any other song</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>You are forever seated on Your throne<br/>You are forever God and God alone</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Who else can wash our sin away<br/>God and God alone</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Who else can raise us from the grave<br/>All praise to You belongs<br/>Jesus all praise to You belongs</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>What could separate us<br/>From this amazing love<br/>What could say it's greater than our God</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Every knee will bow down<br/>Oh every knee will bow down</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Yes ev'ry knee will bow down<br/>Oh ev'ry knee will bow down</lines>
+    </verse>
+  </lyrics>
+</song>

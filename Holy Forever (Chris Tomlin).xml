@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-28T13:54:02">
+  <properties>
+    <titles>
+      <title>Holy Forever</title>
+    </titles>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A thousand generations falling down in worship<br/>To sing the song of ages to the Lamb<br/>And all who've gone before us, and all who will believe<br/>Will sing the song of ages to the Lamb</lines>
+    </verse>
+    <verse name="p1a">
+      <lines>Your name is the highest<br/>Your name is the greatest<br/>Your name stands above them all</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>All thrones and dominions<br/>All powers and positions<br/>Your name stands above them all</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And the angels cry, holy<br/>All Creation cries, holy<br/>You are lifted high, holy<br/>Holy forever</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Hear Your people sing, holy<br/>To the King of kings, holy<br/>You will always be holy<br/>Holy forever</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>If you've been forgiven, if you've been redeemed<br/>Sing the song forever to the Lamb</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>If you walk in freedom, if you bear His name<br/>Sing the song forever to the Lamb<br/>We'll sing the song forever and amen</lines>
+    </verse>
+  </lyrics>
+</song>

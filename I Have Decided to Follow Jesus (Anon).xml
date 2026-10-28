@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>I Have Decided to Follow Jesus</title>
+    </titles>
+    <authors>
+      <author>Anon</author>
+    </authors>
+    <songbooks>
+      <songbook name="MP272, TS766"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have decided to follow Jesus<br/>I have decided to follow Jesus<br/>I have decided to follow Jesus<br/>No turning back, no turning back.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The world behind me, the cross before me<br/>The world behind me, the cross before me<br/>The world behind me, the cross before me<br/>No turning back, no turning back.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though none go with me, I still will follow<br/>Though none go with me, I still will follow<br/>Though none go with me, I still will follow<br/>No turning back, no turning back.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Will you decide now to follow Jesus?<br/>Will you decide now to follow Jesus?<br/>Will you decide now to follow Jesus?<br/>No turning back, no turning back.</lines>
+    </verse>
+  </lyrics>
+</song>

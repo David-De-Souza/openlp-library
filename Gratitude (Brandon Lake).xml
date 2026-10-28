@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Gratitude</title>
+    </titles>
+    <authors>
+      <author>Brandon Lake</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All my words fall short<br/>I got nothing new<br/>How could I express<br/>All my gratitude?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I could sing these songs<br/>As I often do<br/>But every song must end<br/>And You never do</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>So I throw up my hands<br/>And praise You again and again<br/>'Cause all that I have is a<br/>Hallelujah, hallelujah</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>And I know it's not much<br/>But I've nothing else fit for a King<br/>Except for a heart singing<br/>Hallelujah, hallelujah</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I've got one response<br/>I've got just one move<br/>With my arm stretched wide<br/>I will worship You</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>So come on my soul, oh, don't you get shy on me</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Lift up your song, 'cause you've got a lion inside of those lungs<br/>Get up and praise the Lord</lines>
+    </verse>
+    <verse name="b1c">
+      <lines>Praise the Lord, praise the Lord<br/>Praise the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

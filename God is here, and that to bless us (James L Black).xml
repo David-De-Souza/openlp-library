@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>God is here, and that to bless us</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>James L Black</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God is here, and that to bless us<br/>with the Spirit's quickening power;<br/>see, the cloud already bending,<br/>waits to drop the grateful shower.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let it come, O Lord, we pray Thee,<br/>let the shower of blessing fall;<br/>we are waiting, we are waiting,<br/>oh, revive the hearts of all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God is here! We feel His presence<br/>in this consecrated place:<br/>but we need the soul refreshing<br/>of His free, unbounded grace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God is here! Oh, then, believing,<br/>bring to Him our one desire,<br/>that His love may now be kindled,<br/>till its flame each heart inspire.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Saviour, grant the prayer we offer,<br/>while in simple faith we bow!<br/>From the windows of Thy mercy<br/>pour us out a blessing now.</lines>
+    </verse>
+  </lyrics>
+</song>

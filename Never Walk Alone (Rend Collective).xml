@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Never Walk Alone</title>
+    </titles>
+    <copyright>© Thankyou Music (Admin. by CopyCare Asia Ltd (Singapore Branch))</copyright>
+    <ccliNo>7047088</ccliNo>
+    <authors>
+      <author>Rend Collective</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are my shepherd faithful forever<br/>Your hand is strong where my faith is weak<br/>Close as my heartbeat You won't forsake me<br/>You are the love that will carry me</lines>
+    </verse>
+    <verse name="p1">
+      <lines>And I won't be afraid<br/>I will trust Your heart and say</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I will never ever ever walk alone<br/>You are with us for us always holding on<br/>Though I wander Your love goes further<br/>You are my hope and future<br/>I will never walk alone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Questions may haunt us casting a shadow<br/>Still You're the hope and the fire in me<br/>I will not tremble I will not stumble<br/>You are my courage my bravery</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Surely Your goodness and mercy<br/>Will light up the way set before me<br/>Surely Your grace will pursue me<br/>All my days all my days</lines>
+    </verse>
+  </lyrics>
+</song>

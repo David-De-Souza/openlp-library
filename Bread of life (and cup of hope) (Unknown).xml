@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Bread of life (and cup of hope)</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Bread of life and cup of hope<br/>We come as gift to You<br/>Change our hearts, fill us with peace<br/>Transform our lives anew</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Open our eyes so that we might see<br/>Your presence in one another<br/>Your life poured out in love today<br/>unites us all in You</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Loving Lord, Creator God<br/>open our eyes to see<br/>The good that lives in each of us<br/>that called the world to be</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>And when we fail to see the good<br/>when friendship falter and crumble<br/>Give us the courage to forgive<br/>that we may live in peace</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Living Word, O, Son of God<br/>Your love shows us the way<br/>That we may live in harmony<br/>and from You never stray</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Wipe all oppression from our midst<br/>Give us a love for all people<br/>Your song of justice sing in us<br/>to live for peace today</lines>
+    </verse>
+  </lyrics>
+</song>

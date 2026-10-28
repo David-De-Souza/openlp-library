@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Alive</title>
+    </titles>
+    <authors>
+      <author>Young and Free</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I was lost with a broken heart<br/>You picked me up, now I'm set apart</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>From the ash I am born again<br/>Forever safe in the Saviour's hands</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>You are more than my words could say<br/>I'll follow You Lord for all my days</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>I'll fix my eyes, follow in Your ways<br/>Forever free in unending grace</lines>
+    </verse>
+    <verse name="p1a">
+      <lines>'Cause You are, You are, You are my freedom<br/>We lift You higher, lift You higher</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>Your love, Your love, Your love never ending<br/>Oh oh oh</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>You are alive in us<br/>Nothing can take Your place</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>You are all we need<br/>Your love has set us free</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>In the midst of the darkest night<br/>Let Your love be the shining light</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Breaking chains that were holding me<br/>You sent Your Son down and set me free</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Everything of this world will fade<br/>I'm pressing on till I see Your face</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>I will live that Your will be done<br/>I won't stop till Your Kingdom come</lines>
+    </verse>
+  </lyrics>
+</song>

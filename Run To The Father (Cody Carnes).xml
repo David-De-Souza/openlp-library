@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Run To The Father</title>
+    </titles>
+    <authors>
+      <author>Cody Carnes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I've carried a burden<br/>For too long on my own<br/>I wasn't created<br/>To bear it alone</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I hear Your invitation<br/>To let it all go<br/>Yeah, I see it now<br/>I'm laying it down<br/>And I know that I need You</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>I run to the Father<br/>I fall into grace<br/>I'm done with the hiding<br/>No reason to wait</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>My heart needs a surgeon<br/>My soul needs a friend<br/>So I'll run to the Father<br/>Again and again<br/>And again and again<br/>Oh-oh, oh-oh, oh-oh</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>You saw my condition<br/>Had a plan from the start<br/>Your Son for redemption<br/>The price for my heart</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>And I don't have a context<br/>For that kind of love<br/>I don't understand<br/>I can't comprehend<br/>All I know is I need You</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>My heart has been in Your sights<br/>Long before my first breath<br/>Running into Your arms<br/>Is running to life from death</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>And I feel this rush deep in my chest<br/>Your mercy is calling out<br/>Just as I am You pull me in<br/>And I know I need You now</lines>
+    </verse>
+  </lyrics>
+</song>

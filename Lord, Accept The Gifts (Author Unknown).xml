@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:13">
+  <properties>
+    <titles>
+      <title>Lord, Accept The Gifts</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Lord accept the gifts we offer<br/>At this Eucharistic feast</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Bread and wine to be transformed now<br/>Through the action of thy priest</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Take us, too, O Lord, transform us<br/>By thy grace in us increased</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>May our soul be pure and spotless<br/>As the host of wheat so fine</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>May all stain of sin be crushed out<br/>Like the grape that forms the wine</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>As we, too, become partakers<br/>In this sacrifice divine</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Take our gifts, Almighty Father<br/>Living God, eternal true</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Which we give through Christ , our Saviour<br/>Pleading here for us anew</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>Grant salvation to all present<br/>And our faith and love renew</lines>
+    </verse>
+  </lyrics>
+</song>

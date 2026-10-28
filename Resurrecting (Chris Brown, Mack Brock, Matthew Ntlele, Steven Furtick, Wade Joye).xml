@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Resurrecting</title>
+    </titles>
+    <comments>
+      <comment>For use solely with the SongSelect. Terms of Use. All rights reserved. www.ccli.com</comment>
+    </comments>
+    <copyright>© 2015 Music by Elevation Worship Publishing (Admin. by Essential Music Publishing LLC)</copyright>
+    <ccliNo>7051507</ccliNo>
+    <authors>
+      <author>Chris Brown</author>
+      <author>Mack Brock</author>
+      <author>Matthew Ntlele</author>
+      <author>Steven Furtick</author>
+      <author>Wade Joye</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The head that once was crowned with thorns<br/>Is crowned with glory now<br/>The Savior knelt to wash our feet<br/>Now at his feet we bow</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The one who wore our sin and shame<br/>Now robed in majesty<br/>The radiance of perfect love<br/>Now shines for all to see</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Your name<br/>Your name<br/>Is victory</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>All praise<br/>Will rise<br/>To Christ our king</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The fear that held us now gives way<br/>To him who is our peace<br/>His final breath upon the cross<br/>Is now alive in me</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>By your spirit I will rise<br/>From the ashes of defeat<br/>The resurrected king<br/>Is resurrecting me</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>In your name I come alive<br/>To declare your victory<br/>The resurrected king<br/>Is resurrecting me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The tomb where soldiers watched in vain<br/>Was borrowed for three days<br/>His body there would not remain<br/>Our God has robbed the grave<br/>Our God has robbed the grave</lines>
+    </verse>
+  </lyrics>
+</song>

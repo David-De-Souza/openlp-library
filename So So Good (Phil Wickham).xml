@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-05-30T00:51:13">
+  <properties>
+    <titles>
+      <title>So So Good</title>
+    </titles>
+    <authors>
+      <author>Phil Wickham</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>This is my story, I testify<br/>The blessings on blessings You poured on my life<br/>When I start remembering how good You've been</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Fear turns to worship, tears turn to praise<br/>Chains of depression broken by grace<br/>When I start remembering how good You've been</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Yeah, You've been so, so, so, so, so, so good to me<br/>You've been so, so, so, so, so, so good to me</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>The enemy's weapons fall to the ground<br/>Armies of heaven always surround<br/>When I start remembering</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>How You carried my cross, callеd me by name<br/>Loved mе like I was, but You didn't leave me that way<br/>Was dead, now I live, yeah, that's what You did</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>Yeah, You've been so, so, so, so, so, so good to me<br/>You've been so, so, so, so, so, so good to me<br/>From morning to night, the lows and the highs</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>I look back on my life and all that I see<br/>Oh, You've been so, so, so, so, so, so good to me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>When I say "God is good," you say "All the time"<br/>When I say "All the time," you say "God is good"</lines>
+    </verse>
+    <verse name="c3a">
+      <lines>So, so, so, so, so, so good to me<br/>Yeah, You've been so, so, so, so, so, so good to me<br/>From morning to night, the lows and the highs<br/>I look back on my life and all that I see</lines>
+    </verse>
+    <verse name="c3b">
+      <lines>From morning to night, the lows and the highs<br/>I look back on my life and all that I see<br/>Yeah, You've been so, so, so, so, so, so good to me</lines>
+    </verse>
+  </lyrics>
+</song>

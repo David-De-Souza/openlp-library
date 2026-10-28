@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Come Home Running</title>
+    </titles>
+    <copyright>© 2002 sixsteps Music (Admin. by CopyCare Asia Ltd (Singapore Branch))/worshiptogether.com songs (Admin. by CopyCare Asia Ltd (Singapore Branch))</copyright>
+    <verseOrder>v1 v2 c1 v3</verseOrder>
+    <ccliNo>4274621</ccliNo>
+    <authors>
+      <author>Chris Tomlin</author>
+      <author>Jesse Reeves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh heart of mine<br/>Why must you stray<br/>From One so fair<br/>You run away<br/>And one more time<br/>You have to pay the heaviness<br/>Of needless shame</lines>
+    </verse>
+    <verse name="c1">
+      <lines>So come home running<br/>His arms are open wide<br/>His name is Jesus<br/>And He understands<br/>He is the answer<br/>You are looking for<br/>So come home running<br/>Just as you are</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh heart of mine<br/>Come back home<br/>You've been too long<br/>Out on your own<br/>And He's been there all along<br/>Watching for you down the road</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh child of God<br/>So dearly loved<br/>And ransomed by<br/>The Savior's blood<br/>And called by name daughter and son<br/>Wrapped in the robe of righteousness</lines>
+    </verse>
+  </lyrics>
+</song>

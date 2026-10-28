@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:13">
+  <properties>
+    <titles>
+      <title>[Mass parts] Introductory Rites</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Priest:   <br/>In the name of the Father, the Son, and the Holy Spirit</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All: Amen</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Priest: <br/>The grace of our Lord Jesus Christ,<br/>and the love of God,<br/>and the communion of the Holy Spirit be with you all</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Priest:<br/>The Lord be with you</lines>
+    </verse>
+    <verse name="c2">
+      <lines>All:<br/>and with your spirit</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>I confess to Almighty God,<br/>and to you, my brothers and sisters,<br/>that I have greatly sinned,<br/>in my thoughts and in my words,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>in what I have done<br/>and in what I have failed to do,<br/>(And, striking their breast, they say:)<br/>through my fault, through my fault,<br/>through my most grievous fault;</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>therefore I ask Blessed Mary, ever-Virgin,<br/>all the Angels and Saints,<br/>and you, my brothers and sisters,<br/>to pray for me to the Lord our God.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Lord, have mercy<br/>Lord, have mercy</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Christ, have mercy<br/>Christ, have mercy</lines>
+    </verse>
+    <verse name="v4c">
+      <lines>Lord, have mercy<br/>Lord, have mercy</lines>
+    </verse>
+    <verse name="v4d">
+      <lines>Kyrie, eleison<br/>Kyrie, eleison</lines>
+    </verse>
+    <verse name="v4e">
+      <lines>Christe, eleison<br/>Christe, eleison</lines>
+    </verse>
+    <verse name="v4f">
+      <lines>Kyrie, eleison<br/>Kyrie, eleison</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Glory to God in the highest, <br/>and on earth peace to people of good will.</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>We praise You, we bless You<br/>we adore You, we glorify you.<br/>We give you thanks for your great glory.</lines>
+    </verse>
+    <verse name="v5c">
+      <lines>Lord God, heavenly King, O God, almighty Father. <br/>Lord Jesus Christ, only begotten Son.<br/>Lord God, Lamb of God, Son of the Father.</lines>
+    </verse>
+    <verse name="v5d">
+      <lines>You take away the sins of the world:  <br/>have mercy on us;<br/>You take away the sins of the world:<br/>receive our prayer;</lines>
+    </verse>
+    <verse name="v5e">
+      <lines>You are seated at the right hand of the Father:  <br/>have mercy on us.</lines>
+    </verse>
+    <verse name="v5f">
+      <lines>For you alone are the Holy One,  <br/>you alone are the Lord,<br/>You alone are the Most High,<br/>Jesus Christ,</lines>
+    </verse>
+    <verse name="v5g">
+      <lines>with the Holy Spirit,  <br/>in the glory of God the Father.  Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

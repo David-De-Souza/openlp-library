@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Spirit Song</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>O let the Son of God enfold You<br/>With His Spirit and His love</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Let Him fill your heart<br/>And satisfy your soul</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>O let Him have the things that<br/>Hold You</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>And His Spirit like a dove<br/>Will descend upon your life<br/>And make you whole</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus, O Jesus<br/>Come and fill Your Lambs (x2)</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>O come and sing this song with gladness</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>As your hearts are filled with joy<br/>Lift your hands in sweet surrender<br/>To His name</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>O give Him all your tears and sadness<br/>Give Him all your years of pain</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>And you'll enter into life<br/>In Jesus' name</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>From Whom All Blessings Flow</title>
+    </titles>
+    <authors>
+      <author>Hillsong Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What gift of love could I offer to a King<br/>What weight or worth could be held within my offering<br/>When He alone is worthy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A glory song is inscribed upon my heart<br/>This treasure held in an alabaster jar I break<br/>To bring Him all the glory</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Praise God from whom all blessings flow<br/>Praise Him all creatures here below</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What sacrifice could be equal to His own<br/>The cross of Christ has declared that there is nought I owe<br/>Yet I know I owe Him all</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Praise God from whom all blessings flow<br/>Praise Him all creatures here below<br/>Praise God from whom all blessings flow</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Our Father God the Infinite<br/>The matchless King magnificent<br/>The living Christ the servant Son<br/>The prophesied the saving One</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>The Holy Ghost gift from above<br/>The faithful Friend the Seal of love<br/>This life this heart this song to Him<br/>My all in all my everything</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Praise God from whom all blessings flow<br/>Praise Him all creatures here below<br/>Praise Him above ye heavenly hosts<br/>Praise Father Son and Holy Ghost</lines>
+    </verse>
+  </lyrics>
+</song>

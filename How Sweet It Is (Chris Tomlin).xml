@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>How Sweet It Is</title>
+    </titles>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All the stories ever told<br/>All the songs the world could hold<br/>Not a single one comes close<br/>To tell You what's inside my soul</lines>
+    </verse>
+    <verse name="c1">
+      <lines>How sweet it is, how sweet it is<br/>How sweet it is to be loved by Jesus<br/>How sweet it is, how sweet it is<br/>How sweet it is to be loved by You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The measure of Your love so deep<br/>Could fill the tide of every sea<br/>Nothing else in history<br/>Compares to what You've done for me</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>By You (by You, Lord)<br/>By You, Lord (only You, Lord)<br/>How sweet it is (oh)<br/>How sweet it is (I've tasted and seen)</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>I'm loved by You (the goodness of Your love, Lord)<br/>By You, Lord (the goodness of Your love)<br/>How sweet it is (how sweet it is)<br/>How sweet it is</lines>
+    </verse>
+  </lyrics>
+</song>

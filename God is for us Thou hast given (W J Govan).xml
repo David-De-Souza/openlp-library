@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>God is for us Thou hast given</title>
+    </titles>
+    <authors>
+      <author>W J Govan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God is for us! Thou hast given,<br/>in Thy love, the gift unpriced,<br/>Thine own Son, Thy well-beloved,<br/>Thou hast given us the Christ!<br/>We are for Thee, at Thy service,<br/>yielding all that Thou dost claim,<br/>heeding not the worldling's scorning,<br/>jealous only for Thy name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thou art with us, Thou almighty,<br/>through the darkness, through the strife,<br/>binding up the broken-hearted,<br/>crowning with eternal life.<br/>We are with Thee in Thy warfare,<br/>heart and sword be all Thine own:<br/>we are with Thee in Thy triumph,<br/>joy that earth has never known!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thou art in us, in Thy temple,<br/>so our hearts in silence thrill<br/>while we wait to hear the whisper<br/>of the blessed Master's will.<br/>We are in Thee, in the Holiest,<br/>here our prayers and praise ascend;<br/>in Thy secret place abiding,<br/>till the battle din shall end.</lines>
+    </verse>
+  </lyrics>
+</song>

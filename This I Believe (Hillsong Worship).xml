@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>This I Believe</title>
+    </titles>
+    <authors>
+      <author>Hillsong Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Our Father everlasting<br/>The all creating One<br/>God almighty</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Through Your Holy Spirit<br/>Conceiving Christ the Son<br/>Jesus our Saviour</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>I believe in God our Father<br/>I believe in Christ the Son<br/>I believe in the Holy Spirit<br/>Our God is three in one</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>I believe in the resurrection<br/>That we will rise again<br/>For I believe in the name of Jesus</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Our Judge and our Defender<br/>Suffered and crucified<br/>Forgiveness is in You</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Descended into darkness<br/>You rose in glorious life<br/>Forever seated high</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I believe in You<br/>I believe You rose again<br/>I believe that Jesus Christ is Lord</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>I believe in life eternal<br/>I believe in the virgin birth<br/>I believe in the saints' communion<br/>And in Your holy church</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>I believe in the resurrection<br/>When Jesus comes again<br/>For I believe in the name of Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:13">
+  <properties>
+    <titles>
+      <title>Mercy</title>
+    </titles>
+    <authors>
+      <author>Casting Crown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Here I am a sinner<br/>Broken and in need of You<br/>Take my life and wash my fears away</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>For You are the Great I Am<br/>Rest assured, into Your hands<br/>Holding me until the darkness clears</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Father to the fatherless<br/>Redeemer of my soul<br/>My Life is Yours forever<br/>My heart will always know</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Your mercy saved me<br/>Your mercy made me whole<br/>Your mercy found me<br/>Called me as Your own</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Here I stand a child of Yours<br/>Broken and in need of You<br/>Break these chains and wash my guilt away</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Healer of my brokenness<br/>My weary soul will find its rest<br/>You are my strength, the lifter of my head</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>You're greater than my yesterdays<br/>You hold me close today<br/>You're the Lord of my tomorrows<br/>My heart will always say</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>You're greater than my yesterdays<br/>You hold me close today<br/>You're the Lord of my tomorrows<br/>My heart will always say</lines>
+    </verse>
+  </lyrics>
+</song>

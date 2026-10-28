@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Banana Song</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I love bananas<br/>I know that mangoes are sweet</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I love papayas (woah!)<br/>I know that nothing can beat<br/>The sweet sweet love of God</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>They are new every morning<br/>New every morning</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Great is thy faithfulness, O Lord<br/>Great is thy faithfulness</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The steadfast love of the Lord never ceases<br/>His mercies never come to an end</lines>
+    </verse>
+  </lyrics>
+</song>

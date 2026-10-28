@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>The Well</title>
+    </titles>
+    <authors>
+      <author>Casting Crowns</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Leave it all behind,<br/>Leave it all behind</lines>
+    </verse>
+    <verse name="v1">
+      <lines>I have what you need,<br/>But you keep on searchin',<br/>I've done all the work,<br/>But you keep on workin',<br/>When you're runnin' on empty,<br/>And you can't find the remedy,<br/>Just come to the well.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You can spend your whole life,<br/>Chasin' what's missing,<br/>But that empty inside,<br/>It just ain't gonna listen.<br/>When nothing can satisfy,<br/>And the world leaves you high and dry,<br/>Just come to the well</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And all who thirst will thirst no more,<br/>And all who search will find what their souls long for,<br/>The world will try, but it can never fill,<br/>So leave it all behind, and come to the well</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So bring me your heart<br/>No matter how broken,<br/>Just come as you are,<br/>When your last prayer is spoken,<br/>Just rest in my arms a while,<br/>You'll feel the change my child,<br/>When you come to the well</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And now that you're full,<br/>Of love beyond measure,<br/>Your joy's gonna flow,<br/>Like a stream in the desert,<br/>Soon all the world will see that living water is found in me,<br/>'Cause you came to the well</lines>
+    </verse>
+  </lyrics>
+</song>

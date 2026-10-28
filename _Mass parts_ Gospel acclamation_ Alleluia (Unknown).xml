@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:13">
+  <properties>
+    <titles>
+      <title>[Mass parts] Gospel acclamation: Alleluia</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Alleluia, alleluia, alleluia</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Because of your love give me life,<br/>and I will do your will.</lines>
+    </verse>
+  </lyrics>
+</song>

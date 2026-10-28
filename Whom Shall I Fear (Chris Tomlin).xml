@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>Whom Shall I Fear</title>
+    </titles>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You hear me when I call,<br/>You are my morning song<br/>Though darkness fills the night,<br/>It cannot hide the light<br/>Whom shall I fear</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You crush the enemy underneath my feet<br/>You are my sword and shield<br/>Though troubles linger still<br/>Whom shall I fear</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>I know who goes before me<br/>I know who stands behind<br/>The God of angel armies is always by my side</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>The One who reigns forever<br/>He is a friend of mine<br/>The God of angel armies is always by my side</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My strength is in Your name<br/>For You alone can save<br/>You will deliver me,<br/>Yours is the victory<br/>Whom shall I fear, whom shall I fear</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Nothing formed against me shall stand<br/>You hold the whole world in Your hands<br/>I'm holding on to Your promises<br/>You are faithful, You are faithful</lines>
+    </verse>
+  </lyrics>
+</song>

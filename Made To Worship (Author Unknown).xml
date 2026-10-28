@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:13">
+  <properties>
+    <titles>
+      <title>Made To Worship</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Before the day, before the light, before the world revolved around the sun</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>God on High, stepped down into time and wrote the story of His Love for everyone</lines>
+    </verse>
+    <verse name="p1">
+      <lines>He has filled our hearts with wonder<br/>So that we always remember</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>You and I are made to worship<br/>You and I are called to love</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>You and I are forgiven and free</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>When you and I embrace surrender<br/>When you and I choose to believe</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>Then you and I will see<br/>Who we were meant to be</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>All we are and all we have, is all a gift from God that we receive</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Brought to life, we open up our eyes, to see the majesty and glory of the King</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Even the rocks cry out<br/>Even the heavens shout</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>At the sound of His Holy Name<br/>So let every voice sing out</lines>
+    </verse>
+    <verse name="b1c">
+      <lines>And let every knee bow down<br/>He is worthy of all our praise</lines>
+    </verse>
+  </lyrics>
+</song>

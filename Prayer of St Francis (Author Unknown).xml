@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Prayer of St Francis</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Make me a channel of Your peace<br/>Where there is hatred let me bring Your love</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Where there is injury Your pardon Lord<br/>Where there's doubt, true faith in You</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Make me a channel of Your peace<br/>Where there's despair in life, let me bring hope</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Where there is darkness, only light<br/>And where there's sadness, ever joy</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Oh, Master grant that I may never seek<br/>So much to be consoled as to console</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>To be understood as to understand<br/>To be loved as to love with all my soul</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Make me a channel of Your peace<br/>It is in pardoning that we are pardoned</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>In giving to all men, that we receive<br/>And in dying that we're born to eternal life</lines>
+    </verse>
+  </lyrics>
+</song>

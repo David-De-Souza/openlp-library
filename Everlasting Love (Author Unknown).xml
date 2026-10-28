@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Everlasting Love</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Everlasting love how can it be?<br/>Suffered, tortured and cried<br/>in pain for me?<br/>Nailed hands and nailed feet as I weep<br/>Droplets of your love, covers me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I can't believe,<br/>that you still call me your child<br/>And I can't understand,<br/>how such eternal love is true<br/>Nailed to the cross,<br/>laid your live for me<br/>How can one like me deserve such love?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Everlasting love how can it be<br/>Suffered tortured, cried in pain for me?<br/>Crown of thorns scar your<br/>eyes and brows you cant see<br/>Gasping lungs fight for air,<br/>you just cant breathe</lines>
+    </verse>
+  </lyrics>
+</song>

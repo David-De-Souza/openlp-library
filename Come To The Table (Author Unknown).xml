@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Come To The Table</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come to the table of mercy<br/>Prepared with the wine and the bread</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All who are hungry and thristy<br/>Come and yous souls will be fed</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come at the Lord's invitation<br/>Receive from His nail-scarred hand</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Eat of the bread of salvation<br/>Drink of the blood of the Lamb</lines>
+    </verse>
+  </lyrics>
+</song>

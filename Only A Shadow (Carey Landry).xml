@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Only A Shadow</title>
+    </titles>
+    <authors>
+      <author>Carey Landry</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The love we have for you, O Lord,<br/>Is only a shadow of your love for us<br/>Only a shadow of your love for us,<br/>Your deep abiding love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The bread we take and eat, O Lord,<br/>Is your body broken and shared with us;<br/>Your body broken and shared with us,<br/>The gift of your great love.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Our lives are in your hands,<br/>Our lives are in your hands;<br/>Our love for you will grow, O Lord;<br/>Your light in us will shine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Our own belief in you, O Lord,<br/>Is only a shadow of your faith in us,<br/>Only a shadow of your faith in us;<br/>Your deep and lasting faith.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The dreams we share today, O Lord,<br/>Are only a shadow of your dreams for us;<br/>Only a shadow of your dreams for us;<br/>If we but follow you.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The joy we share today, O Lord,<br/>Is only a shadow of your joys for us;<br/>Only a shadow of your joys for us;<br/>When we meet face to face.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:13">
+  <properties>
+    <titles>
+      <title>Loving Us Like No Other</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Loving us like no other<br/>Hear our prayer<br/>The cry of our hearts<br/>As we come to You</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>We acknowledge our transgressions<br/>We confess to You our sins<br/>Show us mercy and compassion<br/>Touch our lives<br/>With Your healing grace again.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Release us from our past<br/>As we seek Your face<br/>Wash us free as last<br/>We receive Your love</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>We receive Your healing grace<br/>We receive Your love<br/>We receive Your healing grace<br/>Touch our lives<br/>With Your healing grace again<br/>Touch our lives<br/>With Your healing grace again</lines>
+    </verse>
+  </lyrics>
+</song>

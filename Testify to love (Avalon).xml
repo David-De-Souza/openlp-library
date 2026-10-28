@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Testify to love</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Avalon</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>All the colours of the rainbow,<br/>All the voices of the wind;<br/>Every dream that reaches out,<br/>That reaches out to find where love begins</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Every word of every story,<br/>Every star in every sky,<br/>Every corner of creation lives to testify</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>For as long as I shall live,<br/>I will testify to love.<br/>I'll be a witness in the silences<br/>When words are not enough.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>With every breath I take, <br/>I will give thanks to God above.<br/>For as long as I shall live,<br/>I will testify to love.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>From the mountains to the valleys,<br/>From the rivers to the sea;<br/>Every hand that reaches out,<br/>Every hand that reaches out to offer peace</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Every simple act of mercy,<br/>Every step to kingdom come;<br/>All the hope in every heart will speak what love has done.</lines>
+    </verse>
+  </lyrics>
+</song>

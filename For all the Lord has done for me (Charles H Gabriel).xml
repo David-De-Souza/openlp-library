@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>For all the Lord has done for me</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Charles H Gabriel</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For all the Lord has done for me,<br/>I never will cease to praise Him;<br/>and for His grace so rich and free,<br/>I never will cease to praise Him.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I never will cease to praise Him,<br/>my Saviour, my Saviour!<br/>I never will cease to praise Him,<br/>He's done so much for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He gives me strength for every day;<br/>I never will cease to praise Him;<br/>He leads and guides me all the way.<br/>I never will cease to praise Him;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Although the world His love neglect,<br/>I never will cease to praise Him;<br/>I could not such a friend reject.<br/>I never will cease to praise Him;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He saves me every day and hour;<br/>I never will cease to praise Him;<br/>just now I feel His cleansing power.<br/>I never will cease to praise Him;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>While on my journey here below,<br/>I never will cease to praise Him.<br/>And when to that bright world I go,<br/>I never will cease to praise Him;</lines>
+    </verse>
+  </lyrics>
+</song>

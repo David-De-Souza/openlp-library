@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Saviour King</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>HIllsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>And now the weak say I have strength<br/>By the spirit of power that raised Christ from the dead</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>And now the poor stand and confess<br/>That my portion is Him and I'm more than blessed</lines>
+    </verse>
+    <verse name="p1a">
+      <lines>Let now our hearts burn with a flame<br/>A fire consuming all for your Son's holy name</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>And with the heavens we declare<br/>You are our king</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We love You Lord, we worship You<br/>You are our God, You alone are good</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Let now Your church shine as the bride<br/>That you saw in your heart as You offered up Your Life</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Let now the lost be welcomed home<br/>By the saved and redeemed, those adopted as Your own</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>We love You Lord, we worship You<br/>You are our God, You alone are good</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>You asked your Son to carry this<br/>The heavy cross, our weight of sin</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>I love you Lord, I worship you<br/>Hope which was lost, now stands renewed</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>I give my life to honor this<br/>The love of Christ, the Saviour King</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>Healer</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You hold my every moment<br/>You calm my raging seas</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You walk with me through fire<br/>And heal all my disease</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I trust in You<br/>I trust in You</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>I believe You're my Healer<br/>I believe You're all I need</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>I believe You're my Portion<br/>I believe You're more than enough for me<br/>Jesus You're all I need</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Nothing is impossible for You x3<br/>You hold my world in Your hands</lines>
+    </verse>
+  </lyrics>
+</song>

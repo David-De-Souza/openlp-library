@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>To Live Is Christ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I make a vow</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>My life will always honour Christ<br/>Whether I live or die</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>I belong to Him<br/>He bore my sin<br/>I owe this life to my saving King</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Hallelujah, I am not my own<br/>You are in control, Hallelujah</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>For me to live is Christ<br/>And to die is gain</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>No matter what price I pay<br/>I choose to give this life away</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Only by the cross I am saved</lines>
+    </verse>
+  </lyrics>
+</song>

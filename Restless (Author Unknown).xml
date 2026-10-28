@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Restless</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You dwell in the songs that we are singing<br/>Rising to the Heavens<br/>Rising to your heart</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Our praises filling up the spaces<br/>In between our frailty and everything You are</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>You are the keeper of my heart<br/>You are the keeper of my heart</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>And I'm restless<br/>I'm restless</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>'Til I rest in You<br/>'Til I rest in You</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>And I'm restless<br/>I'm restless</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>'Til I rest in You<br/>'Til I rest in You<br/>Oh God</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Oh speak now for my soul is listening<br/>Say that you have saved me<br/>Whisper in the dark, the dark</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Cause I know that you're more than my salvation<br/>Without You I am hopeless<br/>Tell me who you are</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>You are the keeper of my heart<br/>You're the keeper of my heart</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Still my heart<br/>Hold me close<br/>Let me hear a still small voice</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Let it grow<br/>Let is rise<br/>Into a shout<br/>Into a cry</lines>
+    </verse>
+  </lyrics>
+</song>

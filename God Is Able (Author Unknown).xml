@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>God Is Able</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>God is able<br/>He will never fail<br/>He is almighty God</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Greater than all we seek<br/>Greater than all we ask<br/>He has done great things</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Lifted up, He defeated the grave<br/>Raised to life, our God is able</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>In His name, we overcome<br/>For the Lord, our God is able</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>God is with us<br/>God is on our side<br/>He will make a way</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Far above all we know<br/>Far above all we hope<br/>He has done great things</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>God is with us<br/>He will go before</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>He will never leave us<br/>He will never leave us</lines>
+    </verse>
+    <verse name="b1c">
+      <lines>God is for us<br/>He has open arms</lines>
+    </verse>
+    <verse name="b1d">
+      <lines>He will never fail us<br/>He will never fail us</lines>
+    </verse>
+  </lyrics>
+</song>

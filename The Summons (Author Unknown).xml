@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>The Summons</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Will you come and follow me if I but call your name?</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Will you go where you don't know and never be the same?</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Will you let my love be shown?<br/>Will you let my name be known?</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Will you let my life be grown in you and you in me?</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Will you leave yourself behind if I but call your name?</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Will you care for cruel and kind and never be the same?</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Will you risk the hostile stare?<br/>Should your life attract or scare?</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>Will you let me answer prayer in you and you in me?</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Will you let the blinded see if I but call your name?</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Will you set the prisoners free and never be the same?</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>Will you kiss the leper clean<br/>And do such as this unseen?</lines>
+    </verse>
+    <verse name="v3d">
+      <lines>And admit to what I mean in you and you in me?</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Will you love the "you" you hide if I but call your name?</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Will you quell the fear inside and never be the same?</lines>
+    </verse>
+    <verse name="v4c">
+      <lines>Will you use the faith you've found<br/>To reshape the world around?</lines>
+    </verse>
+    <verse name="v4d">
+      <lines>Through my sight and touch and sound in you and you in me?</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Lord your summons echoes true when you but call my name</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Let me turn and follow you and never be the same</lines>
+    </verse>
+    <verse name="v5c">
+      <lines>In Your company I'll go<br/>Where Your love and footsteps show</lines>
+    </verse>
+    <verse name="v5d">
+      <lines>Thus I'll move and live and grow in you and you in me.</lines>
+    </verse>
+  </lyrics>
+</song>

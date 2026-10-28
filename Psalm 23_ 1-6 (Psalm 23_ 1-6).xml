@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Psalm 23: 1-6</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Psalm 23: 1-6</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>R: Such are the men who seek your face, O Lord.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>The Lord’s is the earth and its fullness,<br/>the world and all its peoples.<br/>It is he who set it on the seas;<br/>on the waters he made it firm.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who shall climb the mountain of the Lord?<br/>Who shall stand in his holy place?<br/>The man with clean hands and pure heart,<br/>who desires not worthless things.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He shall receive blessings from the Lord<br/>and reward from the God who saves him.<br/>Such are the men who seek him,<br/>seek the face of the God of Jacob.</lines>
+    </verse>
+  </lyrics>
+</song>

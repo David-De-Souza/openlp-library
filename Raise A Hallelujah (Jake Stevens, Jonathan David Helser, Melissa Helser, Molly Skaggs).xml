@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Raise A Hallelujah</title>
+    </titles>
+    <authors>
+      <author>Jonathan David Helser</author>
+      <author>Melissa Helser</author>
+      <author>Molly Skaggs</author>
+      <author>Jake Stevens</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I raise a hallelujah<br/>In the presence of my enemies<br/>I raise a hallelujah<br/>Louder than the unbelief</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I raise a hallelujah<br/>My weapon is a melody<br/>I raise a hallelujah<br/>Heaven comes to fight for me</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>I'm gonna sing<br/>In the middle of the storm<br/>Louder and louder<br/>You're gonna hear my praises roar</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Up from the ashes<br/>Hope will arise<br/>Death is defeated<br/>The King is alive!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I raise a hallelujah<br/>With everything inside of me<br/>I raise a hallelujah<br/>I will watch the darkness flee</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>I raise a hallelujah<br/>In the middle of the mystery<br/>I raise a hallelujah<br/>Fear you lost your hold on me!</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Sing a little louder<br/>(In the presence of my enemies)<br/>Sing a little louder<br/>(Louder than the unbelief)</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Sing a little louder<br/>(My weapon is a melody)<br/>Sing a little louder<br/>(Heaven comes to fight for me)</lines>
+    </verse>
+  </lyrics>
+</song>

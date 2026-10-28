@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>Unless a Grain of Wheat</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Unless a grain of wheat shall fall<br/>Upon the ground and die</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>It remains but a single grain<br/>With no life</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>If we have died with Him,<br/>then we shall live with Him</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>If we hold firm,<br/>we shall reign with Him</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>If anyone serves me,<br/>then they must follow me</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Wherever I am,<br/>my servants will be</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Make your home in Me,<br/>as I make Mine in you</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Those who remain in Me<br/>Bear much fruit</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>If you remain in me<br/>and My word lives in you</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>then you will be My disciples</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Those who love Me<br/>Are loved by my father</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>We shall be with them and dwell in them</lines>
+    </verse>
+  </lyrics>
+</song>

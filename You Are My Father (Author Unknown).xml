@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>You Are My Father</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>It doesn't matter where I run<br/>You're there for me</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>It doesn't matter what I've done<br/>Your love's for me</lines>
+    </verse>
+    <verse name="p1a">
+      <lines>You wipe away the tears<br/>You lift me when I fall</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>My life is safe by the mercy of Your grace</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>It doesn't matter where I go<br/>You walk with me</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>It doesn't matter when I fall<br/>You cover me</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>You are my Father, Provider<br/>You're my Deliverer</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Your mercies embrace me, surround me<br/>Through Your everlasting love</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Father I worship You<br/>Father I worship You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And Your love is for me X2<br/>And Your love is forever</lines>
+    </verse>
+  </lyrics>
+</song>

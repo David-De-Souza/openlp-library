@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>The Wonder Of Your Love</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You inhabit the praises of Your people<br/>You delight in the glory of Your Son<br/>In the love of the Father we will worship<br/>In the Kingdom of God we find our home</lines>
+    </verse>
+    <verse name="p1">
+      <lines>The wonder of Your love<br/>Will break the chains that bind us<br/>The power of Your touch<br/>Releases us to worship</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sing out to God, sing hallelujah<br/>With all we are we will worship You<br/>Holy is Your name<br/>Holy is Your name oh God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And together we'll lift the name of Jesus<br/>And together we'll sing of Your great love<br/>We will join with the angels and praise You<br/>May our voices be pleasing to You God</lines>
+    </verse>
+  </lyrics>
+</song>

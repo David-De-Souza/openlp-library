@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:13">
+  <properties>
+    <titles>
+      <title>[Mass Parts] Liturgy of the Eucharist (Offertory, Preface, Eucharistic prayer)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Priest: Pray, brethren, that my sacrifice and yours<br/>may be acceptable to God, the almighty Father.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All: May the Lord accept the sacrifice at your hands,<br/>for the praise and glory of his name,<br/>for our good, and the good of all his holy Church.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Priest: The Lord be with you.<br/>All: And with your spirit</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Priest: Lift up your hearts.<br/>All: We lift them up to the Lord.</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Priest: Let us give thanks to the Lord, our God.<br/>All: It is right and just</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>Holy, holy, holy<br/>Lord God of hosts</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>Heaven and earth are full of your glory<br/>Hosanna in the highest</lines>
+    </verse>
+    <verse name="c2c">
+      <lines>Blessed is He who comes<br/>in the name of the Lord<br/>Hosanna in the highest</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Priest:<br/>The mystery of faith</lines>
+    </verse>
+    <verse name="c3a">
+      <lines>All: <br/>We proclaim your death O Lord<br/>and profess your resurrection until You come again</lines>
+    </verse>
+    <verse name="c3b">
+      <lines>All:<br/>When we eat this Bread and drink this Cup<br/>we proclaim Your death, O Lord,<br/>until You come again</lines>
+    </verse>
+    <verse name="c3c">
+      <lines>All:<br/>Save us, Saviour of the world,<br/>for by Your cross and Resurrection<br/>You have set us free</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Priest:<br/>Through Him, and with Him, and in Him,<br/>O God, almighty Father,<br/>in the unity of the Holy Spirit,<br/>all glory and honour is Yours,<br/>for ever and ever</lines>
+    </verse>
+    <verse name="c4">
+      <lines>All: Amen</lines>
+    </verse>
+  </lyrics>
+</song>

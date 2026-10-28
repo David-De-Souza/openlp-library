@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Closer</title>
+    </titles>
+    <authors>
+      <author>Maverick City</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Like the rushing wind<br/>Would You breathe within my heart, heart?<br/>And through the raging storm<br/>Would You hold me in Your arms, arms?</lines>
+    </verse>
+    <verse name="p1">
+      <lines>'Cause I need You<br/>How I need You</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>I need Your love like I need water<br/>I need Your love like I need breath inside of my lungs<br/>Burn in my heart just like a fire</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Come and take me over<br/>Jesus, draw me closer to Your heart<br/>To Your heart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And through the wind and rain<br/>I can hear You call my name, name<br/>And when the nights get rough<br/>I will still sing out Your praise</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Closer than my every breath<br/>Closer than my every step<br/>Closer than the song I sing<br/>Closer than anything</lines>
+    </verse>
+    <verse name="e1a">
+      <lines>Pull me a little closer<br/>Take me a little deeper<br/>I want to know Your heart<br/>I want to know Your heart</lines>
+    </verse>
+    <verse name="e1b">
+      <lines>`Cause Your love is so much sweeter<br/>Than anything I've tasted<br/>I want to know Your heart<br/>I want to know Your heart</lines>
+    </verse>
+  </lyrics>
+</song>

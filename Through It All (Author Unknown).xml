@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>Through It All</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You are forever in my life<br/>You see me through the seasons</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Cover me with Your hand<br/>And lead me in Your righteousness</lines>
+    </verse>
+    <verse name="p1">
+      <lines>And I look to You<br/>And I wait on You</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>I'll sing to You Lord<br/>A hymn of Love<br/>For Your faithfulness to me</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>I'm carried in everlasting arms<br/>You'll never let me go<br/>Through it all</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Hallelujah Hallelujah</lines>
+    </verse>
+  </lyrics>
+</song>

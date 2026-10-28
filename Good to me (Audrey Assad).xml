@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Good to me</title>
+    </titles>
+    <authors>
+      <author>Audrey Assad</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I put all my hope<br/>On the truth of Your promise<br/>And I steady my heart<br/>On the ground of Your goodness<br/></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>When I'm bowed down with sorrow<br/>I will lift up Your name<br/>And the foxes in the vineyard<br/>Will not steal my joy</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Because You are good to me, good to me<br/>You are good to me, good to me<br/>You are good to me</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>And I lift my eyes<br/>To the hills where my help is found<br/>Your voice fills the night<br/>Raise my head up and hear the sound<br/></lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Though fires burn all around me<br/>I will praise You, my God<br/>And the foxes in the vineyard<br/>Will not steal my joy</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Your goodness and mercy shall follow me<br/>All my life<br/>I'll trust in Your promise</lines>
+    </verse>
+  </lyrics>
+</song>

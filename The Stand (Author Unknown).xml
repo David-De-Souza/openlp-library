@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>The Stand</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You stood before creation<br/>Eternity in Your hand</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You spoke the earth into motion<br/>My soul now to stand</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>You stood before my failure<br/>Carried the Cross for my shame</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>My sin weighed upon Your shoulders<br/>My soul now to stand</lines>
+    </verse>
+    <verse name="p1a">
+      <lines>So what can I say<br/>What can I do</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>But offer this heart O God<br/>Completely to You</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>So I'll walk upon salvation<br/>Your Spirit alive in me</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>This life to declare Your promise<br/>My soul now to stand</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>So I'll stand<br/>With arms high and heart abandoned</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>In awe of the One who gave it all</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>So I'll stand<br/>My soul Lord to You surrendered</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>All I am is Yours</lines>
+    </verse>
+  </lyrics>
+</song>

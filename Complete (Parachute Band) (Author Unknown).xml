@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Complete (Parachute Band)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Here I am, Oh God<br/>I bring this sacrifice<br/>My open heart<br/>I offer up my life</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I look to You, Lord<br/>Your love that never ends<br/>Restores me again</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>So I lift my eyes to You Lord<br/>In Your strength will I break through Lord</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Touch me now<br/>Let Your love fall down on me<br/>I know Your love dispels all my fears</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>Through the storm I will hold on Lord<br/>And by faith I will walk on, Lord</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>Then I'll see<br/>Beyond my Calvary one day<br/>And I will be complete in You</lines>
+    </verse>
+  </lyrics>
+</song>

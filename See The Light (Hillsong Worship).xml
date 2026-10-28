@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>See The Light</title>
+    </titles>
+    <authors>
+      <author>Hillsong Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Arise my soul<br/>Remember this<br/>He took my sin<br/>And He buried it</lines>
+    </verse>
+    <verse name="c1">
+      <lines>No longer I who live<br/>Now Jesus lives in me<br/>For I was dead in sin<br/>But I woke up to see the light</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>No I won't boast<br/>But in the cross<br/>That saved my soul<br/>All else is loss</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>The grip of fear<br/>Has no hold on me<br/>So where o death<br/>Where is your sting?</lines>
+    </verse>
+    <verse name="b1">
+      <lines>All, all of this for your glory<br/>All, all of this for your glory</lines>
+    </verse>
+  </lyrics>
+</song>

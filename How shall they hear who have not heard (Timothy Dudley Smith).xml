@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>How shall they hear who have not heard</title>
+    </titles>
+    <copyright>Timothy Dudley Smith</copyright>
+    <authors>
+      <author>Timothy Dudley Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="MP250"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How shall they hear, who have not heard<br/>news of a Lord who loved and came?<br/>nor known His reconciling word,<br/>nor learned to trust the Saviour's name?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To all the world, to every place,<br/>neighbours and friends and far-off lands,<br/>preach the good news of saving grace;<br/>go while the great commission stands.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>"Whom shall I send?" Who hears the<br/>call,<br/>constant in prayer, through toil and pain,<br/>telling of one who died for all,<br/>to bring a lost world home again?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>"Lord, here am I," Your fire impart<br/>to this poor cold self-centred soul;<br/>touch but my lips, my hands, my heart,<br/>and make a world for Christ my goal.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Spirit of love, within us move:<br/>Spirit of truth, in power come down!<br/>So shall they hear and find and prove<br/>Christ is their life, their joy, their crown.</lines>
+    </verse>
+  </lyrics>
+</song>

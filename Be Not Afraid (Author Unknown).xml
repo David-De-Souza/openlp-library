@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Be Not Afraid</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You shall cross the barren desert<br/>But you shall not die of thirst</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You shall wander far in safety<br/>Though you do not know the way</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>You shall speak your words in foreign lands and all will understand</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>You shall see the face of God and live</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Be not afraid<br/>I go before you always</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Come follow me, and<br/>I will give you rest</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>If you pass through raging waters in the sea you shall not drown</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>If you walk amid the burning flames<br/>You shall not be harmed</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>If you stand before the pow'r of hell<br/>And death is at your side</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>Know that I am with you through it all</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Blessed are your poor<br/>For the kingdom shall be theirs</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Blest are you that weep and mourn<br/>For one day you shall laugh</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>And if wicked men insult and hate you all because of me<br/>Blessed, blessed are you!</lines>
+    </verse>
+  </lyrics>
+</song>

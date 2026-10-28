@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>We Remember</title>
+    </titles>
+    <authors>
+      <author>Marty Haugen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>We remember how you loved us to your death,<br/>and still we celebrate, for you are with us here;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>and we believe that we will see you when you come in your glory, Lord.<br/>We remember, we celebrate, we believe.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Here, a million wounded souls are yearning just to touch you and be healed.<br/>Gather all your people, and hold them to your heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now we recreate your love, we bring the bread and wine to share a meal.<br/>Sign of grace and mercy, the presence of the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Christ, the Father's great "Amen" to all the hopes and dreams of ev'ry heart,<br/>Peace beyond all telling, and freedom from all fear.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>See the face of Christ revealed in ev'ry person standing by your side,<br/>Gift to one another, and temples of your love.</lines>
+    </verse>
+  </lyrics>
+</song>

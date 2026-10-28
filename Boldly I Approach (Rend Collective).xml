@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Boldly I Approach</title>
+    </titles>
+    <copyright>© 2014 Thankyou Music (Admin. by CopyCare Asia Ltd (Singapore Branch))</copyright>
+    <verseOrder>v1 v2 c1 v3 b1</verseOrder>
+    <ccliNo>7014655</ccliNo>
+    <authors>
+      <author>Rend Collective</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>By grace alone somehow I stand<br/>Where even angels fear to tread<br/>Invited by redeeming love<br/></lines>
+    </verse>
+    <verse name="v2a">
+      <lines>When condemnation grips my heart<br/>And Satan tempts me to despair<br/>I hear the voice that scatters fear<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Boldly I approach Your throne<br/>Blameless now I'm running home<br/>By Your blood I come welcomed as Your own<br/>Into the arms of majesty</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Behold the bright and risen Son<br/>More beauty than this world has known<br/>I'm face to face with Love Himself<br/></lines>
+    </verse>
+    <verse name="b1">
+      <lines>This is the art of celebration<br/>Knowing we're free from condemnation<br/>O praise the One praise the One<br/>Who made an end to all my sin</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Before the throne of God above<br/>He pulls me close with nail-scarred hands<br/>Into His everlasting arms</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>The Great I Am the Lord is here<br/>O praise the One who fights for me<br/>And shields my soul eternally</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>His perfect spotless righteousness<br/>A thousand years a thousand tongues<br/>Are not enough to sing His praise</lines>
+    </verse>
+  </lyrics>
+</song>

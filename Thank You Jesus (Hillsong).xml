@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>Thank You Jesus</title>
+    </titles>
+    <authors>
+      <author>Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Grace that flows like a river<br/>Washing over me<br/>Fount of heaven, love of Christ<br/>Overflow in me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Thank You Jesus<br/>You set me free<br/>Christ my Saviour<br/>You've rescued me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take this life delivered<br/>A vessel of Your love<br/>Wholly now devoted<br/>To see Your kingdom come</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>You've given me life<br/>You've opened my eyes<br/>I love You Lord<br/>I love You Lord</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>You've entered my heart<br/>You've set me apart<br/>I love You Lord<br/>I love You Lord</lines>
+    </verse>
+  </lyrics>
+</song>

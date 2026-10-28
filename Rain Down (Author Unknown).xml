@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Rain Down</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am falling to my knees<br/>I need You Lord to breathe in me<br/>My prayer is still the same<br/>My heart is calling out Your name</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Sweet anointing fill this place<br/>I am found in Your embrace</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Rain down on me<br/>Rain down on me<br/>Here in Your presence I am free</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Pour down like rain<br/>Come and touch me again<br/>Lord let Your presence fall on me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm longing just to see<br/>Your power and Your majesty</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Sweet anointing<br/>Wash me over</lines>
+    </verse>
+  </lyrics>
+</song>

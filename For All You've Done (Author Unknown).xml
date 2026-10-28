@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>For All You've Done</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For all You've done, for all You're going to do,<br/>We give You thanks and we lift our praise to You</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>We give thanks<br/>We give praise<br/>For we know that all things work together for our good</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>We give thanks<br/>We give praise<br/>For by faith we know Your grace will see us through</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For all those things that we don't understand<br/>We come by faith and place them in Your hands</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Even if we stumble, even if we fall<br/>You will not forsake us<br/>You are King and Lord of all, Lord of all</lines>
+    </verse>
+  </lyrics>
+</song>

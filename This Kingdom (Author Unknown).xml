@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>This Kingdom</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Jesus, God's righteousness revealed<br/>The Son of man, the Son of God<br/>His kingdom comes</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Jesus, redemption's sacrifice<br/>Now glorified, now justified<br/>His kingdom comes</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>And this kingdom shall know no end<br/>And its glory shall know no bound</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>For the majesty and power<br/>Of the kingdom's King has come</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>And this kingdom's reign<br/>And this kingdom's rule</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>And this kingdom's power &amp; authority<br/>Jesus, God's righteousness revealed</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Jesus, the expression of God's love<br/>The grace of God, the word of God<br/>Revealed to us</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Jesus, God's holiness displayed<br/>Now glorified, now justified<br/>His kingdom comes</lines>
+    </verse>
+  </lyrics>
+</song>

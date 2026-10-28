@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:19">
+  <properties>
+    <titles>
+      <title>Jesus keep me near the Cross</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Francis Jane van Alstyne (1820-1915)  (Fanny J Crosby)</author>
+    </authors>
+    <songbooks>
+      <songbook name="TS834"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, keep me near the Cross!<br/>There a precious fountain,<br/>free to all, a healing stream<br/>flows from Calvary's mountain.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>In the Cross, in the Cross<br/>be my glory ever,<br/>till my raptured soul shall find<br/>rest beyond the river!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Near the Cross, a trembling soul,<br/>love and mercy found me;<br/>there the bright and morning star<br/>shed its beams around me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Near the Cross! - O Lamb of God,<br/>bring its scenes before me!<br/>Help me walk from day to day<br/>with its shadow o'er me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Near the Cross I'll watch and wait,<br/>hoping, trusting ever,<br/>till I reach the golden strand,<br/>just beyond the river.</lines>
+    </verse>
+  </lyrics>
+</song>

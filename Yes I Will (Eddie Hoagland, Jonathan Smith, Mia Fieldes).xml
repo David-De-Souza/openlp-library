@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>Yes I Will</title>
+    </titles>
+    <authors>
+      <author>Eddie Hoagland</author>
+      <author>Jonathan Smith</author>
+      <author>Mia Fieldes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I count on one thing<br/>The same God that never fails<br/>Will not fail me now<br/>You won't fail me now</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>In the waiting<br/>The same God who's never late<br/>Is working all things out<br/>You're working all things out</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Yes I will, lift You high in the lowest valley<br/>Yes I will, bless Your name<br/>Oh, yes I will, sing for joy when my heart is heavy<br/>All my days, oh yes I will</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And I choose to praise<br/>To glorify, glorify<br/>The Name of all names<br/>That nothing can stand against</lines>
+    </verse>
+  </lyrics>
+</song>

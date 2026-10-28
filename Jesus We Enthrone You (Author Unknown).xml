@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:19">
+  <properties>
+    <titles>
+      <title>Jesus We Enthrone You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>And as we worship build Your throne<br/>And as we worship build Your throne<br/>And as we worship build Your throne</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Come Lord Jesus and take Your place</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Jesus, we enthrone You<br/>We proclaim You are King</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Standing here, in the midst of us<br/>We raise You up with our praise</lines>
+    </verse>
+  </lyrics>
+</song>

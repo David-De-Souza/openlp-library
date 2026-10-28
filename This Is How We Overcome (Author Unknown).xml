@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>This Is How We Overcome</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Your light broke through my night<br/>Restored exceeding joy</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Your grace fell like the rain<br/>And made this desert live</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>You have turned<br/>My mourning into dancing</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>You have turned<br/>My sorrow into joy</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Your hand lifted me up<br/>I stand on higher ground</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Your praise rose in my heart<br/>And made this valley sing</lines>
+    </verse>
+    <verse name="e1">
+      <lines>This is how we overcome<br/>This is how we overcome<br/>This is how we overcome<br/>This is how we overcome</lines>
+    </verse>
+  </lyrics>
+</song>

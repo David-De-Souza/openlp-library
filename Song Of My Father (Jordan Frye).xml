@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Song Of My Father</title>
+    </titles>
+    <comments>
+      <comment>For use solely with the SongSelect. Terms of Use. All rights reserved. www.ccli.com</comment>
+    </comments>
+    <copyright>© Capitol CMG Genesis (Admin. by CopyCare Asia Ltd (Singapore Branch))</copyright>
+    <ccliNo>7051488</ccliNo>
+    <authors>
+      <author>Jordan Frye</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When silence falls<br/>I hear You call in the secret place<br/>You still my soul with quiet joy<br/>And I'm wide awake</lines>
+    </verse>
+    <verse name="o1">
+      <lines>In the middle of the night<br/>I look up to the sky<br/>I can hear You singing over me<br/>Through the fire and the flood<br/>I know that I am loved<br/>I can hear You singing over me (yeah)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You spoke the earth with just one word<br/>And You hold my heart<br/>My ev'ry step my ev'ry breath<br/>Is Your work of art</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Oh oh<br/>Oh oh</lines>
+    </verse>
+    <verse name="o3">
+      <lines>I hear Your melody I hear Your symphony<br/>There's nothing louder than the song of my Father<br/>(REPEAT)</lines>
+    </verse>
+  </lyrics>
+</song>

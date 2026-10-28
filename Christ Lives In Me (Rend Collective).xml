@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Christ Lives In Me</title>
+    </titles>
+    <authors>
+      <author>Rend Collective</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I cast my life like ashes on the waves<br/>And leave behind all of my selfish ways<br/>My past is gone, now all that's left is grace<br/>To live is Christ, to die is gain</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>I have been crucified with Christ<br/>It is no longer I who lives<br/>But Christ lives in me</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>I have a second chance at life<br/>My future's open wide<br/>I know Christ lives in me<br/>He lives in me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My dreams I lay surrendered at the cross<br/>My hands held high, my knees upon the dust<br/>My choice is made, I've counted up the cost<br/>To live is Christ, to die is gain<br/>To live is Christ, to die is gain, oh</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I'm pressing on, pressing on to Heaven<br/>I've seen the power of Your resurrection<br/>The Savior of my soul, is Jesus Christ alone</lines>
+    </verse>
+  </lyrics>
+</song>

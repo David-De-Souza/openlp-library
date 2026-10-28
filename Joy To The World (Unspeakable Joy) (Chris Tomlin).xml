@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:13">
+  <properties>
+    <titles>
+      <title>Joy To The World (Unspeakable Joy)</title>
+    </titles>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Joy to the world the Lord is come<br/>Let earth receive her King<br/>Let ev'ry heart prepare Him room</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>And heaven and nature sing<br/>And heaven and nature sing<br/>And heaven and heaven and nature sing</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Joy to the world the Savior reigns<br/>Let all their songs employ<br/>While fields and floods rocks hills and plains</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Repeat the sounding joy<br/>Repeat the sounding joy<br/>Repeat repeat the sounding joy</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Joy unspeakable joy<br/>An overflowing well<br/>No tongue can tell</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Joy unspeakable joy<br/>It rises in my soul<br/>Never lets me go</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>He rules the world with truth and grace<br/>And makes the nations prove<br/>The glories of His righteousness</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>And wonders of His love<br/>And wonders of His love<br/>And wonders wonders of His love</lines>
+    </verse>
+  </lyrics>
+</song>

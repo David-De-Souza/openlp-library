@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>The Power Of Your Love Is Changing Me</title>
+    </titles>
+    <copyright>1998 Integrity's Hosanna! Music/Sovereign Music UK</copyright>
+    <authors>
+      <author>Gary Sadler</author>
+    </authors>
+    <songbooks>
+      <songbook name="SF1538, TS1534"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The power of Your love is changing me,<br/>Changing me, changing me.<br/>O Lord, change me by the power of Your love.<br/>(Repeat)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You've drawn me to Your side,<br/>And what else can I do?<br/>My heart is open wide,<br/>My hands reach out to You.<br/>I'm calling out for more;<br/>I'm asking in Your name,<br/>That by Your Spirit, Lord,<br/>I will never be the same.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm singing out my praise,<br/>I'm pouring out my thanks,<br/>For the power of Your love is changing me.<br/>I'm lifting up my voice,<br/>I'm dancing in the joy,<br/>For the power of Your love is changing me.</lines>
+    </verse>
+  </lyrics>
+</song>

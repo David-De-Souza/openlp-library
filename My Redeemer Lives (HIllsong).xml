@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>My Redeemer Lives</title>
+    </titles>
+    <authors>
+      <author>HIllsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know he rescued my soul<br/>His blood has washed my sin<br/>I believe<br/>I believe</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My shame He's taken away<br/>My pain is healed in his name<br/>I believe<br/>I believe</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I'll raise a banner<br/>'Cause my Lord has conquered the grave</lines>
+    </verse>
+    <verse name="c1">
+      <lines>My Redeemer Lives<br/>My Redeemer Lives<br/>My Redeemer Lives<br/>My Redeemer Lives</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You Lift my burdens<br/>I'll rise with You<br/>I'm dancing on this mountain top to see your kingdom come</lines>
+    </verse>
+  </lyrics>
+</song>

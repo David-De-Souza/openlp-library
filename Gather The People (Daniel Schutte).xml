@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Gather The People</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 v8 c1 v9 c1 v10</verseOrder>
+    <authors>
+      <author>Daniel Schutte</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Gather the people! Enter the feast!<br/>All are invited, the greatest and least.<br/>The banquet is ready, now to be shared.<br/>Join in the heavenly feast that God has prepared.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Around this table we dine as kin,<br/>beloved family of God.<br/>We share the body of Christ, the Lord.<br/>Here we become what we eat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Around this table we tell great tales,<br/>the wondrous stories of grace.<br/>We hold the memory of Christ, the Lord.<br/>So we become what we eat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Around this table God’s bounty falls<br/>on all who hunger and thirst.<br/>We drink the fullness of Christ, the Lord.<br/>So we become what we eat.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Around this table God’s mercy flows<br/>to hearts imprisoned by shame.<br/>We know compassion in Christ, the Lord.<br/>Let us we become what we eat.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Around this table new hope is born,<br/>the flame of faith in our hearts.<br/>We find our courage in Christ, the Lord,<br/>till we become what we eat.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Around this table God’s healing flows<br/>to all the wounded and worn.<br/>We join the sufferings of Christ, the Lord,<br/>as we become what we eat.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Around this table God’s peace will reign<br/>in hearts imprisoned by fear.<br/>We live in freedom through Christ, the Lord,<br/>as we become what we eat.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Around this table our hearts rejoice<br/>in love that’s stronger than death.<br/>We’ll rise in glory with Christ, the Lord.<br/>Then we become what we eat.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Around this table God’s justice reigns<br/>in hearts that labor for peace.<br/>We breathe the spirit of Christ, the Lord,<br/>till we become what we eat.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Around this table God’s lowly ones<br/>are clothed in splendor and grace.<br/>We share the banquet of Christ, the Lord.<br/>Here we become what we eat.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Dancing On The Waves</title>
+    </titles>
+    <authors>
+      <author>We The Kingdom</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I'm standing at your door<br/>My heart is calling yours<br/>Come fall into my arms</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You're weary from it all<br/>Been running for too long<br/>I'm here to bring you home</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>I'm reaching out<br/>I'll chase you down<br/>I dare you to believe<br/>How much I love you now</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Don't be afraid<br/>I am your strength<br/>We'll be walking on the water<br/>Dancing on the waves</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Look up and lift your eyes<br/>The future's open wide<br/>I have great plans for you<br/>Oh yes, I have</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Your past is dead and gone<br/>Your healing has begun<br/>I'm making all things new</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>I set every star into place<br/>So you would remember my name<br/>I made it all for you</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>But you are my masterpiece<br/>You are the reason I sing<br/>This is my song for you<br/>Every star in the sky</lines>
+    </verse>
+  </lyrics>
+</song>

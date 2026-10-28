@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>A Song of Praise</title>
+    </titles>
+    <authors>
+      <author>Chris Chua</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My sins You forgive<br/>You say "Go in peace"<br/>My fears You take away<br/>You say "Be not afraid"</lines>
+    </verse>
+    <verse name="p1">
+      <lines>You put a new song in my mouth<br/>A song of praise to my God<br/>So I sing, so I sing</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Father You are my Life Rebuilder<br/>Jesus the God who saves<br/>Your Spirit awakens me from slumber<br/>I now arise and shine for You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What is broken You rebuild<br/>What is shamed You restore<br/>What is in chains You set free<br/>You say "I make all things new"</lines>
+    </verse>
+    <verse name="p2">
+      <lines>You put a new song in my mouth<br/>A song of praise to my God<br/>So I sing, so I sing</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Father You are my Life Rebuilder<br/>Jesus the God who saves<br/>Your Spirit awakens me from slumber<br/>I now arise and shine for You</lines>
+    </verse>
+  </lyrics>
+</song>

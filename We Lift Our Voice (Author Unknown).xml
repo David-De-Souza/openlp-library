@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>We Lift Our Voice</title>
+    </titles>
+    <verseOrder>v1 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We lift our voices<br/>We lift our hands<br/>We lift our lives up to you<br/>We are an offering<br/>Lord, use our voices<br/>Lord, use our hands<br/>Lord, use our lives, they are yours<br/>We are an offering</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All that we have, all that we are<br/>All that we hope to be<br/>We give to you<br/>We give to you</lines>
+    </verse>
+    <verse name="e1">
+      <lines>We lift our voices<br/>We lift our hands<br/>We lift our lives up to you<br/>We are an offering, We are an offering</lines>
+    </verse>
+  </lyrics>
+</song>

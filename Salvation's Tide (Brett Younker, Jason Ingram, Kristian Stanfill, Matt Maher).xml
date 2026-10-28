@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Salvation's Tide</title>
+    </titles>
+    <copyright>© 2016 sixsteps Music (Admin. by CopyCare Asia Ltd (Singapore Branch))/worshiptogether.com songs (Admin. by CopyCare Asia Ltd (Singapore Branch))/Be Essential Songs (Admin. by Essential Music Publishing LLC)/I Am A Pilgrim Songs (Admin. by Essential Music Publishing LLC)/So Essential Tunes (Admin. by Essential Music Publishing LLC)</copyright>
+    <verseOrder>v1 v2 c1 v3 c1 c2 o1</verseOrder>
+    <ccliNo>7054546</ccliNo>
+    <authors>
+      <author>Brett Younker</author>
+      <author>Jason Ingram</author>
+      <author>Kristian Stanfill</author>
+      <author>Matt Maher</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is no limit to Your power<br/>There is no stopping what You plan<br/>You give us faith to move the mountains<br/>And hope to dream again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We see the fires of revival<br/>The darkness giving way to light<br/>The glory of Your grace advancing<br/>Let it burn up the night<br/>Let it burn up the night</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let the walls come down in Jesus' name<br/>Let the lost be found in Jesus' name<br/>Let the church arise<br/>To shine Your light to the world<br/>Shine Your light</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your house forever undivided<br/>All Your sons and daughters one<br/>At the cross we are united<br/>Our hope is in the blood<br/>Our hope is in Your blood</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Open eyes to see in Jesus' name<br/>Let the city sing in Jesus' name<br/>Let the church arise<br/>To shine Your light to the world<br/>Shine Your light</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Salvation's tide is rising<br/>As all Your people seek Your face<br/>Your life a river flowing<br/>To wash our sin and shame away</lines>
+    </verse>
+  </lyrics>
+</song>

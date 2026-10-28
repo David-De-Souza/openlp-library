@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Pharaoh Pharaoh</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>I say, Pharaoh, Pharaoh, ooohh baby<br/>Let my people go, Uh Huh, Uh Huh! Yeah, yeah, yeah!</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Pharaoh, Pharaoh, ooohh baby<br/>Let my people, Uh Huh, Uh Huh! Yeah, yeah, yeah!</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Well a burnin' bush told me the other day<br/>That I should come over here and stay.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>To get my people out of Pharaoh's hand,<br/>And lead them all into the Promised Land!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>So me and God's people going to the Red Sea<br/>And Pharaoh's army is coming after me.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>I raise my rod, stuck it in the sand,<br/>And all of God's people walk across dry land.</lines>
+    </verse>
+  </lyrics>
+</song>

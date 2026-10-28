@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Children of Light</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>It's a new day<br/>Everything changed</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>When your love came into the darkness<br/>You sent the light of the Son<br/>You sent the light of the Son</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Wake up, open your eyes<br/>No longer dead, We are alive</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Rise up, children of light<br/>Open the doors, go let it shine</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Woah-oh-oh-oh-oh</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>There is freedom<br/>In your kingdom</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>For you Jesus we will be dancing<br/>Forever your joy is our song<br/>Forever your joy is our song</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Song for the broken, let it shine<br/>Into the shadow, let it shine<br/>Hope for the whole world, let it shine, let it shine</lines>
+    </verse>
+  </lyrics>
+</song>

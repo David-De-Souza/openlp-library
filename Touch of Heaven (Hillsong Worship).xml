@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>Touch of Heaven</title>
+    </titles>
+    <authors>
+      <author>Hillsong Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>How I live for the moments<br/>Where I'm still in Your presence</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>All the noise dies down<br/>Lord speak to me now</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>You have all my attention<br/>I will linger and listen<br/>I can't miss a thing</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Lord I know my heart wants more of You<br/>My heart wants something new<br/>So I surrender all</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>All I want is to live within Your love<br/>Be undone by who You are<br/>My desire is to know You deeper</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Lord I will open up again<br/>Throw my fears into the wind<br/>I am desperate for a touch of heaven</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>You're the fire in the morning<br/>You're the cool in the evening</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>The breath in my soul<br/>All the life in my bones</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>There is no hesitation<br/>In Your love and affection<br/>It's the sweetest of all</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>I open up my heart to You<br/>I open up my heart to You now</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>So do what only You can<br/>Jesus have Your way in me now</lines>
+    </verse>
+  </lyrics>
+</song>

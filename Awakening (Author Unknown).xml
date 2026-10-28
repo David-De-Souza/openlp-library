@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Awakening</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>In our hearts, Lord<br/>In this nation<br/>Awakening</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Holy Spirit, we desire<br/>Awakening</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>For You and You alone<br/>Awake my soul, awake my soul and sing</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>For the world You love<br/>Your will be done<br/>Let Your will be done in me</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>In Your presence, in Your power<br/>Awakening</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>For this moment, for this hour<br/>Awakening</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Like the rising sun that shines<br/>From the darkness comes a light</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>I hear Your voice and this is my<br/>Awakening</lines>
+    </verse>
+    <verse name="b2a">
+      <lines>Like the rising sun that shines<br/>Awake my soul, awake my soul and sing</lines>
+    </verse>
+    <verse name="b2b">
+      <lines>From the darkness comes a light<br/>Awake my soul, awake my soul and sing</lines>
+    </verse>
+  </lyrics>
+</song>

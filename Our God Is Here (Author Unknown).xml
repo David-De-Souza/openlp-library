@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Our God Is Here</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Here in this time, here in this place<br/>Here we are standing face to face<br/>Here in our hearts, here in our lives<br/>Our God is here</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Here for the broken,<br/>Here for the strong<br/>Here in this temple we belong</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Here in our hearts, here in our lives<br/>Our God is here</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And we cry "Holy, holy, holy are You!"<br/>We cry "Holy, holy, holy and true!"<br/>Amen, we do believe<br/>Our God is here</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Here in the Word, God is revealed<br/>Here where the wounded can be healed<br/>Here in our hearts, here in our lives<br/>Our God is here</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Here we become what we receive<br/>Here in this Eucharistic feast<br/>We are His body, living as one<br/>Our God is here</lines>
+    </verse>
+  </lyrics>
+</song>

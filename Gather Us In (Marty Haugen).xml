@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Gather Us In</title>
+    </titles>
+    <authors>
+      <author>Marty Haugen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Here in this place, new light is streaming<br/>Now is the darkness, vanished away<br/>See in this space, our fears and our dreamings<br/>Brought here to You in the light of this day</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Gather us in, the lost and forsaken<br/>Gather us in, the blind and the lame<br/>Call to us now, and we shall awaken<br/>We shall arise at the sound of our name</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>We are the young - our lives are a mystery<br/>We are the old - who yearn for your face<br/>We have been sung, throughout all of history<br/>Called to be light to the whole human race</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Gather us in, the rich and the haughty<br/>Gather us in, the proud and the strong<br/>Give us a heart, so meek and so lowly<br/>Give us the courage to enter the song</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Here we will take, the wine and the water<br/>Here we will take, the bread of new birth<br/>Here You shall call, Your sons and Your daughters<br/>Call us anew to be salt of the earth</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Give us to drink, the wine of compassion<br/>Give us to eat, the bread that is You<br/>Nourish us well, and teach us to fashion<br/>Lives that are holy, and hearts that are true</lines>
+    </verse>
+  </lyrics>
+</song>

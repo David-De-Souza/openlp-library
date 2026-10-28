@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Father God I Love You</title>
+    </titles>
+    <authors>
+      <author>Joan Robinson</author>
+    </authors>
+    <songbooks>
+      <songbook name="MP129"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father God, I love you<br/>Father God, I love you<br/>Come into my life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus I love you<br/>Jesus I love you<br/>Come into my life</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Spirit I love you<br/>Spirit I love you<br/>Come into my life</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Allelujah, Allelujah<br/>Allelujah, Allelujah</lines>
+    </verse>
+  </lyrics>
+</song>

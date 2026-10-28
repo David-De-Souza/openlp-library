@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Christify</title>
+    </titles>
+    <authors>
+      <author>Bukas Palad</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christify the gifts we bring to You,<br/>bounty of the earth receive anew.<br/>Take and bless the work of our hands.<br/>Christify these gifts at Your command.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sun and moon and earth and wind and rain:<br/>all the world's contained in every grain.<br/>All the toil and dreams of humankind,<br/>all we are we bring as bread and wine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Turn the bread and wine, our hearts implore,<br/>to the living presence of the Lord.<br/>Blessed and broken, shared with all in need;<br/>all our hungers, sacred bread will feed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>With this bread and wine You Christify,<br/>now our deepest thirst You satisfy.<br/>We who by this bread You sanctify<br/>draw the world for You to Christify.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>No Greater Love</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You loved me<br/>When I was so unlovely</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You sought me<br/>When I was lost</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>You showed me<br/>How much You really loved me</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>When you bought me<br/>At the highest cost</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>There's no greater love than this<br/>There's no greater love than this<br/>That a man would give his life for a friend</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>There's no higher sacrifice<br/>Than a man would give his life<br/>You have paid a precious price for me</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>You chose me<br/>When I was so unworthy</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>You cleansed me<br/>With Your own blood</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>You clothe me<br/>With righteousness and mercy</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>And You crowned me<br/>With Your steadfast love</lines>
+    </verse>
+  </lyrics>
+</song>

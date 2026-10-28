@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>Through And Through</title>
+    </titles>
+    <copyright>© 2012 Capitol CMG Genesis (Admin. by CopyCare Asia Ltd (Singapore Branch))/United Pursuit Music (Admin. by CopyCare Asia Ltd (Singapore Branch))</copyright>
+    <verseOrder>v1 c1 o1</verseOrder>
+    <ccliNo>6589091</ccliNo>
+    <authors>
+      <author>Will Reagan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I find that I'm safe and warm in Your loving arms<br/>I find that I'm safe and warm in Your loving arms</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You see me You know me<br/>You love me through and through<br/>You see me You know me<br/>You love me through and through</lines>
+    </verse>
+    <verse name="o1">
+      <lines>(Interlude)<br/>Oh</lines>
+    </verse>
+  </lyrics>
+</song>

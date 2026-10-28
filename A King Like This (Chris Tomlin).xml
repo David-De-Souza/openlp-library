@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>A King Like This</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1 c1 v3</verseOrder>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>A King like this, majesty <br/>Laying in a manger<br/>A King like this<br/>Unto us is born a Saviour<br/>The Light, the Light has come</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>A King like this, the highest <br/>Name and the song of heaven<br/>A King like this born of<br/>Flesh into our suffering<br/>The Light, the Light has come</lines>
+    </verse>
+    <verse name="c1">
+      <lines>He is Christ, the Lord<br/>He is Christ, our Saviour<br/>I bow my heart before no other name<br/>I bow my heart before no other King</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A King like this, a saving <br/>Love that would not forsake us<br/>Betrayed by a kiss and led<br/>To the cross for our forgiveness<br/>The Light, the Light has come</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A King like this, a throne of grace<br/>That will stand forever<br/>The angels sing glory, glory, hallelujah<br/>The Light, the Light has come<br/>The Light, the Light has come</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>We lift up our eyes, the <br/>Light has come!<br/>(x 3)</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>We lift up our eyes, <br/>lift up our eyes,<br/>Lift up Your Eyes!</lines>
+    </verse>
+  </lyrics>
+</song>

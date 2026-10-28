@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>Abide with me</title>
+    </titles>
+    <authors>
+      <author>Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have a home, eternal home  <br/>But for now I walk this broken world<br/>You walked it first, You know our pain<br/>But You show hope can rise again up from the grave</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Abide with me, <br/>Abide with me, don’t let me fall<br/>and don’t let go, walk with me<br/>and never leave, ever close,<br/>God, abide with me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There in the night <br/>Gethsemane before the Cross<br/>Before the nails, overwhelmed<br/>Alone, You prayed, You met us in our suffering<br/>and bore our shame</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Love that will not ever let me go <br/>O, love that will not ever let me go<br/>You never let me go<br/>Love that will not ever let me go</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And up ahead, eternity <br/>We’ll weep no more and sing for joy,<br/>abide with me, we’ll weep no more<br/>And sing for joy, abide with me</lines>
+    </verse>
+  </lyrics>
+</song>

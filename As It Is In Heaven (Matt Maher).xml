@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>As It Is In Heaven</title>
+    </titles>
+    <authors>
+      <author type="words">Matt Maher</author>
+      <author type="music">Matt Maher</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Our Father, who art in heaven, hallowed by Thy Name<br/>Come and let Your glory, come and let Your glory fall</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Our Father, who art in heaven, the rocks cry out Your fame<br/>So come and let Your glory, come and let Your glory fall</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I will sing, sing a new song<br/>I will sing, sing a new song<br/>I will sing, sing a new song to the Lord</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Let Your kingdom come let Your will be done<br/>On earth as it is in Heaven</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Every heart proclaim the mercy of Your name<br/>On earth as it is in Heaven</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>God give us, new every morning, mercy His daily bread<br/>In the Name of Jesus, in the Name of Jesus we pray</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>And lead us not to temptation, but deliver us with Your hand<br/>In the Name of Jesus, in the Name of Jesus we pray, Father we pray!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>For the Kingdom is Yours<br/>And the power is Yours<br/>And the glory forever Amen</lines>
+    </verse>
+  </lyrics>
+</song>

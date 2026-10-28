@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Prepare The Way</title>
+    </titles>
+    <authors>
+      <author>Bethel Music</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>We've heard the revival stories<br/>Of ancient and old time glory<br/>Spirit of God, come do it again</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Miracle-working power<br/>Moving in signs and wonders<br/>Spirit of God, come do it again</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Prepare the way, He's coming through<br/>Ready or not, our God's on the move<br/>We're gonna see, Heaven on Earth<br/>Come Holy Spirit, awaken Your church</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>God, You're just getting started<br/>A testimony of more to come<br/>Spirit of God, come do it in us</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>We join in the faith of Heaven<br/>And prophesy Your kingdom here on Earth<br/>Spirit of God, come do it in us</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Fire fall, wind come blow<br/>We're ready for more, ready for more<br/>Break down the walls, push back the doors<br/>We're ready for more, ready for more</lines>
+    </verse>
+  </lyrics>
+</song>

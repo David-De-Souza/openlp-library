@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Scripture</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Now the word of the LORD came to me saying,<br/>"Before I formed you in the womb I knew you,<br/>and before you were born I consecrated you;<br/>I appointed you a prophet to the nations."</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Then I said, "Ah Lord GOD! Behold, I do not know how to speak,<br/>for I am only a youth."</lines>
+    </verse>
+    <verse name="v3">
+      <lines>But the LORD said to me,<br/>"Do not say, I am only a youth;<br/>for to akk to whom I send you, you shall go,<br/>and whatever I command you, you shall speak,<br/>Be not afraid of them, for I am with you to deliver you, says the LORD."</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Then the LORD put forth his hand and touched my mouth;<br/>and the LORD said to me.<br/>"Behold, I have put my words in your mouth.<br/>See, I have set you this day over nations and over kingdoms,<br/>to pluck up and break down, to destroy and to overthrow.<br/>to build and to plant."</lines>
+    </verse>
+  </lyrics>
+</song>

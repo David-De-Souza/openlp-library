@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>God With Us</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Who are we<br/>That You would be mindful of us?</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>What do You see<br/>That's worth looking our way?</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>We are free<br/>In ways that we never should be</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Sweet release<br/>From the grip of these chains</lines>
+    </verse>
+    <verse name="p1a">
+      <lines>Like hinges straining<br/>From the weight</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>My heart no longer<br/>Can keep from singing</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>All that is within me cries<br/>For You alone be glorified</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Emmanuel<br/>God with us</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>My heart sings a brand new song<br/>The debt is paid, these chains are gone</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>Emmanuel<br/>God with us</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Lord, You know<br/>Our hearts don't deserve Your glory</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Still You show<br/>A love we cannot afford</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Like hinges straining<br/>From the weight</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>My heart no longer<br/>Can keep from singing</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Such a tiny offering<br/>Compared to Calvary</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>And nevertheless<br/>We lay it at Your feet</lines>
+    </verse>
+  </lyrics>
+</song>

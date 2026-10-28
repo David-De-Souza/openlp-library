@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>Hosanna (Praise Is Rising)</title>
+      <title>Praise Is Rising</title>
+    </titles>
+    <copyright>© 2005, 2006 Integrity's Hosanna! Music, Thankyou Music</copyright>
+    <ccliNo>4662491</ccliNo>
+    <authors>
+      <author>Paul Baloche</author>
+      <author>Brenton Brown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Praise is rising<br/>Eyes are turning to You<br/>We turn to You</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Hope is stirring<br/>Hearts are yearning for You<br/>We long for You</lines>
+    </verse>
+    <verse name="p1a">
+      <lines>Cause when we see You<br/>We find strength to face the day</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>In Your Presence<br/>All our fears are washed away<br/>Washed away</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Hosanna, hosanna<br/>You are the God Who saves us,<br/>Worthy of all our praises</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Hosanna, hosanna<br/>Come have Your way among us<br/>We welcome You here, Lord Jesus</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Hear the sound of<br/>Hearts returning to you<br/>We turn to you</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>In your kingdom<br/>Broken lives are made new<br/>You make us new</lines>
+    </verse>
+  </lyrics>
+</song>

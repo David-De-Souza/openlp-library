@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Bread For The World</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Bread for the world<br/>A world of hunger</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Wine for all peoples<br/>People who thirst</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>May we who eat<br/>Be bread for others</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>May we who drink<br/>Pour out our love</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Lord Jesus Christ<br/>You are the bread of life</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Broken to reach<br/>And heal the wounds of human pain</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Where we divide your people<br/>You are waiting there</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>On bended knee<br/>To wash our feet with endless care</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Lord Jesus Christ<br/>You are the wine of peace</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Poured into hearts once broken<br/>And where dryness sleeps</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Where we are tired and weary<br/>You are waiting there</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>To be the way which beckons us<br/>Beyond despair</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Lord Jesus Christ<br/>You call us to your feast</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>At which the rich and pow'rful<br/>Have become the least.</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>Where we survive on others<br/>In our human greed</lines>
+    </verse>
+    <verse name="v3d">
+      <lines>You walk among us<br/>Begging for your ev'ry need.</lines>
+    </verse>
+  </lyrics>
+</song>

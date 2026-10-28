@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>The Joy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is<br/>The day You made<br/>So I’ll rejoice and be glad<br/>Rejoice and be glad in it</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This is<br/>Where I believe<br/>You are more than enough<br/>More than enough for me</lines>
+    </verse>
+    <verse name="p1">
+      <lines>You are faithful to Your promise<br/>You are strong when I am weak<br/>When I’m standing in Your presence<br/>I have everything I need</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>The joy of the Lord<br/>The joy of the Lord is my strength<br/>The joy of the Lord<br/>The joy of the Lord is my strength</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>O my soul, bless His Name<br/>All that is within me say<br/>The joy of the Lord<br/>The joy of the Lord is my strength</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus<br/>Come what may<br/>You are worthy of all<br/>Worthy of all my praise</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Let it rise up<br/>Like a river<br/>Overflowing<br/>Holy Spirit<br/></lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Let it pour out<br/>With no limit<br/>Overflowing<br/>Holy Spirit</lines>
+    </verse>
+    <verse name="o1">
+      <lines>I got the joy<br/>I got the joy<br/>I got the joy<br/>It's the joy of the Lord<br/>It's the joy of the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

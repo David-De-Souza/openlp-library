@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>On a Hill Far Away (The Old Rugged Cross)</title>
+    </titles>
+    <authors>
+      <author>George Bennard</author>
+    </authors>
+    <songbooks>
+      <songbook name="MP536, TS403"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On a hill far away<br/>stood an old rugged cross,<br/>the emblem of suffering and shame;<br/>and I love that old cross<br/>where the dearest and best<br/>for a world of lost sinners was slain.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>So I'll cherish the old rugged cross<br/>till my trophies at last I lay down;<br/>I will cling to the old rugged cross<br/>and exchange it some day for a crown.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, the old rugged cross,<br/>so despised by the world,<br/>has a wondrous attraction for me;<br/>for the dear Lamb of God<br/>left His glory above<br/>to bear it to dark Calvary.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In the old rugged cross,<br/>stained with blood so divine,<br/>a wondrous beauty I see;<br/>for 'twas on that old cross<br/>Jesus suffered and died<br/>to pardon and sanctify me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>To the old rugged cross<br/>I will ever be true,<br/>its shame and reproach gladly bear;<br/>then He'll call me some day<br/>to my home far away,<br/>when His glory for ever I'll share.</lines>
+    </verse>
+  </lyrics>
+</song>

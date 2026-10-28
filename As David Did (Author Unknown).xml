@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>As David Did</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the Spirit of the Lord is<br/>upon my soul<br/>I will dance like David danced x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will dance x2<br/>I will dance like David danced</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the Spirit of the Lord is<br/>upon my soul<br/>I will ____ like David ____ x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will ____ x2<br/>I will ____ like David ____</lines>
+    </verse>
+  </lyrics>
+</song>

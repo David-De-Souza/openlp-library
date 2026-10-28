@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>One Way</title>
+    </titles>
+    <authors>
+      <author>Hillsong United</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I lay my life down <br/>at Your feet<br/>You're the<br/>only one I need</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I turn to You<br/>And You were<br/>always there</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>In troubled times <br/>it's You I seek<br/>I put You first<br/>that's all I need</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>I humble all I am,<br/>all to You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>One way, Jesus<br/>You're the only one<br/>that I could live for</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>You are always, <br/>always there<br/>Every how and<br/>every where</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Your grace abounds<br/>So deeply within me</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>You will never <br/>ever change<br/>Yesterday, today<br/>the same</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>Forever till forever <br/>meets no end</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>You are the Way<br/>The Truth and<br/>The Light</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>We live by faith <br/>And not by sight<br/>For You,<br/>We're living all for You</lines>
+    </verse>
+  </lyrics>
+</song>

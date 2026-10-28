@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>O Holy Night</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>O Holy Night!<br/>The stars are brightly shining,<br/>It is the night of the dear Saviour's birth.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Long lay the world<br/>in sin and error pining.<br/>Till He appeared<br/>and the Spirit felt its worth.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>A thrill of hope<br/>the weary world rejoices,<br/>For yonder breaks<br/>a new and glorious morn.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Fall on your knees! Oh, hear the angel voices!<br/>O night divine, the night when Christ was born;</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>O night, O Holy Night , O night divine!<br/>O night, O Holy Night , O night divine!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Led by the light<br/>of faith serenely beaming,<br/>With glowing hearts<br/>by His cradle we stand.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>O'er the world<br/>a star is sweetly gleaming,<br/>Now come the wisemen<br/>from out of the Orient land.</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>The King of kings<br/>lay thus lowly manger;<br/>In all our trials<br/>born to be our friends.</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>He knows our need,<br/>our weakness is no stranger,</lines>
+    </verse>
+    <verse name="v2e">
+      <lines>Behold your King!<br/>Before him lowly bend!<br/>Behold your King!<br/>Before him lowly bend!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Truly He taught us<br/>to love one another,<br/>His law is love<br/>and His gospel is peace.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Chains he shall break,<br/>for the slave is our brother.<br/>And in his name<br/>all oppression shall cease.</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>Sweet hymns of joy<br/>in grateful chorus raise we,<br/>With all our hearts<br/>we praise His holy name.</lines>
+    </verse>
+    <verse name="v3d">
+      <lines>Christ is the Lord!<br/>Then ever, ever praise we,<br/>His power and glory ever more proclaim!<br/>His power and glory ever more proclaim!</lines>
+    </verse>
+  </lyrics>
+</song>

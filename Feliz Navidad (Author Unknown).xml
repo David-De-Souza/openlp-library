@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Feliz Navidad</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Feliz Navidad<br/>Feliz Navidad<br/>Feliz Navidad<br/>Prospero Ano Felicidad</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I wanna wish you a Merry Christmas<br/>I wanna wish you a Merry Christmas<br/>I wanna wish you a Merry Christmas<br/>From the bottom of my heart</lines>
+    </verse>
+  </lyrics>
+</song>

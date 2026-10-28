@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>How Great Is Your Love</title>
+    </titles>
+    <comments>
+      <comment>sixsteps Music (Admin. by CopyCare Asia Ltd (Singapore Branch))worshiptogether.com songs (Admin. by CopyCare Asia Ltd (Singapore Branch))Phil Wickham Music (Admin. by Music Services, Inc.)Sing My Songs (Admin. by Music Services, Inc.)For use solely with the SongSelect. Terms of Use. All rights reserved. www.ccli.com</comment>
+    </comments>
+    <copyright>© Simply Global Songs (Admin. by CopyCare Asia Ltd (Singapore Branch))</copyright>
+    <ccliNo>7076958</ccliNo>
+    <authors>
+      <author>Brett Younker</author>
+      <author>Kristian Stanfill</author>
+      <author>Phil Wickham</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>From the darkness I called Your name<br/>Into darkness Your mercy came</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You called me out lifted me up<br/>How great is Your love</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>You bore my weakness,You took my shame<br/>Buried my burdens in fields of grace</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>You called me out lifted me up<br/>How great is Your love</lines>
+    </verse>
+    <verse name="p1a">
+      <lines>From the heights of heaven You stepped down to earth<br/>Innocent perfection gave Your life for us</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>And we are amazed yes we stand in awe<br/>For we have been changed by the pow'r of the cross</lines>
+    </verse>
+    <verse name="c1">
+      <lines>How great, how great, how great is Your Love<br/>How great, how great, how great is Your Love<br/>How great, how great, how great is Your Love for us</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>In Your kindness, You lead me home<br/>In Your presence, where I belong</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>You called me out, lifted me up<br/>How great is Your love</lines>
+    </verse>
+    <verse name="b1">
+      <lines>There has never been and there will never be<br/>A God like You a love so true</lines>
+    </verse>
+  </lyrics>
+</song>

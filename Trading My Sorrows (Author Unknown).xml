@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>Trading My Sorrows</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I'm trading my sorrows<br/>I'm trading my shame</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I'm laying them down<br/>For the joy of the Lord</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>I'm trading my sickness<br/>I'm trading my pain</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>I'm laying them down<br/>For the joy of the Lord</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>(We say) yes Lord, yes Lord<br/>Yes yes Lord x2</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Yes Lord, yes Lord<br/>Yes yes Lord, Amen</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>I am pressed but not crushed<br/>Persecuted not abandoned</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Struck down but not destroyed</lines>
+    </verse>
+    <verse name="b1c">
+      <lines>I am blessed beyond the curse<br/>For His promise will endure</lines>
+    </verse>
+    <verse name="b1d">
+      <lines>That His joy's gonna be my strength</lines>
+    </verse>
+    <verse name="b1e">
+      <lines>Though the sorrow<br/>May last for the night<br/>His joy comes in the morning</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Na na na na na na<br/>Na na na na na</lines>
+    </verse>
+    <verse name="o1a">
+      <lines>Jesus you light up my world like nobody else<br/>The way that you show me love gets me overwhelmed</lines>
+    </verse>
+    <verse name="o1b">
+      <lines>But when you shine all around it ain't hard to tell<br/>We all know, oh oh, Jesus you're so beautiful</lines>
+    </verse>
+    <verse name="o1c">
+      <lines>If only I can see what you see<br/>I'll understand why you want me so desperately</lines>
+    </verse>
+    <verse name="o1d">
+      <lines>Right now you're looking at me and I can't believe<br/>We just know Jesus you're so beautiful</lines>
+    </verse>
+  </lyrics>
+</song>

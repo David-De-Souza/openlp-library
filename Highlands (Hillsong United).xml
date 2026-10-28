@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>Highlands</title>
+    </titles>
+    <authors>
+      <author>Hillsong United</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>O how high would I climb mountains<br/>If the mountains were where You hide<br/>O how far I'd scale the valleys<br/>If You graced the other side</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>O how long have I chased rivers<br/>From lowly seas to where they rise<br/>Against the rush of grace descending<br/>From the source of its supply</lines>
+    </verse>
+    <verse name="p1">
+      <lines>In the highlands and the heartache<br/>You're neither more or less inclined<br/>I would search and stop at nothing<br/>You're just not that hard to find</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>So I will praise You on the mountain<br/>And I will praise You when the mountain's in my way<br/>You're the summit where my feet are<br/>So I will praise You in the valleys all the same</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>No less God within the shadows<br/>No less faithful when the night leads me astray<br/>You're the heaven where my heart is<br/>In the highlands and the heartache all the same</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>O how far beneath Your glory<br/>Does Your kindness extend the path<br/>From where Your feet rest on the sunrise<br/>To where You sweep the sinner's past</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>O how fast would You come running<br/>If just to shadow me through the night<br/>Trace my steps through all my failure<br/>And walk me out the other side</lines>
+    </verse>
+    <verse name="p2">
+      <lines>For who could dare ascend that mountain<br/>That valleyed hill called Calvary<br/>But for the One I call Good Shepherd<br/>Who like a lamb was slain for me</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Whatever I walk through<br/>Wherever I am<br/>Your Name can move mountains<br/>Wherever I stand</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>And if ever I walk through<br/>The valley of death<br/>I'll sing through the shadows<br/>My song of ascent</lines>
+    </verse>
+    <verse name="v3">
+      <lines>From the gravest of all valleys<br/>Come the pastures we call grace<br/>A mighty river flowing upwards<br/>From a deep but empty grave</lines>
+    </verse>
+  </lyrics>
+</song>

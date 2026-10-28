@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Be Enthroned</title>
+    </titles>
+    <copyright>© 2015 Bethel Music Publishing (Admin. by SHOUT! Music Publishing)</copyright>
+    <ccliNo>7054178</ccliNo>
+    <authors>
+      <author>Brian Johnson</author>
+      <author>Hunter Thompson</author>
+      <author>Jeremy Riddle</author>
+      <author>Kalley Heiligenthal</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We've come to join the song<br/>Sung long before our lives<br/>To raise our voice along<br/>Heaven and earth alike</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We've seen Your faithful hand<br/>Your mercy without end<br/>The King who bled and died<br/>A God who sacrificed</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Be enthroned upon the praises<br/>Of a thousand generations<br/>You are worthy Lord of all</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>And unto You the slain and risen King<br/>We lift our voice with heaven<br/>Singing worthy Lord of all<br/>(Lord of all)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All through this life we lead<br/>And on to eternity<br/>Our endless praise we cry<br/>Jesus be glorified<br/>(Jesus be glorified)</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Highest praises Lord of all</lines>
+    </verse>
+  </lyrics>
+</song>

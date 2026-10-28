@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Glorious Ruins</title>
+    </titles>
+    <authors>
+      <author>Hillsong Live</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the mountains fall<br/>And the tempest roars You are with me<br/>When creation folds<br/>Still my soul will soar on Your mercy</lines>
+    </verse>
+    <verse name="p1a">
+      <lines>I'll walk through the fire<br/>With my head lifted high<br/>And my spirit revived in Your story</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>And I'll look to the cross<br/>As my failure is lost<br/>In the light of Your glorious grace</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Let the ruins come to life<br/>In the beauty of Your Name<br/>Rising up from the ashes<br/>God forever You reign</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>And my soul will find refuge<br/>In the shadow of Your wings<br/>I will love You forever<br/>And forever I'll sing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When the world caves in<br/>Still my hope will cling to Your promise<br/>Where my courage ends<br/>Let my heart find strength in Your presence</lines>
+    </verse>
+  </lyrics>
+</song>

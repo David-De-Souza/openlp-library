@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Table of Plenty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Come to the feast of heaven and earth<br/>Come to the table of plenty!<br/>God will provide for all that we need,<br/>here at the table of plenty.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>O come and sit at my table<br/>where saints and sinners are friends.<br/>I wait to welcome the lost and lonely<br/>to share the cup of my love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O come and eat without money;<br/>come to drink without price.<br/>My feast of gladness will feed your spirit<br/>with faith and fullness of life.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My bread will ever sustain you<br/>through days of sorrow and woe.<br/>My wine will flow like a sea of gladness<br/>to flood the depths of your soul.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Your fields will flower in fullness;<br/>your homes will flourish in peace.<br/>For I, the giver of home and harvest,<br/>will send my rain on the soil.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Even Though You Know</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You search me<br/>You know me</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You know my every move</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>There's nothing I could ever do<br/>To hide myself from you</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>You know my thoughts my fears my hurts<br/>My weaknesses and my pride</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>You know what I am going through<br/>And how I feel inside</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>But even though you know<br/>You will always love me</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>Even though you know<br/>You'll never let me go</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>I don't deserve your love<br/>But you give it freely</lines>
+    </verse>
+    <verse name="v1i">
+      <lines>You will always love me<br/>Even though you know</lines>
+    </verse>
+  </lyrics>
+</song>

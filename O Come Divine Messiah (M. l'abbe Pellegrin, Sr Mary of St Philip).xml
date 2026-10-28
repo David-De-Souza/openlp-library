@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>O Come Divine Messiah</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>M. l'abbe Pellegrin</author>
+      <author type="translation">Sr Mary of St Philip</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O come, divine Messiah!<br/>The world in silence waits the day<br/>When hope shall sing its triumph,<br/>And sadness flee away.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Dear Savior haste;<br/>Come, come to earth,<br/>Dispel the night and show Thy face,<br/>And bid us hail the dawn of grace.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>O come, divine Messiah!<br/>The world in silence waits the day<br/>When hope shall sing its triumph,<br/>And sadness flee away.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Christ, whom nations sigh for,<br/>Whom priest and prophet long foretold,<br/>Come break the captive fetters;<br/>Redeem the long-lost fold.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You come in peace and meekness,<br/>And lowly will Thy cradle be;<br/>All clothed in human weakness<br/>We shall Thy Godhead see.</lines>
+    </verse>
+  </lyrics>
+</song>

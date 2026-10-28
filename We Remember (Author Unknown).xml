@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>We Remember</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>We remember how You loved us<br/>To your death</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>And still we celebrate<br/>For You are with us here</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>We believe that we will see you<br/>When you come<br/>In your glory Lord</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>We remember<br/>We celebrate<br/>We believe</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Here a million wounded souls<br/>Are yearning just to touch you and be healed</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Gather all your people<br/>And hold them to your heart</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Now we recreate your love<br/>We bring the bread and wine to share a meal</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Sign of grace and mercy<br/>The presence of the Lord</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Christ, the Father's great "Amen"<br/>To all the hopes and dreams of every heart</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Peace beyond all telling<br/>Freedom from all fear</lines>
+    </verse>
+  </lyrics>
+</song>

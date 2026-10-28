@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:13">
+  <properties>
+    <titles>
+      <title>Lord Reign In Me</title>
+    </titles>
+    <authors>
+      <author>Brenton Brown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Over all the earth<br/>You reign on high<br/>Every mountain, stream, every sunset sky</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>But my one request, Lord my only aim<br/>Is that You reign in me again</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Lord reign in me<br/>Reign in Your power<br/>Over all my dreams<br/>In my darkest hour</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>You are the Lord of all I am<br/>Won't You reign in me again</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Over every thought<br/>Over every word<br/>May my life reflect the beauty of my Lord</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>'Cause You mean more to me than any earthly thing<br/>So won't You reign in me again</lines>
+    </verse>
+  </lyrics>
+</song>

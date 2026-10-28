@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Beyond the moon and stars</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3</verseOrder>
+    <authors>
+      <author>Dan Schutte</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Beyond the moon and stars, as deep as night,<br/>so great our hunger, Lord, to see your light.<br/>The sparrow finds her home beneath your wing,<br/>so may we come to rest where angels sing.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Our eyes have long to see your loving face,<br/>to live within your courts for all our days.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Upon our darkness, Lord, a light has shone.<br/>You came to dwell with us in flesh and bone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When life’s great journey ends and day is done,<br/>then may our eyes behold your Holy One.</lines>
+    </verse>
+  </lyrics>
+</song>

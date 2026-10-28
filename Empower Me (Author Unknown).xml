@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Empower Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Nobody knows how weak I am<br/>Better than You</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Nobody sees all of my needs<br/>Better than You</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>And nobody has<br/>the power to change me<br/>To what I was born to be</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Jesus be strong in my weakness<br/>Empower me</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Empower me, like a rushing river<br/>Flowing to the sea</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Lord, send Your Holy Spirit<br/>Flowing now through me</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Till I'm living as Your child<br/>victorious and free</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>Send the power of Your love<br/>empower me.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Nobody's eyes see through my soul<br/>Better than Yours</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Nobody's love can make me whole<br/>No one but Yours</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>And nobody has the power to lift me<br/>To reach for eternity</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>Jesus break through all my defences,<br/>Empower me</lines>
+    </verse>
+  </lyrics>
+</song>

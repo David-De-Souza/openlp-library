@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Search me O God and know my heart</title>
+    </titles>
+    <copyright>© 1994 Brown Bear Music</copyright>
+    <authors>
+      <author>Ian Mizen and Andy Pressdee</author>
+    </authors>
+    <songbooks>
+      <songbook name="TS955"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Search me, O God, and know my heart,<br/>lead me in your ways for ever.<br/>Search me, O God, and know my heart,<br/>lead me in your ways for ever.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I want to be holy, giving ev'rything to you.<br/>I want to be pure in heart and pure in mind.<br/>I want to be holy, always pleasing you,<br/>I want to live for you.</lines>
+    </verse>
+  </lyrics>
+</song>

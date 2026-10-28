@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Dear God</title>
+    </titles>
+    <authors>
+      <author>Cory Asbury</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Dear God<br/>I've been trying awful hard to make You proud of me<br/>But it seems</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>The harder that I try, all the harder it becomes<br/>And I feel like giving up<br/>Most of the time</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Dear God<br/>I've been chasing their approval and it's killin' me<br/>And I know</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>The more I try to prove<br/>All the less I have to show<br/>And I'm stuck inside my head<br/>Most of the time</lines>
+    </verse>
+    <verse name="p1">
+      <lines>But if I pray a little harder<br/>If I follow all the rules<br/>I wonder, could I ever be enough?</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>'Cause I try and try<br/>Just to fall back down again<br/>And I ask myself why<br/>Do I try to chase the wind?</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>I should lean into the mystery<br/>Maybe hope is found in a melody<br/>So I wanna try again<br/>Oh, I'm gonna try again</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Dear child<br/>I hope you know how much I love you and I'm proud of you<br/>And please believe</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>The thoughts I have for you will never change or fade away<br/>And when you felt like giving up<br/>I never did</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>'Cause I'm not scared of imperfections<br/>Or the questions in your head<br/>Just know that you have always been enough</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>'Cause you tried and you tried<br/>And I saw you wrestle with<br/>Every how, every why<br/>I was right there listening</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>So just fall into the mystery<br/>And I'll meet you here in the melody<br/>Try, just to try again<br/>Oh, child would you try again?<br/>My child, you can love again</lines>
+    </verse>
+  </lyrics>
+</song>

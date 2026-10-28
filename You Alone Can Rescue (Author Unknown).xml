@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>You Alone Can Rescue</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Who, Oh Lord, could save themselves<br/>Their own soul could heal?</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Our shame was deeper than the sea<br/>Your grace is deeper still</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>You alone can rescue, You alone can save<br/>You alone can lift us from the grave</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>You came down to find us, led us out of death<br/>To You alone belongs the highest praise</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>You, Oh Lord, have made a way<br/>The great divide You heal</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>For when our hearts were far away<br/>Your love went further still</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Yes, your love goes further still</lines>
+    </verse>
+    <verse name="b1">
+      <lines>We lift up our eyes, lift up our eyes<br/>You're the Giver of Life</lines>
+    </verse>
+  </lyrics>
+</song>

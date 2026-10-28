@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>I love you Lord (you heard my cry )</title>
+    </titles>
+    <copyright>© 2003 Make Way Music</copyright>
+    <authors>
+      <author>Graham Kendrick</author>
+    </authors>
+    <songbooks>
+      <songbook name="TS1302"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I love you, Lord because you heard my cry for mercy.<br/>I love you, Lord because you heard my voice and answered me.<br/>Though the fears of death surround me<br/>I won't be afraid if you are there.<br/>When I call your name you hear me,<br/>when I am brought low I find you near.<br/>It is to you I lift up my eyes, only you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What can I give for all you've done for me so freely?<br/>I will make known your overwhelming love that rescued me.<br/>I'll complete all I have promised<br/>in the presence of your people here,<br/>calling on your name for ever,<br/>living always in your house of prayer.<br/>It is to you I lift up my eyes, only you.<br/>It is to you I lift up my eyes, only you.</lines>
+    </verse>
+  </lyrics>
+</song>

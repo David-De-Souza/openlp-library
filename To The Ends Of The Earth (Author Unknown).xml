@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>To The Ends Of The Earth</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Love unfailing<br/>Overtaking my heart<br/>You take me in</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Finding peace again<br/>Fear is lost in all you are</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>And I would give the world<br/>to tell your story</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Cause I know that you've called me<br/>I know that you've called me</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>I've lost myself for good within your promise<br/>And I won't hide it<br/>I won't hide it</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Jesus, I believe in You<br/>And I would go</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>To the ends of the earth<br/>To the ends of the earth</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>For you alone are the son of God<br/>And all the world will see</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>That You are God<br/>You are God</lines>
+    </verse>
+  </lyrics>
+</song>

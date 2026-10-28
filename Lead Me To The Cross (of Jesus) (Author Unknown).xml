@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:13">
+  <properties>
+    <titles>
+      <title>Lead Me To The Cross (of Jesus)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>How can I be free from sin<br/>Lead me to the cross of Jesus</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>From the guilt, the power, the pain<br/>Lead me to the cross of Jesus</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>There's no other way<br/>No price that i could pay</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Simply to the cross i cling</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>This is all i need<br/>This is all I plead</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>That his blood was shed for me</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>How can i know peace within<br/>Lead me to the cross if Jesus</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Sing a song of joy again<br/>Lead me to the cross of Jesus</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>Flowing from above<br/>All-forgiving love</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>From the Father's heart to me</lines>
+    </verse>
+    <verse name="c2c">
+      <lines>What a gift of grace<br/>His own righteousness</lines>
+    </verse>
+    <verse name="c2d">
+      <lines>Clothing me in purity</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>How can I live day by day<br/>Lead me to the cross if Jesus</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Following his narrow way<br/>Lead me to the cross of Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

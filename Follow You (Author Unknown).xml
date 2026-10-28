@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Follow You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You lived among the least of these<br/>The weary and the weak<br/>And it would be a tragedy<br/>For me to turn away</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>All my needs you have supplied<br/>When I was dead You gave me life<br/>How could I not give it away so freely?</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>And I`ll follow You into the homes of the broken<br/>Follow You into the world</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Meet the needs of the poor and the needy<br/>God, follow You into the world</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Use my hands use my feet<br/>To make Your kingdom come<br/>Through the corners of the earth<br/>Until Your work is done</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Cause faith without works is dead<br/>And on the cross Your blood was shed<br/>So how could I not give it away so freely?</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>I give all myself<br/>I give all myself<br/>I give all myself to You</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>And I give all myself<br/>Yes I give all myself<br/>And I give all myself to You</lines>
+    </verse>
+  </lyrics>
+</song>

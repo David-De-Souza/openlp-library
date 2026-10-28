@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Our Blessing Cup</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Our blessing cup is a communion<br/>with the blood of Christ</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>And the bread we break,<br/>it is a sharing in the body of the Lord</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>How can we make a return,<br/>for all the goodness God has shown</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>We will take the cup of life<br/>And call upon God's name</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Precious indeed in Your sight,<br/>The life and death of those You love</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>We are Your servants,<br/>for You have set us free</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Gracious and merciful God<br/>We give thanks and bless Your name</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>With all Your people<br/>praise and glory to Your name</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>For You have heard my voice<br/>For You have heard my pleading</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Though death surrounded me<br/>You heard and answered me</lines>
+    </verse>
+  </lyrics>
+</song>

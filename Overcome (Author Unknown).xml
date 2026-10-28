@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Overcome</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Seated above<br/>Enthroned in the Father's love</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Destined to die<br/>Poured out for all mankind</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>God's only son<br/>Perfect and spotless one</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>He never sinned<br/>But suffered as if he did</lines>
+    </verse>
+    <verse name="p1">
+      <lines>All authority, every victory is yours (x2)</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Saviour, worthy of honour and glory<br/>Worthy of all our praise<br/>You overcame</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Jesus, awesome in power forever,<br/>Awesome &amp; great is Your name<br/>You overcame</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Power in hand<br/>Speaking the Father's plan</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>You're sending us out<br/>Light in this broken land</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>We will overcome<br/>By the blood of the lamb</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>And the word of our testimony<br/>Everyone overcome</lines>
+    </verse>
+  </lyrics>
+</song>

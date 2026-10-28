@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:13">
+  <properties>
+    <titles>
+      <title>Little Drummer Boy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Come they told me,<br/>pa rum pum pum pum<br/>A new born King to see,<br/>pa rum pum pum pum</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Our finest gifts we bring,<br/>pa rum pum pum pum<br/>To lay before the King,<br/>pa rum pum pum pum,</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>rum pum pum pum,<br/>rum pum pum pum,</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>So to honor Him,<br/>pa rum pum pum pum,<br/>When we come.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Little Baby,<br/>pa rum pum pum pum<br/>I am a poor boy too,<br/>pa rum pum pum pum</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>I have no gift to bring,<br/>pa rum pum pum pum<br/>That's fit to give the King,<br/>pa rum pum pum pum,</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>rum pum pum pum,<br/>rum pum pum pum,</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Shall I play for you,<br/>pa rum pum pum pum,<br/>On my drum?</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Mary nodded,<br/>pa rum pum pum pum<br/>The ox and lamb kept time,<br/>pa rum pum pum pum</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>I played my drum for Him,<br/>pa rum pum pum pum<br/>I played my best for Him,<br/>pa rum pum pum pum,</lines>
+    </verse>
+    <verse name="v3d">
+      <lines>rum pum pum pum,<br/>rum pum pum pum,</lines>
+    </verse>
+    <verse name="v3e">
+      <lines>Then He smiled at me,<br/>pa rum pum pum pum<br/>Me and my drum.</lines>
+    </verse>
+  </lyrics>
+</song>

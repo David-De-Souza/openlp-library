@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Reason to Praise</title>
+    </titles>
+    <authors>
+      <author>Bethel</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>When I’m at my end, You’re just getting started<br/>When I hit a wall, You just walk through</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>When I face a mountain, You are the Maker<br/>So it’s gotta move</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>When I’m out of faith, You are still faithful<br/>When I’m at my worst, You are still good</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>In all of my questions, You are the answer<br/>It all points to You</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>You’re the God of the breakthrough<br/>When I’m breaking down<br/>You’ll be working a way through<br/>When there’s no way out</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>This one thing I know, You’re still on Your throne<br/>So whatever I’m feeling<br/>I’ve still got a reason to praise</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Out of our wrongs, You write our story<br/>And out of the cross, come rivers of grace</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>And out of the grave, bursts a revival no tomb can contain</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>When You come around<br/>Dry bones come to life<br/>Deserts to paradise<br/>Stones just start rollin’ away</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>When You come around<br/>My heart starts to beat again<br/>Lungs stretch to breathe You in<br/>Souls just erupt into praise</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Garden</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>In the cool of the day<br/>You come and meet me</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>All the blue fades away<br/>The stars are winking</lines>
+    </verse>
+    <verse name="p1a">
+      <lines>Your love's so strong<br/>I can't recall</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>What was this thing<br/>They called the fall?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And You walk with me<br/>You never leave<br/>You're making my heart a garden</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Oh, why would I hide<br/>Away from Your face</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>When the light of Your love<br/>Illuminates?</lines>
+    </verse>
+    <verse name="p2a">
+      <lines>Your hand in mine<br/>A steady line</lines>
+    </verse>
+    <verse name="p2b">
+      <lines>Drawn on my heart<br/>And deep in my mind</lines>
+    </verse>
+    <verse name="b1">
+      <lines>All the broken are mending<br/>The mournful rejoicing<br/>Seeing through tears<br/>Of peace overflowing</lines>
+    </verse>
+  </lyrics>
+</song>

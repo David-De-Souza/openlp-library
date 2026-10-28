@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>Holy (Jesus You Are)</title>
+    </titles>
+    <copyright>© 2011 Atlas Mountain Songs (Admin. by CopyCare Asia Ltd (Singapore Branch))/sixsteps Music (Admin. by CopyCare Asia Ltd (Singapore Branch))/Thankyou Music (Admin. by CopyCare Asia Ltd (Singapore Branch))/worshiptogether.com songs (Admin. by CopyCare Asia Ltd (Singapore Branch))/So Essential Tunes (Admin. by Essential Music Publishing LLC)/Spirit Nashville Three (Admin. by Essential Music Publishing LLC)/Spirit Nashville Three (Admin. by Spirit Music Group)</copyright>
+    <verseOrder>v1 c1 v2 o1 v3</verseOrder>
+    <ccliNo>6016306</ccliNo>
+    <authors>
+      <author>Jason Ingram</author>
+      <author>Jonas Myrin</author>
+      <author>Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What heart could hold the weight of Your love<br/>And know the heights of Your great worth<br/>What eyes could look on Your glorious face<br/>Shining like the sun<br/>(REPEAT)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are holy holy holy<br/>God most high and God most worthy<br/>You are holy holy holy<br/>Jesus You are Jesus You are<br/>(Jesus You are Jesus You are)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your name alone has pow'r to raise us<br/>Your light will shine when all else fades<br/>Our eyes will look on Your glorious face<br/>Shining like the sun<br/>Who is like You God</lines>
+    </verse>
+    <verse name="o1">
+      <lines>(Bridge)<br/>Who shall we say You are<br/>You're the living God<br/>Who shall we say You are<br/>You're the Great I Am<br/>The highest name of all<br/>You're all You say You are</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And You will come again in glory<br/>To judge the living and the dead<br/>All eyes will look on Your glorious face<br/>Shining like the sun<br/>Who is like You God</lines>
+    </verse>
+  </lyrics>
+</song>

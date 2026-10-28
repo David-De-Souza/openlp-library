@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>How Great is Our God</title>
+    </titles>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The splendor of a King, clothed in majesty<br/>Let all the Earth rejoice<br/>All the Earth rejoice</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>He wraps himself in light<br/>And darkness tries to hide</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>And trembles at His voice<br/>Trembles at His voice</lines>
+    </verse>
+    <verse name="c1">
+      <lines>How great is our God, sing with me<br/>How great is our God, and all will see<br/>How great, how great is our God</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Age to age He stands<br/>And time is in His hands</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Beginning and the end<br/>Beginning and the end</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>The Godhead Three in One<br/>Father Spirit Son</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>The Lion and the Lamb<br/>The Lion and the Lamb</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Name above all names<br/>Worthy of our praise</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>My heart will sing<br/>How great is our God</lines>
+    </verse>
+  </lyrics>
+</song>

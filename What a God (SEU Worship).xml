@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-11-29T14:46:34">
+  <properties>
+    <titles>
+      <title>What a God</title>
+    </titles>
+    <authors>
+      <author>SEU Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Who thought I’d find You in the lowest place<br/>Who thought You’d feel me in the crowd</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Who knew You’d make good of my mistakes<br/>You’re nothing like I thought You were, You’re better</lines>
+    </verse>
+    <verse name="c1">
+      <lines>What a God, what a God</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I thought You’d show up for perfection<br/>What kind of God looks for the lost</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>They say it’s over for a sinner<br/>You said, no it’s not, no it’s not<br/>You say, no it’s not, no it’s not</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>If the highest place I’ve reached is at Your feet, then I’ve done it all<br/>If the best thing that I’ve seen is Your glory, then I’ve seen it all</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Your love has changed my life, forever satisfied<br/>God, You are my everything</lines>
+    </verse>
+    <verse name="b2a">
+      <lines>If one word is the only thing You speak, then I’ve heard it all<br/>If I feel Your heart and never see Your hand, I still have it all</lines>
+    </verse>
+    <verse name="b2b">
+      <lines>No treasure of this life could ever satisfy<br/>God, You are my everything<br/>God, You are my everything<br/>God, You are my everything</lines>
+    </verse>
+  </lyrics>
+</song>

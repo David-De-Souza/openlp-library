@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>This Is Our God</title>
+    </titles>
+    <authors>
+      <author>HIllsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Your grace is enough, more than I need<br/>At Your word I will believe</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I wait for You, draw near again<br/>Let Your Spirit make me new</lines>
+    </verse>
+    <verse name="p1a">
+      <lines>And I will fall at Your feet<br/>I will fall at Your feet</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>And I will worship You here</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Your presence in me, Jesus light the way<br/>By the power of Your word</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>I am restored, I am redeemed<br/>By Your Spirit I am free</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Freely You gave it all for us<br/>Surrendered Your life upon that cross</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Great is the love poured out for all<br/>This is our God</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Lifted on high from death to life<br/>Forever our God is glorified</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>Servant and King rescued the world<br/>This is our God</lines>
+    </verse>
+  </lyrics>
+</song>

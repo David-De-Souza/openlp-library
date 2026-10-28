@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>To Be Your Bread</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>To be Your bread now<br/>Be Your wine now</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Lord come and change us<br/>To be a sign of Your love</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Blessed and broken<br/>Poured and flowing</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>Gift that you gave us<br/>To be Your body once again</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>We come to Your table with our lives<br/>as they are</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Heal us Lord, for we are broken<br/>Make us one again</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Lord, we stumble through the darkness of night</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Lead us now, Lord we follow<br/>Bring us home to You</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Give us the bread and wine that brings us to life</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Feed us and we'll never hunger<br/>Never thirst again</lines>
+    </verse>
+  </lyrics>
+</song>

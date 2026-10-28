@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Come Alive</title>
+    </titles>
+    <authors>
+      <author>Red Rocks Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lay down your burdens, lay down your pride<br/>Rest in the mercy that Jesus provides<br/>Come all ye weary, broken inside<br/>Lay down your burdens, lay down your life</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Come and lift your voice<br/>At the throne of grace, we come alive<br/>Let the lost rejoice, in Jesus Christ<br/>His arms are open wide</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Let these mountains shake<br/>From the sound of voices multiplied<br/>As our souls awake, in Jesus Christ<br/>His arms are open wide</lines>
+    </verse>
+    <verse name="b1">
+      <lines>In this moment, in Your presence<br/>Overwhelmed by love, we come alive<br/>We cry holy, King of Glory<br/>Jesus Christ, Your name be lifted high</lines>
+    </verse>
+  </lyrics>
+</song>

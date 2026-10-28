@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>Here I Am, Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I, the Lord of sea and sky<br/>I have heard my people cry</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>All who dwell in dark and sin<br/>My hand will save</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>I who made the stars of night<br/>I will make their darkness bright</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Who will bear my light to them?<br/>Whom shall I send?</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Here I am, Lord<br/>Is it I, Lord?</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>I have heard you calling in the night</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>I will go, Lord<br/>If you lead me</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>I will hold your people in my heart</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I, the Lord of snow and rain<br/>I have borne my people's pain</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>I have wept for love of them<br/>They turn away</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>I will break their hearts of stone<br/>Give them hearts for love alone</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>I will speak my word to them<br/>Whom shall I send?</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>I, the Lord of wind and flame<br/>I will tend the poor and lame</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>I will set a feast for them<br/>My hand will save</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>Finest bread I will provide<br/>Till their hearts be satisfied</lines>
+    </verse>
+    <verse name="v3d">
+      <lines>I will give my life to them<br/>Whom shall I send?</lines>
+    </verse>
+  </lyrics>
+</song>

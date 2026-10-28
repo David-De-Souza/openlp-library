@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Easter Song</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My Lord He died for a kingdom<br/>To redeem the hearts of men<br/>Now my people don't you weep<br/>He has risen from His sleep<br/>He lives again, Alleluia</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sing Alleluia<br/>The Lord is risen<br/>He is risen indeed Alleluia</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My Lord came forth like the morning<br/>With the splendour of the sun<br/>Came triumphant from the womb<br/>From the darkness of the tomb<br/>The victory won Alleluia</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My Lord united the mountains<br/>with the everlasting hills<br/>Now the seaons and the sea<br/>sing His song of vcitory<br/>Rocks and rills Alleluia</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My Lord renewed all creation<br/>that had waited late and long<br/>Now we all with one accord<br/>Live and love the risen Lord<br/>This is our song Alleluia</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:13">
+  <properties>
+    <titles>
+      <title>King of Kings</title>
+    </titles>
+    <authors>
+      <author>Hillsong Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>In the darkness we were waiting<br/>Without hope, without light<br/>'Til from Heaven You came running<br/>There was mercy in Your eyes</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>To fulfill the law and prophets<br/>To a virgin came the word<br/>From a throne of endless glory<br/>To a cradle in the dirt</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Praise the Father, praise the Son<br/>Praise the Spirit, three in one<br/>God of glory, Majesty<br/>Praise forever to the King of Kings</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>To reveal the kingdom coming<br/>And to reconcile the lost<br/>To redeem the whole creation<br/>You did not despise the cross</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>For even in your suffering<br/>You saw to the other side<br/>Knowing this was our salvation<br/>Jesus for our sake you died</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>And the morning that You rose<br/>All of Heaven held its breath<br/>'Til that stone was moved for good<br/>For the Lamb had conquered death</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>And the dead rose from their tombs<br/>And the angels stood in awe<br/>For the souls of all who'd come<br/>To the Father are restored</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>And the church of Christ was born<br/>Then the Spirit lit the flame<br/>Now this gospel truth of old<br/>Shall not kneel, shall not faint</lines>
+    </verse>
+    <verse name="v3d">
+      <lines>By His blood and in His name<br/>In His freedom I am free<br/>For the love of Jesus Christ<br/>Who has resurrected me</lines>
+    </verse>
+  </lyrics>
+</song>

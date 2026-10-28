@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Sovereign</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sovereign in the mountain air<br/>Sovereign on the ocean floor<br/>With me in the calm<br/>With me in the storm</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sovereign in my greatest joy<br/>Sovereign In my deepest cry<br/>With me in the dark<br/>With me at the dawn</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>In Your everlasting arms<br/>All the pieces of my life<br/>From beginning to the end<br/>I can trust You</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>In Your never failing love<br/>You work everything for good<br/>God, whatever comes my way<br/>I will trust You</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>All my hopes<br/>All I need<br/>Held in Your hands</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>All my life<br/>All of me<br/>Held in Your hands</lines>
+    </verse>
+    <verse name="b1c">
+      <lines>All my fears<br/>All my dreams<br/>Held in Your hands</lines>
+    </verse>
+  </lyrics>
+</song>

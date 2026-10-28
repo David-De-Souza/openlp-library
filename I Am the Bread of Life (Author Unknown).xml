@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>I Am the Bread of Life</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I am the bread of life<br/>He who comes to me shall not hunger</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>He who belives in me shall not thirst<br/>No one can come to me, unless the Father beckons</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I will raise you up<br/>And I will raise you up<br/>And I will raise you up, on the last day</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>The bread that I will give<br/>Is my flesh for the life of the world</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>And if you eat of this bread<br/>You shall live forever<br/>You shall live forever</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Unless you eat, of the flesh of the Son of Man<br/>And drink of His blood, and drink of His blood<br/>You shall not have life within you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I am the ressurection, I am the life<br/>If you believe in me, even though you die<br/>You shall live forever</lines>
+    </verse>
+  </lyrics>
+</song>

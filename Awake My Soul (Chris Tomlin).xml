@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Awake My Soul</title>
+    </titles>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Breathe on me, breath of God,<br/>breathe on me<br/>Breathe on me, breath of God,<br/>breathe on me</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I come alive,<br/>I'm alive when You breathe on me<br/>I come alive,<br/>I'm alive when You breathe on me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Awake, awake, awake my soul<br/>God, resurrect these bones<br/>From death to life<br/>For You alone<br/>Awake my soul</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Speak to me, Word of God,<br/>speak to me<br/>Speak to me, Word of God,<br/>speak to me</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>I come alive,<br/>I'm alive when You speak to me<br/>I come alive,<br/>I'm alive when You speak to me</lines>
+    </verse>
+  </lyrics>
+</song>

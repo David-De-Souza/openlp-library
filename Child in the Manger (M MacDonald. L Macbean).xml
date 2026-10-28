@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Child in the Manger</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>M MacDonald. L Macbean</author>
+    </authors>
+    <songbooks>
+      <songbook name="MP71"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Child in the manger, infant of Mary,<br/>outcast and stranger, Lord of all!<br/>Child who inherits all out transgressions,<br/>all our demerits on Him fall.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Once the most holy child of salvation<br/>gentle and lowly lived below:<br/>now as our glorious mighty Redeemer,<br/>see Him victorious over each foe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Prophets foretold Him, infant of wonder;<br/>angels behold Him on His throne:<br/>worthy our Saviour of all their praises;<br/>happy for ever are His own.</lines>
+    </verse>
+  </lyrics>
+</song>

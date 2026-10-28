@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Prodigal Son</title>
+    </titles>
+    <authors>
+      <author>Eugene O'Reilly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father I have sinned,<br/>help me find my way.<br/>Remember not my sins,<br/>just let me hear you say</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I forgive you, I love you<br/>You are mine, take my hand.<br/>Go in peace, sin no more,<br/>Beloved one.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Father I have turned,<br/>my back and walked away<br/>Depended on my strength<br/>and lived life my own way</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Father I have closed,<br/>my heart to those in need.<br/>Thought only of myself,<br/>a victim of my greed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Father I have loved,<br/>if love’s the word to use.<br/>I’ve played so many games,<br/>they’ve left me so confused</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Father I’ve returned,<br/>I’m home with you to stay.<br/>Standing at your door,<br/>knowing that you’ll say</lines>
+    </verse>
+  </lyrics>
+</song>

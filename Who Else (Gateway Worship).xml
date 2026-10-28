@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-28T13:50:30">
+  <properties>
+    <titles>
+      <title>Who Else</title>
+    </titles>
+    <authors>
+      <author>Gateway Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am an instrument of exaltation<br/>And I was born to lift Your name above all names<br/>You hear the melody of all creation<br/>But there's a song of praise that only I can bring</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Who else is worthy? Who else is worthy?<br/>There is no one, only You, Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are the infinite God of the ages<br/>Yet You chose to make my heart Your dwelling place<br/>You healed my brokennеss, showed me Your glory<br/>So I have songs of thanks not еven angels sing</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Lamb of God, anointed one<br/>Who was and is and is to come<br/>Seated on the throne above<br/>Holy, Holy</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Righteous one who shed His blood<br/>You proved to us the Father's love<br/>Jesus Christ be lifted up<br/>Holy, Holy</lines>
+    </verse>
+  </lyrics>
+</song>

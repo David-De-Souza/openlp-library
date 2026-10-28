@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>I Surrender</title>
+    </titles>
+    <comments>
+      <comment>Integrity's Praise! Music (Admin. by CopyCare Asia Ltd (Singapore Branch))Open Hands Music (Admin. by Essential Music Publishing LLC)So Essential Tunes (Admin. by Essential Music Publishing LLC)For use solely with the SongSelect. Terms of Use. All rights reserved. www.ccli.com</comment>
+    </comments>
+    <copyright>© Integrity's Alleluia! Music (Admin. by CopyCare Asia Ltd (Singapore Branch))</copyright>
+    <ccliNo>7060165</ccliNo>
+    <authors>
+      <author>David Leonard</author>
+      <author>Jason Ingram</author>
+      <author>Leslie Jordan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The riches of this world will fade<br/>The treasures of our God remain<br/>Here I empty myself to owe this world nothing<br/>And find ev'rything in You</lines>
+    </verse>
+    <verse name="o1">
+      <lines>I surrender I surrender I surrender all to You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take my life a sacrifice<br/>In You alone I'm satisfied<br/>Here I empty myself to owe this world nothing<br/>And find ev'rything in You<br/>Oh oh ev'rything in You</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Not my will but Yours be done<br/>Not my strength but Yours alone<br/>Nothing else but You O Lord<br/>I find ev'rything in You</lines>
+    </verse>
+  </lyrics>
+</song>

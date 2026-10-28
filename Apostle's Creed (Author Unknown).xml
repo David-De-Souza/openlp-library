@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Apostle's Creed</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I believe in God, the Father almighty<br/>Creator of heaven and earth</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And in Jesus Christ, the only son of God<br/>Who was conceived by the Holy Spirit,<br/>Born of the Virgin Mary<br/>Suffered under Pontius Pilot<br/>Was crucified, died and was buried</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He decended into hell<br/>On the third day he rose again from the dead<br/>He ascended into heaven<br/>And is seated at the right hand of God the Father almighty<br/>From there He will come to judge the living and the dead</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I believe in the Holy Spirit<br/>The holy Catholic church<br/>The communion of saints<br/>The forgiveness of sins<br/>The resurrection of the body<br/>And life everlasting</lines>
+    </verse>
+  </lyrics>
+</song>

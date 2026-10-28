@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Eagle's Wings</title>
+    </titles>
+    <authors>
+      <author>Reuben Morgan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Here I am waiting, abide in me I pray<br/>Here I am longing for You</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Hide me in Your Love,<br/>Bring me to my knees<br/>May I know Jesus more and more</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Come live in me, all my life<br/>Take over<br/>Come breathe in me, and I will rise<br/>On Eagle's Wings</lines>
+    </verse>
+  </lyrics>
+</song>

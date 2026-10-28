@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Be Enthroned</title>
+    </titles>
+    <authors>
+      <author>Bethel</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>We've come to join the song<br/>Sung long before our lives</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>To raise our voice along<br/>Heaven and earth alike</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>And we've seen Your faithful hand<br/>Your mercy without end</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>And a King who bled and died<br/>And a God who sacrificed</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>And be enthroned upon the praises of<br/>A thousand generations<br/>You are worthy, Lord of all</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Unto You the slain and risen King<br/>We lift our voice with heaven<br/>Singing worthy, Lord of all</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>All through this life we lead<br/>And on through eternity</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Our endless praise, we'll cry<br/>And Jesus be glorified<br/></lines>
+    </verse>
+    <verse name="b1">
+      <lines>Highest praises, Lord of all</lines>
+    </verse>
+  </lyrics>
+</song>

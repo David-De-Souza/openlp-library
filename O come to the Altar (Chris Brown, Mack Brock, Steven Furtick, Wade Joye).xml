@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>O come to the Altar</title>
+    </titles>
+    <verseOrder>v1 c1 v2 b1</verseOrder>
+    <authors>
+      <author type="words">Chris Brown, Mack Brock, Steven Furtick, Wade Joye</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Are you hurting and broken within <br/>Overwhelmed by the weight of your sin<br/>Jesus is calling</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Have you come to the end of yourself<br/>Do you thirst for a drink from the well<br/>Jesus is calling</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O come to the altar <br/>The Father's arms are open wide<br/>Forgiveness was bought with<br/>The precious blood of Jesus Christ</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Leave  behind your regrets and mistakes <br/>Come today there's no reason to wait<br/>Jesus is calling</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Bring your sorrows and trade them for joy<br/>From the ashes a new life is born<br/>Jesus is calling</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Oh what a Saviour isn't he wonderful<br/>Sing alleluia Christ is risen<br/>Bow down before him for He is Lord of all<br/>Sing alleluia Christ is risen</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Have you come to the end of yourself<br/>Do you thirst for a drink from the well<br/>Jesus is calling</lines>
+    </verse>
+  </lyrics>
+</song>

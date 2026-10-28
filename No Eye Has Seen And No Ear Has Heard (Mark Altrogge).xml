@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>No Eye Has Seen And No Ear Has Heard</title>
+    </titles>
+    <copyright>1990 Integrity's Hosanna! Music/People of Destiny Int./Adm. by Kingsway's Thankyou Music</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Mark Altrogge</author>
+    </authors>
+    <songbooks>
+      <songbook name="SF943, TS899"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No eye has seen,<br/>And no ear has heard,<br/>And no mind has ever conceived<br/>The glorious things<br/>That You have prepared<br/>For everyone who has believed;<br/>You brought us near and You called us Your own,<br/>And made us joint heirs with Your Son.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>How high and how wide,<br/>How deep and how long,<br/>How sweet and how strong is Your love;<br/>How lavish Your grace,<br/>How faithful Your ways,<br/>How great is Your love, O Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Objects of mercy,<br/>Who should have known wrath,<br/>We're filled with unspeakable joy;<br/>Riches of wisdom<br/>Unsearchable wealth,<br/>And the wonder of knowing Your voice.<br/>You are our treasure and our great reward,<br/>Our hope and our glorious King.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Set Apart</title>
+    </titles>
+    <authors>
+      <author>Tim Hughes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Back to our first love, nothing between us<br/>Back to Your heart, to the start of it all<br/>Where we found You</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Out of the ashes, into the fire<br/>You are refining our hearts in the flames<br/>Of Your presence</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Set apart for our God above<br/>Set apart for the One we love<br/>Set apart for Your glory we are Yours, Yours</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sacred and holy, Your name is worthy<br/>Jesus, awaken our hearts now to be<br/>Your revival</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Everything for You alone<br/>Everything to make You known<br/>Set apart for Your glory we are Yours, Yours</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Oh, how great You are x 4</lines>
+    </verse>
+  </lyrics>
+</song>

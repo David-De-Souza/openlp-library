@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>As Bread That Is Broken</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Many hearts are hungry tonight<br/>Many trapped in darkness yearn for the Light</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>So many who are far from home<br/>And many who are lost</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Oh Lord, Your wounded children need<br/>The power of Your cross</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>As bread that is broken, use our lives<br/>As wine that is poured out<br/>A willing sacrifice</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Empower us, Father, to share the love of Christ<br/>As bread that is broken Lord, use our lives</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Help us to begin where we are<br/>Help us love the people<br/>Near to our heart</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Then give our faith a mission field<br/>Wherever You may call</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Lord, love Your world<br/>Through each of us<br/>Until we've touched them all</lines>
+    </verse>
+  </lyrics>
+</song>

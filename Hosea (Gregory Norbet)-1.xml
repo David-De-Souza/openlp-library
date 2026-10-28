@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>Hosea</title>
+    </titles>
+    <authors>
+      <author>Gregory Norbet</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come back to me with all your heart<br/>Don't let fear keep us apart<br/>Trees do bend though straight and tall<br/>So must we to others' call</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Long have I waited for<br/>Your coming home to me<br/>And living deeply our new lives</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The wilderness will lead you<br/>To your heart where I will speak<br/>Integrity and justice, with tenderness<br/>You shall know.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You shall sleep secure with peace<br/>Faithfulness will be your joy</lines>
+    </verse>
+  </lyrics>
+</song>

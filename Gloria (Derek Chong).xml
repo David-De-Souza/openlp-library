@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Gloria</title>
+    </titles>
+    <authors>
+      <author>Derek Chong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Glory to God in the highest<br/>Peace to His people on earth<br/>Almighty God and Father<br/>We worship you we give you thanks</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Lord God, Heavenly King<br/>Lord Jesus Christ<br/>Only Son of the Father<br/>We praise You for Your glory</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord God, Lamb of God<br/>You take away our sins<br/>Have mercy on us<br/>Receive our prayer.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Glory to God in the highest<br/>Peace to His people on earth<br/>Almighty God and Father<br/>We worship You we give You thanks</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For You alone are the holy one<br/>You alone are the Lord<br/>You alone are the most high God<br/>Lord Jesus Christ, with the Holy Spirit<br/>In the glory of God the Father.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Glory to God in the highest<br/>Peace to His people on earth<br/>Almighty God and Father<br/>We worship You we give You thanks</lines>
+    </verse>
+  </lyrics>
+</song>

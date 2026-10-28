@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Not a sound invades the stillness</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Not a sound invades the stillness,<br/>not a form invades the scene,<br/>save the voice of my Beloved<br/>and the person of my King.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Precious, gentle, holy Jesus!<br/>Blessed Bridegroom of my heart,<br/>in Thy secret inner chamber,<br/>Thou wilt whisper what Thou art.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And within those heavenly places,<br/>calmly hushed in sweet repose,<br/>there I drink, with joy absorbing<br/>all the love Thou wouldst disclose.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wrapped in deep adoring silence,<br/>Jesus, Lord, I dare not move,<br/>lest I lose the smallest saying<br/>meant to catch the ear of love.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Rest then, O my soul, contented:<br/>Thou hast reached thy happy place,<br/>in the bosom of thy Saviour,<br/>gazing up in His dear face.</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>In Tune two, the chorus is only sung after verses 2 &amp; 4.</lines>
+    </verse>
+  </lyrics>
+</song>

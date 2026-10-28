@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>You Bled</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You bled you heart out<br/>Now I feel love beat in my chest<br/>How wonderful</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You gave your beauty<br/>In exchange for my ugliness<br/>How wonderful</lines>
+    </verse>
+    <verse name="p1">
+      <lines>You left your perfection<br/>and embrace our rejection, Oh God</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>How marvellous, how boundless<br/>Is your love, is your love</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>How wonderful, sacrificial<br/>Is your love for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You put on our chains<br/>Sent us out through the open<br/>How wonder</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You took our sadness<br/>Crowned us with joy and real<br/>How wonderful</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Yes, Jesus loves me<br/>Yes, Jesus loves me, how wonderful</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Yes, Jesus loves me<br/>This is love, You gave yourself</lines>
+    </verse>
+  </lyrics>
+</song>

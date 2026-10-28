@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Go Go Go</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Go ye therefore and teach all nations<br/>Go, Go, Go<br/>Go ye therefore and teach all nations<br/>Go, Go, Go<br/>Baptizing them in the name of the<br/>Father and Son and Holy Ghost<br/>Go, Go, Go</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If you love Me really love Me<br/>Feed My sheep<br/>If you love Me really love Me<br/>Feed My sheep<br/>Lo, I'll be with you forever and ever<br/>until the end of the world<br/>Go, Go, Go</lines>
+    </verse>
+  </lyrics>
+</song>

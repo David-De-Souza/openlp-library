@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Glory In The Highest</title>
+    </titles>
+    <authors>
+      <author>Travis Cotrell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who could have imagined this?<br/>Infant and the Infinite<br/>Son of God, so wonderful<br/>Heaven's perfect miracle</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Glory in the highest<br/>Glory in the highest<br/>Prince of Peace, King of Kings<br/>Jesus, Lord of everything<br/>Glory in the highest</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Born to die and born to save<br/>Born to take our sin away<br/>Light and life to all He brings<br/>With the Angels, let us sing</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Come and worship, come and worship<br/>Worship Christ the newborn King<br/>Come and worship, come and worship<br/>Worship Christ the newborn King</lines>
+    </verse>
+  </lyrics>
+</song>

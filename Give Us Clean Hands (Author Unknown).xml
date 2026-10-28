@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Give Us Clean Hands</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>We bow our hearts<br/>We bend our knees<br/>Oh Spirit, come make us humble</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>We turn our eyes from evil things<br/>Oh Lord, we cast down our idols</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>So give us clean hands<br/>Give us pure hearts<br/>Let us not lift our souls to another</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Oh give us clean hands<br/>Give us pure hearts<br/>Let us not lift our souls to another</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Oh God let this be<br/>A generation that seeks<br/>Who seeks Your face, Oh God of Jacob</lines>
+    </verse>
+  </lyrics>
+</song>

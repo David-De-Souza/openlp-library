@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>God You're So Good</title>
+    </titles>
+    <authors>
+      <author>Kristian Stanfill</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amazing love<br/>That welcomes me<br/>The kindness of mercy<br/>That bought with blood, wholeheartedly<br/>My soul undeserving</lines>
+    </verse>
+    <verse name="c1">
+      <lines>God, You're so good<br/>Oh God, You're so good<br/>God, You're so good<br/>You're so good to me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Behold the cross<br/>Age to age<br/>And hour by hour<br/>The dead are raised, the sinner saved<br/>The work of Your power</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>I am blessed, I am called<br/>I am healed, I am whole<br/>I am saved in Jesus' name</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Highly favored, anointed<br/>Filled with Your power<br/>For the glory of Jesus' name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And should this life<br/>Bring suffering<br/>Lord, I will remember<br/>What Calvary has bought for me<br/>Both now and forever</lines>
+    </verse>
+  </lyrics>
+</song>

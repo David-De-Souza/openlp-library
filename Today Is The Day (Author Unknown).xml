@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>Today Is The Day</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I'm casting my cares aside<br/>I'm leaving my past behind</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I'm setting my heart and mind on You, Jesus</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>I'm reaching my hands to Yours<br/>Believing there's so much more</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Knowing that all You have in store for me is good, is good</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Today is the day, you have made<br/>I will rejoice and be glad in it</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Today is the day, you have made<br/>I will rejoice and be glad in it</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>I won't worry about tomorrow<br/>I'm trusting in what you say, today is the day</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I'm putting my fears aside<br/>I'm leaving my doubts behind</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>I'm giving my hopes and dreams to you, Jesus</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>I'm reaching my hands to Yours<br/>Believing there's so much more</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>Knowing that all You have in store for me is good, is good</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Guys: I will stand upon your truth<br/>(Girls echo)</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Guys: All my days I'll live for you<br/>(Girls echo)</lines>
+    </verse>
+    <verse name="b1c">
+      <lines>Guys: And I will stand upon your truth<br/>(Girls echo)</lines>
+    </verse>
+    <verse name="b1d">
+      <lines>Guys: All my days I'll live for you<br/>(Girl: All my days I'll live)</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>Today is the day, you have made<br/>I will rejoice and be glad in it</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>Today is the day, you have made<br/>I will rejoice and be glad in it</lines>
+    </verse>
+    <verse name="c2c">
+      <lines>I won't worry about tomorrow<br/>Giving you my fears and sorrows</lines>
+    </verse>
+    <verse name="c2d">
+      <lines>Where you lead me I will follow<br/>I'm trusting in what you say, today is the day</lines>
+    </verse>
+  </lyrics>
+</song>

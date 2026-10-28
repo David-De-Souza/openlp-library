@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Canticle Of The Sun</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>The heavens are telling the glory of God<br/>And all creation is shouting for joy</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Come dance in the forest<br/>Come, play in the field<br/>And sing, sing to the glory of the Lord</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Praise for the sun, the bringer of day<br/>He carries the light of the Lord in his rays</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>The moon and the stars<br/>Who light up the way unto your throne</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Praise for the wind that blows through the trees<br/>The seas mighty storms, the gentlest breeze</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>They blow where they will<br/>They blow where they please to please the Lord</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Praise for the rain that waters our fields<br/>And blesses our crops so all the earth yields</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>From death unto life<br/>Her mystery revealed springs forth in joy</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Praise for the fire who gives us his light<br/>The warmth of the sun to brighten our night</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>He dances with joy<br/>His spirit so bright, he sings of you</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Praise for the earth who makes life to grow,<br/>the creatures you made to let your life show;</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>the flowers and trees<br/>that help us to know the heart of love.</lines>
+    </verse>
+    <verse name="v6a">
+      <lines>Praise for our death that makes our life real,<br/>the knowledge of loss that helps us to feel;</lines>
+    </verse>
+    <verse name="v6b">
+      <lines>the gift of your self,<br/>you presence revealed to bring us home.</lines>
+    </verse>
+  </lyrics>
+</song>

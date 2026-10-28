@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Extravagant</title>
+    </titles>
+    <authors>
+      <author>Bethel Music</author>
+      <author>Steffany Gretzinger</author>
+      <author>Amanda Cook</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You were a lover before time's beginning<br/>You gave Your love freely withholding nothing<br/>Jesus    my Jesus</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You carried the weight of the world on Your shoulders<br/>You stopped at nothing to prove You were for us<br/>Jesus    my Jesus</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>It's extravagant<br/>It doesn't make sense<br/>We'll never compre - hend<br/>The way You love us</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>It's unthinkable<br/>Only Heaven knows<br/>Just how far You'd go<br/>To say You love us</lines>
+    </verse>
+    <verse name="o1">
+      <lines>To say You love us, to say You love us</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>You don't belittle our pain and our suffering<br/>You comfort us in our greatest unraveling<br/>Jesus    my Jesus</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>You are the dawn that is breaking within me<br/>You are the sun that is rising around me<br/>Jesus    my Jesus</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Here is all my love<br/>It's Yours, no con - ditions<br/>When You pull me close<br/>No I won't re - sist it</lines>
+    </verse>
+  </lyrics>
+</song>

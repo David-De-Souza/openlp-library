@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>You are Here</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You are here among us<br/>For we have gathered in Your Name<br/>We can feel your presence in this place</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You are here among us<br/>You are enthroned upon our praise<br/>You are here, here to heal and here to save</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are here in our midst<br/>How we've waited for moments like these<br/>Have you way in this place<br/>Holy Spirit come do as you wish<br/>We are changed as you move in our midst</lines>
+    </verse>
+  </lyrics>
+</song>

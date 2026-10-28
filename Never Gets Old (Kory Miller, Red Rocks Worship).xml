@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-10-04T16:15:32">
+  <properties>
+    <titles>
+      <title>Never Gets Old</title>
+    </titles>
+    <authors>
+      <author>Kory Miller</author>
+      <author>Red Rocks Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The more I see, the more I find to love<br/>The more I know, the more I can't withhold my heart<br/>I'm still amazed by who You are</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Somehow it never gets old telling You You're holy<br/>Somehow it never gets old telling You You're lovely<br/>Somehow it never gets old telling You You're worthy</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>For as long as I live<br/>I'll never get tired of giving You praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With every day, another reason why<br/>With evеry breath, another chance to givе my heart<br/>I'm still amazed by who You are</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>How could there be more when<br/>You've already been so good?</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>How could there be more when<br/>You've already been so kind?</lines>
+    </verse>
+    <verse name="b1c">
+      <lines>What else can I say?<br/>I'm still amazed by You</lines>
+    </verse>
+  </lyrics>
+</song>

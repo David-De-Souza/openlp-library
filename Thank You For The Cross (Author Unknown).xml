@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Thank You For The Cross</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Thank you for the cross,<br/>the mighty cross</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>That God himself should die for<br/>such as us</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>And everyday we're changed<br/>Into your image more and more<br/>Yes, by the cross we've truly been transformed</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>We're so amazed<br/>And we give you praise<br/>That you would save us at such a cost</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>And we're so amazed<br/>and we give you praise</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>For the power of the cross<br/>For the power of the cross</lines>
+    </verse>
+  </lyrics>
+</song>

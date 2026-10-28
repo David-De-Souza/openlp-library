@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Come and Tear Down the Walls</title>
+    </titles>
+    <authors>
+      <author>Revere</author>
+      <author>David&amp;Nicole Binion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Come and tear down the walls I've built up<br/>Every wall I've built up<br/>Every wall I've built up</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Cause You deserve every piece of my heart<br/>Every piece of my heart<br/>Every piece of my heart</lines>
+    </verse>
+    <verse name="p1a">
+      <lines>Lord, I am trusting that You are a faithful Father<br/>And all that You have, it is good</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>You're a generous giver<br/>Your love's like no other<br/>Won't You come and break through to me</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Over and over and over again<br/>I am bringing my heart to You with open hands</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Closer and closer You're drawing me in<br/>As the depths of my heart lay before You again</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Over and over and over again<br/>I am bringing my heart to You with open hands</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>Closer and closer You're drawing me in<br/>As the depths of my heart lay before You again</lines>
+    </verse>
+  </lyrics>
+</song>

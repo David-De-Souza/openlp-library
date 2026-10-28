@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Behold The Lamb</title>
+    </titles>
+    <copyright>© 2007 Thankyou Music (Admin. by CopyCare Asia Ltd (Singapore Branch))</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>5003372</ccliNo>
+    <authors>
+      <author>Keith Getty</author>
+      <author>Kristyn Getty</author>
+      <author>Stuart Townend</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Behold the Lamb who bears our sins away<br/>Slain for us and we remember<br/>The promise made that all who come in faith<br/>Find forgiveness at the cross</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>So we share in this Bread of Life<br/>And we drink of His sacrifice<br/>As a sign of our bonds of peace<br/>Around the table of the King</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>The body of our Saviour Jesus Christ<br/>Torn for you eat and remember<br/>The wounds that heal the death that brings us life<br/>Paid the price to make us one</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>So we share in this Bread of Life<br/>And we drink of His sacrifice<br/>As a sign of our bonds of love<br/>Around the table of the King</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>The blood that cleanses every stain of sin<br/>Shed for you drink and remember<br/>He drained death's cup that all may enter in<br/>To receive the life of God</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>So we share in this Bread of Life<br/>And we drink of His sacrifice<br/>As a sign of our bonds of grace<br/>Around the table of the King</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>And so with thankfulness and faith we rise<br/>To respond and to remember<br/>Our call to follow in the steps of Christ<br/>As His body here on earth</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>As we share in His suffering<br/>We proclaim Christ will come again<br/>And we'll join in the feast of heaven<br/>Around the table of the King</lines>
+    </verse>
+  </lyrics>
+</song>

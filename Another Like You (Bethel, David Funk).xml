@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Another Like You</title>
+    </titles>
+    <authors>
+      <author>Bethel</author>
+      <author>David Funk</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You embodied the fullness of God<br/>Wrapped in mercy, You showed us Your heart</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Your love upon the cross<br/>Your love poured out for all</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>There is no one like the Lord our God<br/>You've been faithful every day of my life</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>I could search the world and never find<br/>Another like You, another like You</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>You set a table, You invite us to come<br/>Your body broken, Your blood was enough</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>This love upon the cross<br/>This love poured out for all</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Worthy is the Lamb, worthy is the King<br/>Worthy is the Onе who reigns forever</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Sеated on the throne, high above it all<br/>Everyone will know You're like no other</lines>
+    </verse>
+  </lyrics>
+</song>

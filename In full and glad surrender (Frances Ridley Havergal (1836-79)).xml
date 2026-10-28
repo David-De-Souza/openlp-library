@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>In full and glad surrender</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Frances Ridley Havergal (1836-79)</author>
+    </authors>
+    <songbooks>
+      <songbook name="MP330"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In full and glad surrender,<br/>I give myself to Thee,<br/>Thine utterly and only<br/>and evermore to be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Son of God, who lovest me,<br/>I will be Thine alone;<br/>and all I have and am, Lord,<br/>shall henceforth by Thine own!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Reign over me, Lord Jesus,<br/>O make my heart Thy throne;<br/>it shall be Thine, dear Saviour,<br/>it shall be Thine alone.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O come and reign, Lord Jesus,<br/>rule over everything!<br/>and keep me always loyal<br/>and true to Thee, my King.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Sing And Shout</title>
+    </titles>
+    <authors>
+      <author>Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Your cross, Your cross<br/>It draws me to Your heart<br/>It makes my spirit sing<br/>It makes my spirit sing</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Your grace, Your grace<br/>O I hear it call my name<br/>I'm waking up to sing<br/>I'm waking up to sing</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Ohhh ohhh</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>We will sing and shout, sing and shout<br/>Open up our hearts<br/>And pour Your praises out</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>We will sing and shout, sing and shout,<br/>Open up our hearts<br/>and pour Your praises out</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Ohhh ohhh</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Because, because<br/>Because Your love came down<br/>It makes me want to sing<br/>It makes me want to sing</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Because because<br/>Because You called my name<br/>I'm waking up to sing<br/>I'm waking up to sing</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>What could be better than a grace<br/>That washes all our shame away?<br/>What could be better than Your great love?</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>What could be better than a grace<br/>That leads us home and makes a way?<br/>What could be better than Your great love?</lines>
+    </verse>
+    <verse name="b1c">
+      <lines>And pour Your praises out.</lines>
+    </verse>
+  </lyrics>
+</song>

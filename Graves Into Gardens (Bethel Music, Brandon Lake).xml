@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Graves Into Gardens</title>
+    </titles>
+    <authors>
+      <author>Bethel Music</author>
+      <author>Brandon Lake</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I searched the world,<br/>But it couldn’t fill me,<br/>Man’s empty praise and treasures that fade,<br/>Are never enough.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Then You came along,<br/>And put me back together,<br/>Every desire is now satisfied,<br/>Here in Your love.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh there’s nothing better than You,<br/>There’s nothing better than You,<br/>Lord, there’s nothing,<br/>Nothing is better than You,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I’m not afraid,<br/>To show You my weakness,<br/>My failures and flaws, Lord You’ve seen them all,<br/>And You still call me friend.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>‘Cause the God of the mountain,<br/>Is the God of the valley,<br/>There’s not a place Your mercy and grace,<br/>Won’t find me again.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You turn mourning to dancing,<br/>You give beauty for ashes,<br/>You turn shame into glory,<br/>You’re the only one who can.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>You turn graves into gardens,<br/>You turn bones into armies,<br/>You turn seas into highways,<br/>You’re the only one who can.<br/>You’re the only one who can</lines>
+    </verse>
+  </lyrics>
+</song>

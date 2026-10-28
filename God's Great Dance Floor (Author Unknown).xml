@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>God's Great Dance Floor</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I'm coming back to the start<br/>Where You found me</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I'm coming back to Your heart<br/>Now I surrender</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Take me<br/>This is all I can bring</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>You'll never stop loving us<br/>No matter how far we run</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>You'll never give up on us<br/>All of heaven shouts: let the future begin<br/>Let the future begin</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I'm coming back to the start<br/>Our God is freedom</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>And here we feel Your heart<br/>Your heart beat for us</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Take me<br/>This is all I can bring</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Take me<br/>This is all I can bring</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I feel alive, I come alive<br/>I am alive on God's great dance floor</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Oh oh...<br/>Oh oh oh oh oh its always a good time</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Break Every Chain</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>There is power in the name of Jesus<br/>There is power in the name of Jesus<br/>There is power in the name of Jesus</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>To break every chain<br/>To break every chain<br/>To break every chain</lines>
+    </verse>
+    <verse name="v1">
+      <lines>All sufficient sacrifice<br/>So freely given<br/>Such pride bought<br/>Our redemption<br/>Heaven's gates swing wide</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>There's an army rising up<br/>There's an army rising up<br/>There's an army rising up</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>To break every chain<br/>To break every chain<br/>To break every chain<br/></lines>
+    </verse>
+  </lyrics>
+</song>

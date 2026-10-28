@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>One Bread, One Body</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>One bread one body<br/>One Lord of all</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>One cup of blessing which we bless<br/>And we though many throughout the earth</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>We are one body in this one Lord</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Gentile or Jew<br/>Servant or free</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Woman or man no more</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Many the gifts<br/>Many the works</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>One in the Lord of all</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Grains for the fields<br/>Scattered and grown</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Gathered to one for all</lines>
+    </verse>
+  </lyrics>
+</song>

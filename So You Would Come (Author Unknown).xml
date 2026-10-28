@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>So You Would Come</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Before the world began<br/>You were on His mind<br/>And every tear you cry<br/>Is precious in His eyes</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Because of His great love<br/>He gave His only Son<br/>Everything was done<br/>So you would come</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Nothing you can do<br/>Could make Him love you more<br/>And nothing that you've done<br/>Could make Him close the door</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Because of His great love<br/>He gave His only Son<br/>Everything was done<br/>So you would come</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Come to the Father<br/>Though your gift is small<br/>Broken hearts, broken lives<br/>He will take them all</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>The power of the Word<br/>The power of His blood<br/>Everything was done<br/>So you would come</lines>
+    </verse>
+  </lyrics>
+</song>

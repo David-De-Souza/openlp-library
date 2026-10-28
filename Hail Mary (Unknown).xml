@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>Hail Mary</title>
+      <title>Gentle Woman</title>
+    </titles>
+    <verseOrder>i1 i2 c1 v1 c1 v2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hail Mary, full of grace,<br/>The Lord is with you.<br/>Blessed are you among women,<br/>And blest is the fruit of your womb, Jesus.</lines>
+    </verse>
+    <verse name="i2">
+      <lines>Holy Mary, Mother of God,<br/>Pray for us sinners now,<br/>And at the hour of our death. Amen.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gentle woman, quiet light,<br/>Morning star, so strong and bright,<br/>Gentle Mother, peaceful dove,<br/>Teach us wisdom, teach us love.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>You were chosen by the Father,<br/>You were chosen for the Son.<br/>You were chosen from all women,<br/>And for woman, shining one.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Blessed are you among women,<br/>Blest in turn all women, too.<br/>Blessed they with peaceful spirits,<br/>Blessed they with gentle hearts.</lines>
+    </verse>
+  </lyrics>
+</song>

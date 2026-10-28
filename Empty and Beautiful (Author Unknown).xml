@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Empty and Beautiful</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>My past won't stop haunting me<br/>In this prison there's a fight between<br/>Who I am and who I used to be</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>This thorn in my side is a grace<br/>For because of it the flesh and blood of God<br/>Was offered in my place, my place</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>You fought the fight in me<br/>You chased me down and finished the race</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>I was blind but now I see<br/>Jesus You kept the faith in me</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Where did my best friends go?<br/>In my defense they disappeared<br/>Just like Your friends did to You, oh Lord</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>But You were there, You gave me strength<br/>So this little one might come to know<br/>The glory of Your name, Your name</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Awaiting, set apart like incense to Your heart<br/>A libation I'm pouring out<br/>Empty and beautiful, beautiful, beautiful</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>You fought the fight in me<br/>You chased me down and finished the race</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>I was blind but now I see<br/>Jesus You kept the faith in me</lines>
+    </verse>
+    <verse name="c2c">
+      <lines>Jesus You kept the faith in me<br/>Savior, You kept the faith in me</lines>
+    </verse>
+  </lyrics>
+</song>

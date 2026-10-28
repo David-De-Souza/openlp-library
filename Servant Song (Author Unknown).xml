@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Servant Song</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>What do you want of me, Lord?<br/>Where do you want me to serve you?</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Where can I sing your praises<br/>I am your song</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Jesus, Jesus, you are the Lord<br/>Jesus, Jesus, you are the way</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I hear you call my name, Lord<br/>And I am moved within me</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Your Spirit stirs my deepest self<br/>Sing your songs in me</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Jesus, Jesus, you are my Lord<br/>Jesus, Jesus, you are the way</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Above, below, and around me<br/>Before, behind and all through me</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Your Spirit burns deep within me<br/>Fire my life with your love</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>Jesus, Jesus, be warmth of my heart<br/>Jesus, Jesus, you are the way</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>You are the light in my darkness<br/>You are my strength when I'm weary</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>You give me sight when I'm blinded<br/>Come see for me</lines>
+    </verse>
+    <verse name="v4c">
+      <lines>Jesus, Jesus, you are my light<br/>Jesus, Jesus, you are the way</lines>
+    </verse>
+  </lyrics>
+</song>

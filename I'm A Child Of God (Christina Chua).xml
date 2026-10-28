@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>I'm A Child Of God</title>
+    </titles>
+    <authors>
+      <author type="words">Christina Chua</author>
+      <author type="music">Christina Chua</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>I'm a child of God<br/>Hey hey hey hey<br/>I'm a child of God<br/>La la la la la la</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>I'm a child of God<br/>and He loves me YES<br/>He loves me<br/>Ooh ooh ooh</lines>
+    </verse>
+    <verse name="v1">
+      <lines>His love is strong<br/>His love protects<br/>His love is true<br/>And His love will never end</lines>
+    </verse>
+  </lyrics>
+</song>

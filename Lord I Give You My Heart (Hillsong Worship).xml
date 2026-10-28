@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-04-16T10:45:12">
+  <properties>
+    <titles>
+      <title>Lord I Give You My Heart</title>
+      <title>This is My Desire</title>
+    </titles>
+    <authors>
+      <author>Hillsong Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>This is my desire<br/>To honour You<br/>Lord, with all my heart<br/>I worship You</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>All I have within me<br/>I give you praise<br/>All that I adore is in You</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Lord I give You my heart<br/>I give You my soul<br/>I live for You alone</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Every breath that I take<br/>Every moment I'm awake<br/>Lord have Your way in me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And I will live<br/>And I will live for you</lines>
+    </verse>
+  </lyrics>
+</song>

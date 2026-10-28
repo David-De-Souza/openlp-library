@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Center Of My Life</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>O Lord, you are the center of my life<br/>I will always praise you</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>I will always serve you<br/>I will always keep you in my sight</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Keep me safe, O God, I take refuge in You<br/>I say to the Lord you are my God</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>My happiness lies in You alone<br/>My happiness lies in You alone</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I will bless the Lord who gives me counsel<br/>Who even at night directs my heart</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>I keep the Lord ever in my sight<br/>Since He is at my right hand<br/>I shall stand firm</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>And so my heart rejoices my soul is glad<br/>Even in safety shall my body rest</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>For you will not leave my soul among the dead<br/>Nor let your beloved know decay</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>You will show me the path of life<br/>The fullness of joy in Your presence</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>At Your right hand, at Your right hand<br/>Happiness forever</lines>
+    </verse>
+  </lyrics>
+</song>

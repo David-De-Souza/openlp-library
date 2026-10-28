@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>To You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Here I stand<br/>Forever in Your mighty hand</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Living with Your promise<br/>Written on my heart</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>I am yours<br/>Surrendered wholly to You</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>You set me in Your family<br/>Calling me Your own</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Now I, I belong to You<br/>Lord i need</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Your Spirit, Your Word, Your Truth<br/>Hear my cry</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>My deep desire<br/>To know You more</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>In Your name<br/>I will lift my hands</lines>
+    </verse>
+    <verse name="c1e">
+      <lines>To the King<br/>This anthem of praise I bring</lines>
+    </verse>
+    <verse name="c1f">
+      <lines>Heaven knows<br/>I long to love You</lines>
+    </verse>
+    <verse name="c1g">
+      <lines>With all I am<br/>I belong to You</lines>
+    </verse>
+  </lyrics>
+</song>

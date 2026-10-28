@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>How Great Is God's Love</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How great is God's love, sending his own son<br/>To live among us that we may see<br/>How great is his grace, standing in my place<br/>To carry my sin at Calvary</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How high the heavens are, from east to west how far<br/>The whole creation O Lord I see<br/>Yet still you know my name, and took away my shame<br/>Your love O Father a mystery</lines>
+    </verse>
+  </lyrics>
+</song>

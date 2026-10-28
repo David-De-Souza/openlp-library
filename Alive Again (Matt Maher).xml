@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Alive Again</title>
+    </titles>
+    <authors>
+      <author>Matt Maher</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>There's a new song rising<br/>A new song rising</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>I woke up in darkness<br/>Surrounded by silence<br/>Oh where, where have I gone?</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I woke to reality losing its grip on me<br/>Oh where, where have I gone?<br/>Cause I can see the light<br/>Before I see the sunrise</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>You called and You shouted<br/>Broke through my deafness<br/>I'm breathing in and breathing out<br/>I'm alive again</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>You shattered my darkness<br/>Washed away my blindness<br/>Now I'm breathing in and breathing out<br/>I'm alive again</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Late have I loved You<br/>You waited for me, I searched for You<br/>What took me so long?</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>I was looking outside<br/>As if Love would ever want to hide<br/>I'm finding I was wrong<br/>Cause I can feel the wind<br/>Before it hits my skin</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Cause I want You, Yes I want You<br/>And I need You and I'll do<br/>Whatever I have to, just to get through<br/>Cause I love You, yeah I love You</lines>
+    </verse>
+  </lyrics>
+</song>

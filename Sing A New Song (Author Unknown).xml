@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Sing A New Song</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Sing a new song unto the Lord,<br/>Let your song be sung, from mountains high</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Sing a new song unto the Lord, singing alleluia</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Yahweh's people dance for joy<br/>O come before the Lord</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>And play for him on glad tambourines<br/>And let your trumpet sound</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Rise, O children from your sleep<br/>Your Saviour now has come</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>He has turned your sorrow to joy<br/>and filled your soul with song</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Glad my soul for I have seen<br/>The glory of the Lord</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>The trumpet sounds, the dead shall be raised<br/>I know my Saviour lives</lines>
+    </verse>
+  </lyrics>
+</song>

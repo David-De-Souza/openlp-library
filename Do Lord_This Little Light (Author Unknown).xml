@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Do Lord/This Little Light</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've got a home in gloryland<br/>That outshines the sun (x3)<br/>Way beyond the blue</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Do Lord, O do Lord<br/>O do remember me (x3)<br/>Way beyond the blue</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I took Jesus as my Saviour<br/>You take Him too (x3)<br/>While He's calling you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will praise the name of Jesus<br/>You praise Him too (x3)<br/>In all things we do</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>This little light of mine<br/>I'm gonna let it shine (x3)</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>Let it shine, let it shine<br/>Let it shine</lines>
+    </verse>
+  </lyrics>
+</song>

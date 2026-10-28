@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>You Are Mine</title>
+    </titles>
+    <authors>
+      <author>Dan Schutte</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I will come to you in the silence<br/>I will lift you from all your fears</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You will hear My voice<br/>I claim you as My choice<br/>Be still and know I am here</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I am hope for all who are hopeless<br/>I am eyes for all who long to see</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>In the shadows of the night<br/>I will be your light<br/>Come and rest in Me</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Do not be afraid, I am with you<br/>I have called you each by name</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Come and follow Me<br/>I will bring you home<br/>I love you and you are Mine</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>I am strength for all the despairing<br/>Healing for the ones who dwells in shame</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>All the blind will see<br/>The lame will all run free<br/>And all will know My name</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>I'm the Word that leads all to freedom<br/>I'm the peace the word cannot give</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>I will call your name<br/>Embracing all your pain<br/>Stand up, now walk, and live!</lines>
+    </verse>
+  </lyrics>
+</song>

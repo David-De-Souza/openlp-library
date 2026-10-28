@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Beautiful Exchange</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You were near<br/>Though I was distant</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Disillusioned I was<br/>Lost and insecure</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Still mercy fought<br/>For my attention</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>You were waiting at the door<br/>Then I let you in</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Trading your life<br/>For my offenses</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>For my redemption<br/>You carried all the blame</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Breaking the curse<br/>Of our condition<br/>Perfection took place</lines>
+    </verse>
+    <verse name="c1">
+      <lines>When only love could make a way<br/>You gave your life in a beautiful exchange</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>My burden erased<br/>My life forgiven</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>There is nothing that could take this love away<br/>And my only desire and sole ambition<br/>Is to love you just the same</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>When only love could make a way<br/>You gave your life in a beautiful exchange</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>When only love could break these chains<br/>You gave your life in a beautiful exchange</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Holy are you God<br/>Holy is your name</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>With everything I've got<br/>My heart will sing how I love you</lines>
+    </verse>
+  </lyrics>
+</song>

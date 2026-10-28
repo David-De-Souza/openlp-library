@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Christ is risen hallelujah</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>John Samuel Bewley Monsell (1811-75)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christ is risen! hallelujah!<br/>risen our victorious Head;<br/>sing His praises; hallelujah!<br/>Christ is risen from the dead.<br/>Gratefully our hearts adore Him,<br/>as His light once more appears;<br/>bowing down in joy before Him,<br/>rising up from grief and tears.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Christ is risen! hallelujah!<br/>risen our victorious Head;<br/>sing His praises; hallelujah!<br/>Christ is risen from the dead.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Christ is risen! all the sadness<br/>of His earthly life is o'er;<br/>through the open gates of gladness<br/>He returns to life once more.<br/>Death and hell before Him bending,<br/>He doth rise the Victor now,<br/>angels on His steps attending,<br/>glory round His wounded brow.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Christ is risen! henceforth never<br/>death or hell shall us enthral;<br/>we are Christ's, in Him for ever<br/>we have triumphed over all;<br/>all the doubting and dejection<br/>of our trembling hearts have ceased.<br/>'Tis His day of resurrection;<br/>let us rise and keep the feast.</lines>
+    </verse>
+  </lyrics>
+</song>

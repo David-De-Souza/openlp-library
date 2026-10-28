@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>Healing is In Your Hands</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No mountain, no valley<br/>No gain or loss we know<br/>Could keep us from Your love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No sickness, no secret<br/>No chain is strong enough<br/>To keep us from Your love<br/>To keep us from Your love</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>How high, how wide<br/>No matter where I am<br/>Healing is in Your hands</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>How deep, how strong<br/>Now by Your grace I stand<br/>Healing is in Your hands</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Our present, our future<br/>Our past is in Your hands<br/>We're covered by Your blood<br/>We're covered by Your blood</lines>
+    </verse>
+    <verse name="b1">
+      <lines>In all things we know that<br/>We are more than conquerors<br/>You keep us by Your love</lines>
+    </verse>
+  </lyrics>
+</song>

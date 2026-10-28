@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>On eagles wings</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You who dwell in the shelter of the Lord<br/>Who abide in His shadow for life<br/>Say to the Lord<br/>"My refuge, my rock in whom I trust!"</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And He will raise you up on eagles' wings<br/>Bear you on the breath of dawn<br/>Make you to shine like the sun<br/>And hold you in the palm of His hand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The snare of the fowler will never capture you<br/>And famine will bring you no fear<br/>Under His wings your refuge<br/>His faithfulness your shield.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>And He will raise you up on eagles' wings<br/>Bear you on the breath of dawn<br/>Make you to shine like the sun<br/>And hold you in the palm of His hand.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You need not fear the terror of the night<br/>Nor the arrow that flies by day<br/>Though thousands fall about you<br/>Near you it shall not come.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>And He will raise you up on eagles' wings<br/>Bear you on the breath of dawn<br/>Make you to shine like the sun<br/>And hold you in the palm of His hand.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For to His angels He's given a command<br/>To guard you in all of your ways<br/>Upon their hands they will bear you up<br/>Lest you dash your foot against a stone.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>And He will raise you up on eagles' wings<br/>Bear you on the breath of dawn<br/>Make you to shine like the sun<br/>And hold you in the palm of His hand...</lines>
+    </verse>
+  </lyrics>
+</song>

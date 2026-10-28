@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>Here in Thy name we are gathered</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Jennie Garnett</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here in Thy name we are gathered,<br/>come and revive us, O Lord;<br/>"There shall be showers of blessing,"<br/>Thou hast declared in Thy Word.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh, graciously hear us,<br/>graciously hear us, we pray;<br/>pour from Thy windows upon us<br/>showers of blessing to-day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh! that the showers of blessing<br/>now on our souls may descend,<br/>while at the footstool of mercy<br/>pleading Thy promise we bend.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There shall be showers of blessing,<br/>promise that never can fail;<br/>Thou wilt regard our petition;<br/>surely our faith will prevail.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Showers of blessing, we need them,<br/>showers of blessing from Thee;<br/>showers of blessing, oh, grant them!<br/>Thine all the glory shall be.</lines>
+    </verse>
+  </lyrics>
+</song>

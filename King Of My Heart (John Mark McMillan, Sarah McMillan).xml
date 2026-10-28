@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:13">
+  <properties>
+    <titles>
+      <title>King Of My Heart</title>
+    </titles>
+    <comments>
+      <comment>Raucous Ruckus Publishing (Admin. by CopyCare Asia Ltd (Singapore Branch))McMillan, SarahFor use solely with the SongSelect. Terms of Use. All rights reserved. www.ccli.com</comment>
+    </comments>
+    <copyright>© Meaux Jeaux Music (Admin. by CopyCare Asia Ltd (Singapore Branch))</copyright>
+    <ccliNo>7046145</ccliNo>
+    <authors>
+      <author>John Mark McMillan</author>
+      <author>Sarah McMillan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Let the King of my heart<br/>Be the mountain where I run<br/>The fountain I drink from<br/>Oh He is my song</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Let the King of my heart<br/>Be the shadow where I hide<br/>The ransom for my life<br/>Oh He is my song</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are good good oh<br/>You are good good oh<br/>You are good good oh<br/>You are good good oh</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Let the King of my heart<br/>Be the wind inside my sails<br/>The anchor in the waves<br/>Oh He is my song</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Let the King of my heart<br/>Be the fire inside my veins<br/>The echo of my days<br/>Oh He is my song</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You're never gonna let<br/>Never gonna let me down</lines>
+    </verse>
+    <verse name="o1">
+      <lines>When the night is holding on to me<br/>God is holding on<br/>When the night is holding on to me<br/>God is holding on</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>This is the Kingdom</title>
+    </titles>
+    <authors>
+      <author>Elevation Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Blessed are the poor in spirit<br/>For theirs is the Kingdom of Heaven<br/>Blessed are those who mourn<br/>For they will be comforted</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Blessed are the meek<br/>For they will inherit the earth<br/>Blessed are those who hunger and thirst for righteousness</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>They will be filled<br/>They will be filled</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>This is the Kingdom<br/>This is the Kingdom<br/>This is the Kingdom of Heaven</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Ask and He will<br/>Ask and He will</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>This is the Kingdom<br/>This is the Kingdom<br/>This is the Kingdom of Heaven</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Blessed are the merciful<br/>For they will be shown mercy<br/>Blessed are the pure in heart<br/>For they, they will see God</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Blessed are the peacemakers<br/>For they will be called children of God<br/>Blessed are those who are persecuted<br/>Because of righteousness</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>For theirs is the Kingdom<br/>Theirs is the Kingdom<br/>Theirs is the Kingdom of Heaven</lines>
+    </verse>
+    <verse name="b1">
+      <lines>So seek first the Kingdom<br/>And all will be added</lines>
+    </verse>
+  </lyrics>
+</song>

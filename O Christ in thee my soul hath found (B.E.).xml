@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>O Christ in thee my soul hath found</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>B.E.</author>
+    </authors>
+    <songbooks>
+      <songbook name="TS1451"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Christ, in thee my soul hath found,<br/>and found in thee alone,<br/>the peace, the joy I sought so long,<br/>the bliss till now unknown.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Now none but Christ can satisfy,<br/>none other name for me,<br/>there's love, and life, and lasting joy,<br/>Lord Jesus, found in thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I sighed for rest and happiness,<br/>I yearned for them, not thee;<br/>but while I passed my Saviour by,<br/>his love laid hold on me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I tried the broken cisterns, Lord,<br/>but ah! the waters failed!<br/>E'en as I stooped to drink they'd fled,<br/>and mocked me as I wailed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The pleasures lost I sadly mourn'd,<br/>but never wept for thee,<br/>till grace the sightless eyes received,<br/>thy loveliness to see.</lines>
+    </verse>
+  </lyrics>
+</song>

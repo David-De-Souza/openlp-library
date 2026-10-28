@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>Here's My Heart</title>
+    </titles>
+    <authors>
+      <author>Casting Crowns</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Here's my heart Lord, here's my heart Lord<br/>Here's my heart Lord, speak what is true</lines>
+    </verse>
+    <verse name="v1">
+      <lines>I am found, I am Yours, I am loved, I'm made pure<br/>I have life, I can breathe, I am healed, I am free</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Cause You are strong, You are sure<br/>You are life, You endure<br/>You are good, always true, You are light<br/>Breaking through</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Here's my life Lord, here's my life Lord<br/>Here's my life Lord, speak what is true<br/>Speak what is true</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Cause You are more than enough<br/>You are here, You are love<br/>You are hope, You are grace, You're all I have<br/>You're everything</lines>
+    </verse>
+  </lyrics>
+</song>

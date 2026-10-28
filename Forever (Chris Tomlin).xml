@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Forever</title>
+    </titles>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Give thanks to the Lord<br/>our God and King<br/>His love endures forever</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>For He is good<br/>He is above all things<br/>His love endures forever</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Sing praise, sing praise</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>With a mighty hand<br/>and outstretched arm<br/>His love endures forever</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>For the life that's been reborn<br/>His love endures forever</lines>
+    </verse>
+    <verse name="p2">
+      <lines>Sing praise, sing praise<br/>Sing praise, sing praise</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Forever God is faithful<br/>Forever God is strong<br/>Forever God is with us<br/>Forever, forever</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>From the rising<br/>To the setting sun<br/>His love endures forever</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>By the grace of God,<br/>We will carry on<br/>His love endures forever</lines>
+    </verse>
+    <verse name="p3">
+      <lines>Sing praise, sing praise<br/>Sing praise, sing praise</lines>
+    </verse>
+    <verse name="b1">
+      <lines>His love endures forever</lines>
+    </verse>
+  </lyrics>
+</song>

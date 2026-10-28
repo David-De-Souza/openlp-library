@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>His Name Shall Be</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 b1</verseOrder>
+    <authors>
+      <author>Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Oh can you hear the angels' song<br/>That rang so sweet and clear<br/>When heaven's light and music fell<br/>And mercy found us here</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Glory in the highest<br/>And on the earth be peace<br/>Glory to God the angels sing</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>He came to tell the Father's love<br/>His goodness and His grace<br/>To show the brightness of His smile<br/>The glory of His face</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Glory in the highest<br/>And on the earth be peace<br/>Glory to God Your children sing</lines>
+    </verse>
+    <verse name="c1">
+      <lines>(His name shall be called) Wonderful Counselor<br/>Mighty God Everlasting Father<br/>Prince of Peace for all eternity<br/>Oh His name shall be</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>He came to lift the weary ones<br/>Give peace and perfect rest<br/>To take away our burdens<br/>And to give a glorious gift</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>So glory in the highest<br/>And on the earth be peace<br/>Glory to God the world will sing</lines>
+    </verse>
+    <verse name="b1">
+      <lines>One name above all others<br/>One name that came to save us<br/>Oh sing His name is<br/>His name is Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

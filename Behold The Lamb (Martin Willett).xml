@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Behold The Lamb</title>
+    </titles>
+    <authors>
+      <author>Martin Willett</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Those who were in the dark<br/>Are thankful for the sunlight;<br/>We who live, we who die<br/>Are grateful for his gift, thankful for his love.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Behold, behold the Lamb of God.<br/>All who eat, all who drink shall live;<br/>and all, all who dwell in God<br/>shall come to know his glory.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Peaceful now, those whose hearts<br/>are blessed with understanding<br/>of the wheat, of the wine<br/>united with his word and the love we share.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gentle one, Child of God, join with us at this table.<br/>Bless our lives; nourish all<br/>who hunger for this feast;<br/>shelter them with peace.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord of all, give us light.<br/>Deliver us from evil.<br/>Make us one; be our shield.<br/>Make still the winds that blow; cradle us with love</lines>
+    </verse>
+  </lyrics>
+</song>

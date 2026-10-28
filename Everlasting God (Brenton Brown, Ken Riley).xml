@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Everlasting God</title>
+    </titles>
+    <copyright>© 2005 Thankyou Music (Admin. by CopyCare Asia Ltd (Singapore Branch))</copyright>
+    <ccliNo>4556538</ccliNo>
+    <authors>
+      <author>Brenton Brown</author>
+      <author>Ken Riley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Strength will rise as we wait upon the Lord<br/>We will wait upon the Lord<br/>We will wait upon the Lord</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Strength will rise as we wait upon the Lord<br/>We will wait upon the Lord<br/>We will wait upon the Lord</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Our God, You reign forever<br/>Our Hope, our strong Deliverer</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>You are the everlasting God<br/>The everlasting God<br/>You do not faint<br/>You won't grow weary</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>You're the defender of the weak<br/>You comfort those in need<br/>You lift us up on wings like eagles</lines>
+    </verse>
+  </lyrics>
+</song>

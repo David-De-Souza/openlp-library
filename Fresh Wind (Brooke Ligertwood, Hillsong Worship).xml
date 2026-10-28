@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Fresh Wind</title>
+    </titles>
+    <authors>
+      <author>Hillsong Worship</author>
+      <author>Brooke Ligertwood</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Spirit sound, rushing wind<br/>Fire of God fall within<br/>Holy Ghost<br/>Breathe on us, we pray</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>As we repent, turn from sin<br/>Revival embers smouldering<br/>Breath of God<br/>Fan us into flame</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We need a fresh wind<br/>The fragrance of Heaven<br/>Pour Your Spirit out<br/>Pour Your Spirit out</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>For hearts that burn with holy fear<br/>Purified in faith and deed<br/>Refiner's fire<br/>Strengthen what remains</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>So we the church who bear Your light<br/>Lamp aflame, city bright<br/>King and kingdom come is what we pray</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>Yeah, we need a fresh wind<br/>The fragrance of Heaven<br/>Pour Your Spirit out<br/>Pour Your Spirit out</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>A holy anointing<br/>The power of Your presence<br/>Pour Your Spirit out<br/>Pour Your Spirit out</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Pour Your Spirit out (pour Your Spirit out)<br/>Pour Your Spirit out (pour Your Spirit out)<br/>Pour Your Spirit out (pour Your Spirit out)<br/>Pour Your Spirit out</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Let all the redeemed<br/>Prophesy and sing<br/>We can hear the wind<br/>Blowing, blowing, blowing</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Move upon our praise<br/>Sons and daughters sing<br/>We can hear the wind<br/>Blowing, blowing, blowing</lines>
+    </verse>
+  </lyrics>
+</song>

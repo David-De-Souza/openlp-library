@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>Thy Word</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Thy word is a lamp unto my feet<br/>and a light unto my path</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Thy word is a lamp unto my feet<br/>and a light unto my path</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>When I feel afraid<br/>and think I've lost my way<br/>Still You're there beside me</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Nothing will I fear<br/>as long as You are near<br/>Please be near me to the end</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>I will not forget<br/>Your love for me and yet<br/>My heart forever is wandering</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>Jesus be my guide<br/>and hold me yo Your side<br/>And I will love You to the end</lines>
+    </verse>
+  </lyrics>
+</song>

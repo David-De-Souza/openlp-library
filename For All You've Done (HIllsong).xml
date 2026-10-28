@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>For All You've Done</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>HIllsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>My saviour<br/>Redeemer<br/>Lifted me from the miry clay</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Almighty<br/>Forever, I will never be the same</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>And You lived, You died<br/>You rose again on high<br/>You opened the way for the world to live again</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Hallelujah, for all You've done</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Cause You came here<br/>From the everlasting</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>To the world we live<br/>The Father's only Son</lines>
+    </verse>
+  </lyrics>
+</song>

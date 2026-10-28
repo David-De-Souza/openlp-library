@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:19">
+  <properties>
+    <titles>
+      <title>Jesus I Need You</title>
+    </titles>
+    <authors>
+      <author>Hillsong Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hope be my anthem<br/>Lord when the world has fallen quiet<br/>You stand beside me<br/>Give me a song in the night</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus I need You<br/>Every moment I need You<br/>Hear now this grace bought heart sing out<br/>Your praise forever</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Beauty for ashes<br/>You find the weak and contrite heart<br/>Shoulder its burdens<br/>And carry it into the light</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Remember love<br/>Remember mercy<br/>Christ before me<br/>Christ behind me</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Your loving kindness<br/>Has never failed me<br/>Christ before me<br/>Christ behind me</lines>
+    </verse>
+  </lyrics>
+</song>

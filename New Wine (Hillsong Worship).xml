@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>New Wine</title>
+    </titles>
+    <authors>
+      <author>Hillsong Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>In the crushing<br/>In the pressing<br/>You are making<br/>New wine</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>In the soil, I<br/>Now surrender<br/>You are breaking<br/>New ground</lines>
+    </verse>
+    <verse name="p1">
+      <lines>So I yield to You <br/>and to Your careful hand<br/>When I trust You<br/>I don't need to understand</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Make me Your vessel<br/>Make me an offering<br/>Make me whatever You want me to be</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>I came here with nothing<br/>But all You have given me<br/>Jesus, bring new wine out of me</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>'Cause where there is new wine<br/>There is new power<br/>There is new freedom</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>And the kingdom is here<br/>I lay down my old flames<br/>To carry Your new fire today</lines>
+    </verse>
+  </lyrics>
+</song>

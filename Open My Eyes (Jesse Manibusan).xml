@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Open My Eyes</title>
+    </titles>
+    <authors>
+      <author>Jesse Manibusan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Open my eyes, Lord<br/>Help me to see Your face</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Open my eyes, Lord<br/>Help me to see</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Open my ears, Lord<br/>Help me to hear Your voice</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Open my ears, Lord<br/>Help me to hear</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Open my heart, Lord<br/>Help me to love like you</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Open my heart, Lord<br/>Help me to love</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>I live within You<br/>Deep in your heart, O Love</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>I live within you<br/>Rest now in me</lines>
+    </verse>
+  </lyrics>
+</song>

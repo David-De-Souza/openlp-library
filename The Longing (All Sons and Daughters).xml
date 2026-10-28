@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>The Longing</title>
+    </titles>
+    <authors>
+      <author>All Sons and Daughters</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>These things unseen won't cripple me<br/>I place my hope in You</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>This deep desire<br/>This longing hour<br/>I'm falling into You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Love is and always was<br/>The longing place inside my heart<br/>To know You<br/>And be known by You</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>This place<br/>This time<br/>Won't satisfy</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>My soul was made for You<br/>My eyes behold what's beautiful<br/>And I belong to You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>How I long<br/>How I long<br/>How I long for You</lines>
+    </verse>
+  </lyrics>
+</song>

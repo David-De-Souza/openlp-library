@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Bring to this table</title>
+    </titles>
+    <authors>
+      <author type="music">Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bring to this table bread and wine <br/>signs of redemption which God made divine<br/>Soon gifts once humble shall become<br/>God's pledge of salvation<br/>Through Jesus his son</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Raise up your heart to our Lord present here<br/>Give him the gift of your love<br/>Join in this feast which unites man with life<br/>And live with this peace in your heart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Join in these offerings joys and cares <br/>Be one with each other and all burdens share<br/>Banish all hatred forgive every wrong<br/>In Christ we are brothers<br/>At peace we belong</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Soon in our presence Christ will <br/>To lend us the courage which his victory won<br/>Let hope enfold you trust in his care<br/>Prepare to receive<br/>Whose work we must share</lines>
+    </verse>
+  </lyrics>
+</song>

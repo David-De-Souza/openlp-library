@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Christ Be Magnified</title>
+    </titles>
+    <authors>
+      <author>Cody Carnes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Were creation suddenly articulate<br/>With a thousand tongues to lift one cry<br/>Then from North to South and East to West<br/>We'd hear Christ be magnified</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Were the whole Earth echoing His eminence<br/>His name would burst from sea and sky<br/>From rivers to the mountain tops<br/>We'd hear Christ be magnified</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Oh! Christ be magnified<br/>Let His praise arise<br/>Christ be magnified in me</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Oh! Christ be magnified<br/>From the altar of my life<br/>Christ be magnified in me</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>When every creature finds its inmost melody<br/>And every human heart its native cry</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Oh then in one enraptured hymn of praise<br/>We'll sing Christ be magnified<br/>Oh, be lifted high, Jesus</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>I won't bow to idols<br/>I'll stand strong and worship You<br/>And if it puts me in the fire<br/>I'll rejoice 'cause You're there too</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>I won't be formed by feelings<br/>I hold fast to what is true<br/>If the cross brings transformation<br/>Then I'll be crucified with You</lines>
+    </verse>
+    <verse name="b1c">
+      <lines>'Cause death is just the doorway<br/>Into resurrection life<br/>And if I join You in Your suffering<br/>Then I'll join You when You rise</lines>
+    </verse>
+    <verse name="b1d">
+      <lines>And when You return in glory<br/>With all the angels and the saints<br/>My heart will still be singing<br/>My song will be the same</lines>
+    </verse>
+  </lyrics>
+</song>

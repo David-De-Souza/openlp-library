@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>Here Again</title>
+    </titles>
+    <authors>
+      <author>Elevation Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Can't go back to the beginning<br/>Can't control what tomorrow will bring<br/>But I know here in the middle<br/>Is the place where You promise to be</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'm not enough unless You come<br/>Will You meet me here again<br/>'Cause all I want is all You are<br/>Will You meet me here again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As I walk now through the valley<br/>Let Your love rise above every fear<br/>Like the sun shaping the shadow<br/>In my weakness Your glory appears</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Not for a minute<br/>Was I forsaken<br/>The Lord is in this place<br/>The Lord is in this place</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Come Holy Spirit<br/>Dry bones awaken<br/>The Lord is in this place<br/>The Lord is in this place</lines>
+    </verse>
+  </lyrics>
+</song>

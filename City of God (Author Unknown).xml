@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>City of God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Awake from your slumber<br/>Arise from your sleep<br/>A new day is dawning<br/>For all those who weep</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>The people in darkness<br/>Have seen a great light<br/>The Lord of our longing<br/>Has conquered the night</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let us build the city of God<br/>May our tears be turned into dancing<br/>For the Lord, our light and our love<br/>Has turned the night into day</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>We are sons of the morning<br/>We are daughters of day<br/>The one who has loved us<br/>Has brightened our way</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>The Lord of all kindness<br/>Has called us to be<br/>A light for His people<br/>To set their hearts free</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>God is Light<br/>In Him there is no darkness<br/>Let us walk in His Light<br/>His children one and all</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>O, comfort my people<br/>Make gentle your words<br/>Proclaim to my city<br/>The day of her birth</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, city of gladness<br/>Now lift up your voice<br/>Proclaim the good tidings<br/>That all may rejoice</lines>
+    </verse>
+  </lyrics>
+</song>

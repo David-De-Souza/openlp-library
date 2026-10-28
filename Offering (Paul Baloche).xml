@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Offering</title>
+    </titles>
+    <authors>
+      <author>Paul Baloche</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>The sun cannot compare<br/>To the glory of Your love<br/>There is no shadow in Your presence</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>No mortal man would dare<br/>To stand before Your throne<br/>Before the Holy One of heaven</lines>
+    </verse>
+    <verse name="p1">
+      <lines>It's only by Your blood<br/>It's only through Your mercy<br/>Lord I come</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>I bring an offering of worship<br/>To my King<br/>No one on earth deserves<br/>The praises that I sing</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Jesus may You receive<br/>The honour that You're due<br/>O Lord I bring an offering to You</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Over the skies of Bethlehem<br/>Appeared a star<br/>While angels sang to lowly shepherds</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Three wisemen seeking truth,<br/>They traveled from afar<br/>Hoping to find the Child from Heaven</lines>
+    </verse>
+    <verse name="p2">
+      <lines>Falling on their knees<br/>They bow before the humble<br/>Prince of peace</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>We bring an offering of worship<br/>To our King<br/>No one on earth deserves<br/>The praises that we sing</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>Jesus, may You receive<br/>The honor that You're due<br/>O Lord, I bring an offering to You</lines>
+    </verse>
+  </lyrics>
+</song>

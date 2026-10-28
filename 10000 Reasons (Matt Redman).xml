@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>10000 Reasons</title>
+      <title>Bless The Lord</title>
+    </titles>
+    <authors>
+      <author>Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>The sun comes up,<br/>it's a new day dawning<br/>It's time to sing Your song again</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Whatever may pass,<br/>and whatever lies before me<br/>Let me be singing<br/>when the evening comes</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bless the Lord, O my soul, O my soul<br/>Worship His holy name<br/>Sing like never before, O my soul<br/>I'll worship Your holy name</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>You're rich in love,<br/>and You're slow to anger<br/>Your name is great,<br/>and Your heart is kind</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>For all Your goodness<br/>I will keep on singing<br/>Ten thousand reasons<br/>for my heart to find</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>And on that day<br/>when my strength is failing<br/>The end draws near<br/>and my time has come</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Still my soul will sing<br/>Your praise unending<br/>Ten thousand years<br/>and then forevermore</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Yes, I will worship Your holy name<br/>Lord, I'll worship Your holy name</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>Where The Spirit Of The Lord Is</title>
+    </titles>
+    <copyright>© 2012 Hillsong Music Publishing</copyright>
+    <ccliNo>6514042</ccliNo>
+    <authors>
+      <author>Ben Fielding</author>
+      <author>HIllsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>For we know the truth<br/>Your truth has set us free<br/>In Your Name alone<br/>We have been released</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You are here with us<br/>You are here with us</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>We are slaves no more<br/>Freedom is our hope<br/>Never looking back<br/>Jesus You are Lord</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>We give all to You<br/>We give all to You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Where the Spirit of the Lord is there is freedom<br/>Where the Spirit of the Lord is<br/>Chains are broken eyes are open<br/>Christ is with us<br/>Christ is with us</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Who the Son has freed<br/>He is free indeed<br/>All our sin is gone<br/>We have been redeemed</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Jesus paid it all<br/>Jesus paid it all</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Open wide the gates of heaven<br/>Fill our hearts as we surrender<br/>Lord let Your presence fall<br/>Lord let Your presence fall</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Open wide the gates of heaven<br/>We will worship You forever<br/>Lord let Your presence fall<br/>Lord let Your presence fall</lines>
+    </verse>
+  </lyrics>
+</song>

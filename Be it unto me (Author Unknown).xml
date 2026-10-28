@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Be it unto me</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Be it unto me, according to Your Word<br/>According to Your promises<br/>I can stand secure<br/>Carve upon my heart<br/>The truth that sets me free<br/>According to your Word O Lord<br/>Be it unto me</lines>
+    </verse>
+    <verse name="v1">
+      <lines>You promised Your blood will deliver<br/>Lord we believe it's true<br/>You promised us joy like a river<br/>And Lord we receive it from You<br/>These things You have spoken<br/>You're bringing to pass<br/>This world's disappearing<br/>But Your Word will last</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He promised to carry your sorrow<br/>Lord we believe it's true<br/>You promised unending tomorrows<br/>Lord we receive them from You<br/>You will be our provider<br/>In Your word it's revealed<br/>And by the stripes that You bore<br/>We have been healed</lines>
+    </verse>
+  </lyrics>
+</song>

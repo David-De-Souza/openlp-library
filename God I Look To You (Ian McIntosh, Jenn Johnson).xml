@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>God I Look To You</title>
+    </titles>
+    <comments>
+      <comment>For use solely with the SongSelect. Terms of Use. All rights reserved. www.ccli.com</comment>
+    </comments>
+    <copyright>© 2010 Bethel Music Publishing (Admin. by SHOUT! Music Publishing)</copyright>
+    <verseOrder>v1 c1 c2 o2</verseOrder>
+    <ccliNo>5858163</ccliNo>
+    <authors>
+      <author>Ian McIntosh</author>
+      <author>Jenn Johnson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>God I look to You<br/>I won't be overwhelmed<br/>Give me vision to see things like You do<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>I will love You Lord my strength<br/>I will love You Lord my shield<br/>I will love You Lord my rock<br/>Forever all my days I will love You God</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Hallelujah our God reigns<br/>Hallelujah our God reigns<br/>Hallelujah our God reigns<br/>Forever all my days hallelujah</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Forever all my days hallelujah</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>God I look to You<br/>You're where my help comes from<br/>Give me wisdom You know just what to do</lines>
+    </verse>
+  </lyrics>
+</song>

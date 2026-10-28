@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:19">
+  <properties>
+    <titles>
+      <title>I've Got Peace Like a River</title>
+    </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <songbooks>
+      <songbook name="MP353"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've got peace like a river,<br/>I've got peace like a river,<br/>I've got peace like a river in my soul.<br/>I've got peace like a river,<br/>I've got peace like a river,<br/>I've got peace like a river in my soul.</lines>
+    </verse>
+  </lyrics>
+</song>

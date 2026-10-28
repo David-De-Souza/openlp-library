@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>Have Your Way</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>This yearning deep within me<br/>Reaches out to you</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Your oil of joy for mourning<br/>Soaks me, makes me new</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>And I will go to Your secret place<br/>Bow my knee to Your glorious throne</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Have Your way in my heart O Lord<br/>Have Your way</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I need Your Holy Spirit<br/>Fire to my soul</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Consume my total being<br/>Jesus take control</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Have Your way<br/>Have Your way<br/>Have Your way</lines>
+    </verse>
+  </lyrics>
+</song>

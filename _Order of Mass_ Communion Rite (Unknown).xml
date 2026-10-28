@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:13">
+  <properties>
+    <titles>
+      <title>[Order of Mass] Communion Rite</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Our Father, who art in heaven,<br/>hallowed be thy name;<br/>thy kingdom come;<br/>thy will be done on earth as it is in heaven.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Give us this day our daily bread;<br/>and forgive us our trespasses<br/>as we forgive those who trespass against us;<br/>and lead us not into temptation,<br/>but deliver us from evil.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines break="optional">Priest: Deliver us, Lord, we pray, from every evil,<br/>graciously grant peace in our days.<br/>That by the help of your mercy<br/>we may be always free from sin</lines>
+      <lines>and safe from all distress<br/>As we await the blessed hope<br/>and the coming of our Saviour,<br/>Jesus Christ.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All: For the kingdom, the power,<br/>and the glory are yours, now and forever.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Priest:<br/>Lord Jesus Christ, who said to Your Apostles:<br/>Peace I leave you, my peace I give you;<br/>look not on our sins, but on the faith of Your Church,</lines>
+      <lines>and graciously grant her peace and unity<br/>in accordance with Your will.<br/>Who live and reign for ever and ever<br/><br/>All: Amen</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Priest:<br/>The peace of the Lord be with you always<br/><br/>All: And with your spirit</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Lamb of God,<br/>You take away, the sins of the world<br/>Have mercy on us</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Lamb of God,<br/>You take away, the sins of the world<br/>Have mercy on us</lines>
+    </verse>
+    <verse name="v4c">
+      <lines>Lamb of God,<br/>You take away, the sins of the world<br/>Grant us peace</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Priest: Behold the Lamb of God,<br/>behold Him who takes away the sins of the world.<br/>Blessed are those who are called to the supper of the Lamb.</lines>
+    </verse>
+    <verse name="c5">
+      <lines>All: Lord, I am not worthy <br/>that You should enter under my roof,<br/>but only say the word<br/>and my soul shall be healed</lines>
+    </verse>
+  </lyrics>
+</song>

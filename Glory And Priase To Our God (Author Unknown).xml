@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Glory And Priase To Our God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Glory and praise to our God<br/>Who alone gives light to our days</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Many are the blessings He bears<br/>To those who trust in his ways</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>We, the daughters and sons of Him<br/>Who built the valleys and plains</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Praise the wonders our God has done<br/>In every heart that sings</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>In His wisdom, He strengthens us<br/>Like gold that tested in fire</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Though the power of sin prevails<br/>Our God is there to save</lines>
+    </verse>
+  </lyrics>
+</song>

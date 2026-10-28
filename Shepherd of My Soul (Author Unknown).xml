@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Shepherd of My Soul</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Shepherd of my soul<br/>I give you full control<br/>Wherever you may lead I will follow<br/>I have made the choice<br/>To listen for your voice<br/>Wherever you may lead I will go</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Be it in a quiet pasture<br/>Or by a gentle stream<br/>The shepherd of my soul is by my side<br/>Should I face a mighty mountain<br/>Or a valley dark and deep<br/>The Shepherd of my soul will be my guide</lines>
+    </verse>
+  </lyrics>
+</song>

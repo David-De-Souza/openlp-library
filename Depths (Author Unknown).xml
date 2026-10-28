@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Depths</title>
+    </titles>
+    <copyright>Hillsong</copyright>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>In Your presence I quiet my soul<br/>And I hear Your voice</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>In my spirit I hear the sound<br/>Of salvation's song</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus, Jesus</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I will wait in Your word, oh Lord<br/>There Your spirit speaks</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Bringing life to the weary soul<br/>To the depths of me</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Jesus, Jesus <chord name="x2"/></lines>
+    </verse>
+    <verse name="b1">
+      <lines>I love You with all my heart<br/>I love You with all my soul, Lord<br/>I love You with all my strength<br/>With all that is within me (x2)</lines>
+    </verse>
+    <verse name="b2a">
+      <lines>I'll sing cause You saved my soul<br/>I'll sing of Your love forever<br/>I'll worship with all my heart<br/>With all that is within me</lines>
+    </verse>
+    <verse name="b2b">
+      <lines>Jesus, Jesus <chord name="x6"/></lines>
+    </verse>
+  </lyrics>
+</song>

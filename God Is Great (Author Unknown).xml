@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>God Is Great</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>All creation cries to you<br/>Worshipping in Spirit and in truth</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Glory to the faithful one Jesus Christ God's son</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>All Creation gives you praise<br/>You alone are truly great</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>You alone are God who reigns for eternity</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>God is great and his praise<br/>fills the earth fills the heavens and<br/>your name will be praise through all the world</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>God is great sing his praise<br/>all the earth all the heavens</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>cause were living for the Glory of your name<br/>The Glory of your name</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>All to you Oh God we bring<br/>Jesus teach us how to live</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Let your fire burn in us<br/>that all may hear and all may see</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>Bridge:<br/>Holy is the Lord<br/>The whole earth sings<br/>The whole earth sings</lines>
+    </verse>
+  </lyrics>
+</song>

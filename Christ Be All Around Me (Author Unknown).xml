@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Christ Be All Around Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>As I rise, strength of God<br/>Go before, lift me up</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>As I wake, eyes of God<br/>Look upon, be my sight</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>As I wait, heart of God<br/>Satisfy and sustain</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>As I hear, voice of God<br/>Lead me on, be my guide<br/>Be my guide</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Above and below me<br/>Before and behind me<br/>In every eye that sees me<br/>Christ be all around me</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Above and below me<br/>Before and behind me<br/>In every eye that sees me<br/>Christ be all around me</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>As I go, hand of God<br/>My defence, by my side</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>As I rest, breath of God<br/>Fall upon, bring me peace<br/>Bring me peace</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Your life, Your death<br/>Your blood was shed<br/>For every moment<br/>Every moment</lines>
+    </verse>
+  </lyrics>
+</song>

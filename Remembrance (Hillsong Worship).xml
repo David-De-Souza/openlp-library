@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Remembrance</title>
+    </titles>
+    <authors>
+      <author>Hillsong Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I take the bread of life<br/>Broken for all my sin<br/>Your body crucified<br/>To make me whole again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will recall the cup<br/>Poured out in sacrifice<br/>To trade this sinner's end<br/>For Your new covenant</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hallelujah<br/>I'll live my life in remembrance,<br/>Hallelujah<br/>Your promise I won't forget</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'll walk salvation's road<br/>With fear and trembling<br/>Your way borne as my own<br/>As Christ is formed in me</lines>
+    </verse>
+    <verse name="c2">
+      <lines>If ever I should lose my way<br/>If ever I deny Your grace<br/>Remind me of the price You paid<br/>Hallelujah<br/>I'll live in remembrance</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You've been so, so good to me<br/>You've been so, so good to me<br/>Oh to think where I would be<br/>If not for You<br/>If not for You</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>As far as heights reach from the depths<br/>As far as east is from the west<br/>So far Your grace has carried me</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Until I see You face to face<br/>Until at last I've won my race<br/>Remind me You're not finished yet</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Hallelujah<br/>Hallelujah<br/>Hallelujah<br/>I'll live in remembrance</lines>
+    </verse>
+  </lyrics>
+</song>

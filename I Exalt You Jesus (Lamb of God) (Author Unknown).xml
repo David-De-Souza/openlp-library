@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>I Exalt You Jesus (Lamb of God)</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I exalt You Jesus, my sacrifice<br/>I exalt You my Redeemer and my Lord<br/>I exalt You, worthy Lamb of God<br/>And in honour I bow down before Your throne.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Lamb of God, Holy one, Jesus Christ, Son of God,<br/>Lifted up, willingly to die, that I the guilty one<br/>May know the blood once shed<br/>Still freely flowing, still cleansing, still healing</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Offering (Christmas version)</title>
+    </titles>
+    <authors>
+      <author>Paul Baloche</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Over the skies of Bethlehem appeared a star<br/>While angels sang to lowly shepherds<br/>Three wise men seeking truth travelled from afar<br/>Hoping to to find the child from Heaven</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Falling on their knees <br/>They bowed before the humble Prince of Peace</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I bring an offering of worship to my King<br/>No one on earth deserves the praises that I sing<br/>Jesus may You receive the honour that You're due<br/>O Lord I bring an offering to You</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>The sun cannot compare to the glory of Your love<br/>There is no shadow in Your presence<br/>No mortal man would dare to stand before Your throne<br/>Before the Holy One of heaven</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>It's only by Your blood<br/>And it's only through Your mercy, Lord I come</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>We bring an offering of worship to our King<br/>No one on earth deserves the praises that we sing<br/>Jesus may You receive the honour that You're due<br/>O Lord we bring an offering to You</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>We bring an offering of worship to our King<br/>No one on earth deserves the praises that we sing<br/>Jesus may You receive the honour that You're due<br/>O Lord we bring an offering to You<br/>O Lord we bring an offering to You</lines>
+    </verse>
+    <verse name="e1">
+      <lines>O Lord I bring an offering to You<br/>O Lord we bring an offering to You<br/>I bring an offering to You my King<br/>We bring an offering<br/>O my King Jesus my King<br/>We bring an offering Lord<br/>We bring an offering to You</lines>
+    </verse>
+  </lyrics>
+</song>

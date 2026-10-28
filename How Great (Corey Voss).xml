@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>How Great</title>
+    </titles>
+    <authors>
+      <author>Corey Voss</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your blood that stained the ground<br/>Is where my hope is found<br/>Your scars caused by my sin<br/>Is where my life begins</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My heart can not contain<br/>This joy bought by Your pain<br/>Such grace I can't repay<br/>Still I give my everything</lines>
+    </verse>
+    <verse name="c1">
+      <lines>How great is your love<br/>How great is Your love for me<br/>How great is your love<br/>How great is Your love for me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>So high, so deep, so great that its overwhelming<br/>So high, so deep, so great is Your love, Your love for me</lines>
+    </verse>
+  </lyrics>
+</song>

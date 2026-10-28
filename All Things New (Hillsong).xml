@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>All Things New</title>
+    </titles>
+    <authors>
+      <author>Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Your love's making all things new<br/>You're working in all for good</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>For the things of this world<br/>There is hope renewed<br/>In the life that is found in You</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>You make all things new<br/>You make all things new</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Yesterday and forever<br/>Your love never changing</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>This hope never fading<br/>Hallelujah</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>My faith is in things unseen<br/>Bringing life where it has not been</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Speaking things that are not<br/>As if they were<br/>I am alive in You</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>The heavens have been opened<br/>I know that I am chosen</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>I am alive in You<br/>I am alive in You</lines>
+    </verse>
+    <verse name="b1c">
+      <lines>God You are restoring<br/>All things for Your glory</lines>
+    </verse>
+    <verse name="b1d">
+      <lines>I am alive in You<br/>I am alive in You</lines>
+    </verse>
+  </lyrics>
+</song>

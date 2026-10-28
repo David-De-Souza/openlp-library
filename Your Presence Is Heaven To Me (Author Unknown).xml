@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>Your Presence Is Heaven To Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Who is like You Lord in all the earth?<br/>Matchless love and beauty, endless worth</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Nothing in this world can satisfy<br/>'Cause Jesus You're the cup that won't run dry</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Your presence is heaven to me<br/>Your presence is heaven to me</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Treasure of my heart and of my soul<br/>In my weakness you are merciful</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Redeemer of my past and present wrongs<br/>Holder of my future days to come</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Oh Jesus, Oh Jesus<br/>Your presence is heaven to me</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Oh Jesus, Oh Jesus<br/>Your presence is heaven to me</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>All my days on earth I will await<br/>The moment that I see You face to face</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Nothing in this world can satisfy<br/>'Cause Jesus You're the cup that won't run dry</lines>
+    </verse>
+  </lyrics>
+</song>

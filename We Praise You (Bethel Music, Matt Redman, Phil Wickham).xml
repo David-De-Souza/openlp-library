@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:15">
+  <properties>
+    <titles>
+      <title>We Praise You</title>
+    </titles>
+    <authors>
+      <author>Matt Redman</author>
+      <author>Bethel Music</author>
+      <author>Phil Wickham</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let praise be a weapon that silences the enemy<br/>Let praise be a weapon that conquers all anxiety<br/>Let it rise, let praise arise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We sing your name in the dark and it changes everything<br/>We sing with all we are and we claim your victory<br/>Let is rise, let praise arise</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>We’ll see You break down every wall<br/>We’ll watch the giants fall<br/>Fear cannot survive when we praise You</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>The God of breakthrough’s on our side<br/>Forever lift Him high<br/>With all creation cry, God we praise You</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Oh, we praise You, oh</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let faith be the song that overcomes the raging sea<br/>Let faith be the song that calms the storm inside of me<br/>Let it rise, let praise arise</lines>
+    </verse>
+    <verse name="b1">
+      <lines>This is what living looks like<br/>This is what freedom feels like<br/>This is what heaven sounds like<br/>We praise You, we praise You</lines>
+    </verse>
+  </lyrics>
+</song>

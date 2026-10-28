@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Shelter Me O God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Shelter me, O God<br/>Hide me in the shadow of Your wings<br/>You alone are my hope</lines>
+    </verse>
+    <verse name="v1">
+      <lines>When my foes around me<br/>Set me high above their reach<br/>Hear me when I call Your name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As a mother gathers her young<br/>Beneath her care<br/>Gather me into Your arms</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though I walk in darkness<br/>Through the needles eye of death<br/>You will never leave my sight</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-10-12T02:20:48">
+  <properties>
+    <titles>
+      <title>Doorkeeper</title>
+    </titles>
+    <authors>
+      <author>Kory Miller</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Those who wait upon the Lord<br/>They will find their strength will be restored</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>They will run and not grow wear - y<br/>They will walk and not grow faint</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Better is a day with You<br/>Than a thousand elsewhere<br/>Wherever You are there I will be</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>And I don’t need to hurry<br/>When I’m   in   Your presence<br/>Wherever You are there I will be</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>I’d rather be a doorkeeper<br/>In the house of the Lord than anywhere else<br/>I’d rather be  in  the courts of my God</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>I’d rather be a doorkeeper<br/>In the house of the Lord than anywhere else<br/>I’d rather be  in  the courts of my God</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>God in Whom We Trust</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Dominic Nalpon</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>We will walk<br/>Through the battlefield<br/>Though the arrows fly by day</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>We will stand<br/>In the midst of it<br/>And still we will be safe</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>For You promised<br/>You'll deliver us<br/>From the hands of the unjust</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>So we sing<br/>To You, our refuge<br/>You're our God in Whom we trust</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>We won't fear<br/>The terror of the night<br/>Under your wings we hide</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Thousands fall<br/>But Your faithfulness<br/>Keep us safe with You by our side</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>For You promised<br/>You'll deliver us<br/>From the hands of the unjust</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>So we sing<br/>To You, our refuge<br/>You're our God in Whom we trust</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>God is with us<br/>God is with us<br/>God is with us<br/>God is with us</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>God is with us (in the darkest night)<br/>God is with us (in the raging storm)<br/>God is with us (on the battlefield)<br/>God is with us (we will overcome)</lines>
+    </verse>
+  </lyrics>
+</song>

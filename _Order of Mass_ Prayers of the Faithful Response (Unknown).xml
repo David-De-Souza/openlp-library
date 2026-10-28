@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:13">
+  <properties>
+    <titles>
+      <title>[Order of Mass] Prayers of the Faithful Response</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Priest: Let us make our prayer to the God of our salvation because all our hope rests in him.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Response: Father, our trust is in you.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Father, you established a covenant with men:<br/>we trust in you, for you are faithful to your word.<br/><br/>Response: Father, our trust is in you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Send workers into the harvest,<br/>and bring the world to the knowledge and love of you.<br/><br/>Response: Father, our trust is in you.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>May the unity of the Church be formed by love and understanding;<br/>gather us together through the gifts of your Holy Spirit.<br/><br/>Response: Father, our trust is in you.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Help men to create a community where justice and peace may flourish:<br/>be with us lest we labour in vain.<br/><br/>Response: Father, our trust is in you.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Be mindful of the dead, especially those we have known;<br/>have mercy on those who have given us their help.<br/><br/>Response: Father, our trust is in you.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>We pray for our brother Matthew Tan. Lord, place in him a hopeful heart and strengthen his body as he recovers from his illness.<br/><br/>Response: Father, our trust is in you.</lines>
+    </verse>
+  </lyrics>
+</song>

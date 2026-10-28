@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:13">
+  <properties>
+    <titles>
+      <title>[Order of Mass] Concluding Rite</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Priest: The Lord be with you<br/><br/>All: and with your spirit</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Priest: <br/>May almighty God bless you,<br/>the Father, and the Son, and the Holy Spirit<br/><br/>All: Amen</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Priest: Go forth, the Mass is ended<br/><br/>All: Thanks be to God</lines>
+    </verse>
+  </lyrics>
+</song>

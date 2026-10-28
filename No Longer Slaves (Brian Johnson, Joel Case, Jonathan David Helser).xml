@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>No Longer Slaves</title>
+    </titles>
+    <copyright>© 2014 Bethel Music Publishing (Admin. by SHOUT! Music Publishing)</copyright>
+    <ccliNo>7030123</ccliNo>
+    <authors>
+      <author>Brian Johnson</author>
+      <author>Joel Case</author>
+      <author>Jonathan David Helser</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You unravel me with a melody<br/>You surround me with a song</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>of deliverance from my enemies<br/>Till all my fears are gone</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'm no longer a slave to fear<br/>I am a child of God<br/>I'm no longer a slave to fear<br/>I am a child of God</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>From my Mother's womb<br/>You have chosen me<br/>Love has called my name</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>I've been born again into Your family<br/>Your blood flows through my veins</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>You split the sea so I could <br/>Walk right through it<br/>My fears were drowned in perfect love</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>You rescued me so I could stand and sing<br/>I am a child of God</lines>
+    </verse>
+    <verse name="b2a">
+      <lines>I am surrounded <br/>By the arms of the Father</lines>
+    </verse>
+    <verse name="b2b">
+      <lines>I am surrounded <br/>By songs of deliverance</lines>
+    </verse>
+    <verse name="o1">
+      <lines>We've been liberated from our bondage<br/>We're the sons and daughters<br/>Let us sing our freedom</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Oh...</lines>
+    </verse>
+  </lyrics>
+</song>

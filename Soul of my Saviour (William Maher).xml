@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Soul of my Saviour</title>
+    </titles>
+    <authors>
+      <author>William Maher</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Soul of my Saviour, <br/>sanctify my breast;<br/>Body of Christ,<br/>be thou my saving guest</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Blood of my Saviour, <br/>bathe me in thy tide,<br/>wash me with water<br/>flowing from thy side.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Strength and protection <br/>may thy passion be;<br/>O blessed Jesus,<br/>hear and answer me</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Deep in thy wounds, Lord, <br/>hide and shelter me;<br/>so shall I never,<br/>never part from thee.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Guard and defend me <br/>from the foe malign;<br/>in death's dread moments<br/>make me only thine</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>call me, and bid me <br/>come to thee on high,<br/>where I may praise thee<br/>with thy saints for aye.</lines>
+    </verse>
+  </lyrics>
+</song>

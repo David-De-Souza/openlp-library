@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:19">
+  <properties>
+    <titles>
+      <title>Jesus At The Center</title>
+    </titles>
+    <copyright>© 2011 Integrity Worship Music (Admin. by CopyCare Asia Ltd (Singapore Branch))/Integrity's Praise! Music (Admin. by CopyCare Asia Ltd (Singapore Branch))/Sound Of The New Breed (Admin. by CopyCare Asia Ltd (Singapore Branch))/Remaining portion is unaffiliated</copyright>
+    <verseOrder>v1 c1 v2 c1 b1 v3 e1</verseOrder>
+    <ccliNo>6115180</ccliNo>
+    <authors>
+      <author>Adam Ranney</author>
+      <author>Israel Houghton</author>
+      <author>Micah Massey</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Jesus at the center of it all<br/>Jesus at the center of it all</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>From beginning to the end<br/>It will always be it's always been You, Jesus, Jesus</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And nothing else matters<br/>Nothing in this world will do<br/>Jesus You're the center<br/>Ev'rything revolves around You, Jesus, You</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Jesus be the center of my life<br/>Jesus be the center of my life</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>From beginning to the end<br/>It will always be it's always been You Jesus Jesus</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>From my heart to the heavens, Jesus be the center<br/>It's all about You, yes it's all about You</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>From my heart to the heavens, Jesus be the center<br/>It's all about You, yes it's all about You (Jesus)</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Jesus be the center of Your church<br/>Jesus be the center of Your church</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>And ev'ry knee will bow<br/>And ev'ry tongue shall confess You</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Jesus, Jesus, Jesus, Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

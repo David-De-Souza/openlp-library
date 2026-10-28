@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:13">
+  <properties>
+    <titles>
+      <title>Lead Me, Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Blessed are the poor in spirit,<br/>longing for their God<br/>For God's coming Kingdom shall be theirs.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Blessed are the sorrowing<br/>for they shall be consoled<br/>and the meek shall come to rule the world</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Lead me, Lord<br/>Lead me, Lord<br/>by the light of truth</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>To seek and to find the narrow way<br/>Be my way, be my truth, be my life, my Lord<br/>and lead me Lord, today</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Blessed are the merciful for mercy shall be theirs<br/>and the pure in heart shall see their God.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Blest are they whose hunger only holiness can fill,<br/>for I say they shall be satisfied.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Blest are they who through their lifetimes<br/>sow the seeds of peace,<br/>all will call them children of the the Lord.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Blest are you, though persecuted in your holy life,<br/>for in heaven, great is your reward.</lines>
+    </verse>
+  </lyrics>
+</song>

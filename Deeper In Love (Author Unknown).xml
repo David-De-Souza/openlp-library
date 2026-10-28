@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Deeper In Love</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>There is a longing only You can fill<br/>A raging tempest only You can still</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>My soul is thirsty Lord<br/>To know You as I'm known</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Drink from the river<br/>That flows before your throne</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Take me deeper<br/>Deeper in love with You</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Jesus hold me close in Your embrace</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Take me deeper<br/>Deeper than I've ever been before</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>I just want to love You more and more<br/>How I long to be deeper in love</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Sunrise to sunrise<br/>I will seek Your face</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Drawn by the Spirit<br/>To the promise of Your grace</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>My heart has found in You<br/>A hope that will abide</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>Here in Your presence<br/>Forever satisfied</lines>
+    </verse>
+  </lyrics>
+</song>

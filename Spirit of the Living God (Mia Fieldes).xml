@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Spirit of the Living God</title>
+    </titles>
+    <authors>
+      <author>Mia Fieldes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Spirit of the living God<br/>Spirit of the living God<br/>We only want to hear Your voice<br/>We're hanging on every word</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Spirit of the living God<br/>Spirit of the living God<br/>We want to know You more and more<br/>We're hanging on every word</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>'Cause when You speak, and when You move<br/>When You do what only You can do<br/>It changes us<br/>It changes what we see and what we seek</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>When You come in the room<br/>When You do what only You can do<br/>It changes us<br/>It changes what we see and what we seek</lines>
+    </verse>
+    <verse name="b1">
+      <lines>When You move, You move all our fears<br/>When You move, You move us to tears</lines>
+    </verse>
+    <verse name="b2">
+      <lines>When You fall, we fall on our knees<br/>When You fall, we fall at Your feet</lines>
+    </verse>
+  </lyrics>
+</song>

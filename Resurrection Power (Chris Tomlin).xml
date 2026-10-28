@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>Resurrection Power</title>
+    </titles>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You called me from the grave by name<br/>You called me out of all my shame<br/>I see the old has passed away<br/>The new has come!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Now I have resurrection power<br/>Living on the inside<br/>Jesus, You have given us freedom<br/>No longer bound by sin and darkness<br/>Living in the light of Your goodness<br/>You have given us freedom</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm dressed in Your royalty<br/>Your Holy Spirit lives in me<br/>And I see my past has been redeemed<br/>The new has come!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Freedom, You have given us freedom<br/>You have given us freedom, my chains are gone!<br/>Freedom, You have given us freedom<br/>You have given us freedom, hallelujah!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Now I have resurrection power<br/>Living on the inside<br/>Now, I'm no longer bound by sin and darkness<br/>Living in the light of Your goodness<br/>You have given us freedom!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>I have resurrection power<br/>Living on the inside<br/>Living on the inside!<br/>No longer bound by sin and darkness<br/>You have given us freedom<br/>You have given us freedom!</lines>
+    </verse>
+  </lyrics>
+</song>

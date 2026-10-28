@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Fill This Place</title>
+    </titles>
+    <authors>
+      <author>Red Rocks Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a light that burns in the darkness<br/>There is a hope that washes the fear away<br/>There is a peace that settles around us<br/>It is your love that sets our hearts ablaze</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Father we're on our knees<br/>With every heartbeat we bring you this offering<br/>Lord come and fill this place</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Father we're crying out<br/>Spirit we need you now<br/>Glorious love surrounds us<br/>Lord come and fill this place</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>There is a king that reigns in victory<br/>There is a mercy strong enough to save<br/>We feel it rising up from the ashes</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>There is a love that overcame the grave<br/>There is a love that overcame the grave</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And I will worship you<br/>I will worship you<br/>I will worship you<br/>Always</lines>
+    </verse>
+  </lyrics>
+</song>

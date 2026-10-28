@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>More</title>
+    </titles>
+    <authors>
+      <author>Red Rocks Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>I just want more, I just want more<br/>More of You God, more of You God</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>I just want more, I just want more<br/>More of You God, more of You</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>I pour out all I have I lay down all I am<br/>I’m making room for You Lord I’m ready</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>To open up my heart To receive not in part<br/>But the fullness of who You are Lord I’m ready</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Come and reach into my heart, <br/>come and heal every part Lord<br/>I want more of You</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Just one touch from Your robe <br/>Steals the weakness from my bones<br/>Oh I need more of You</lines>
+    </verse>
+  </lyrics>
+</song>

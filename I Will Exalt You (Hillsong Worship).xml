@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>I Will Exalt You</title>
+    </titles>
+    <authors>
+      <author>Hillsong Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will exalt you<br/>I will exalt you<br/>I will exalt you<br/>You are my God</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>My hiding place<br/>My safe refuge<br/>My treasure lord you are</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>My friend and king<br/>Anointed one<br/>Most holy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Because you're with me<br/>Because you're with me<br/>Because you're with me<br/>I will not fear</lines>
+    </verse>
+  </lyrics>
+</song>

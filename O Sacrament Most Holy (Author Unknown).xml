@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>O Sacrament Most Holy</title>
+      <title>O Jesus We Adore Thee</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Jesus we adore Thee<br/>Who in Thy love divine<br/>Conceal Thy mighty Godhead<br/>In forms of bread and wine</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O Sacrament most holy<br/>O Sacrament divine<br/>All praise and all thanksgiving<br/>Be ev'ry moment Thine!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Jesus we adore Thee<br/>Our victim and our priest<br/>Whose precious Blood and Body<br/>Become our Sacred feast</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Jesus we adore Thee<br/>Our Saviour and our King<br/>And with the saints and angels<br/>Our humble homage bring</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Jesus we adore Thee<br/>Come live in us we pray<br/>That all our thoughts and actions<br/>Be Yours alone today</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O come all you who labour<br/>In sorrow and in pain<br/>Come, eat this bread from heaven<br/>Your peace and strength regain</lines>
+    </verse>
+  </lyrics>
+</song>

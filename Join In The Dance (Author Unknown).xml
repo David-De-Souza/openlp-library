@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:19">
+  <properties>
+    <titles>
+      <title>Join In The Dance</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Join in the dance of the earth's jubilation<br/>This is the feast of the love of God</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Shout from the heights to the ends of creation<br/>Jesus the Saviour is risen from the grave</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Wake o people, sleep no longer<br/>Greet the breaking day</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Christ Redeemer, Lamb and Lion<br/>Turns the night away</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>All creation like a mother<br/>Labours to give birth</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Soon the pain will be forgotten<br/>Joy for all the earth</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Now our shame becomes our glory<br/>On this holy tree</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Now the reign of death is ended<br/>Now we are set free</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>None on earth, no prince or power<br/>Neither death nor life</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Nothing now can ever part us<br/>From the love of Christ</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Love triumphant day of victory<br/>Heaven opens wide</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>On the tree of hope and glory<br/>Death itself has died</lines>
+    </verse>
+    <verse name="v6a">
+      <lines>Christ forever, Lord of ages<br/>Love beyond our dreams</lines>
+    </verse>
+    <verse name="v6b">
+      <lines>Christ our hope of heaven's glory<br/>All that yet will be</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>More of You</title>
+    </titles>
+    <authors>
+      <author>Strings and Heart</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>As the deer pants for the water<br/>My soul longs for you, God<br/>Like a stream of milk and honey<br/>Lord, overflow my cup</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I bring this perfume to your feet<br/>I pour my love here on my knees<br/>Longing for your heart</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I want more of you and less of me<br/>More of you and less of me<br/>Jesus, I surrender at your feet</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>My mind cannot fathom<br/>The beauty of your cross<br/>Like a child I stand in awe<br/>At the canvas of your love</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>And I bring this perfume to your feet<br/>I pour my love here on my knees<br/>Longing for your heart</lines>
+    </verse>
+  </lyrics>
+</song>

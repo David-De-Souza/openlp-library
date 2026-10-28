@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Friend To Me</title>
+    </titles>
+    <authors>
+      <author>Damascus Worship</author>
+      <author>Seth Schlueter</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Holy Spirit<br/>I love it when You're near<br/>You're a friend to me<br/>You're the air I breathe</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Holy Spirit<br/>You are all I need<br/>When it's You and me<br/>I will never leave</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Your presence my comfort<br/>Your friendship the joy of my heart<br/>When you speak I'll listen<br/>Holy Spirit</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>You walk in triumphant<br/>No darkness can stand to Your light<br/>When you come close I'll lean in<br/>Holy Spirit</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>You are not simply a concept<br/>You're a person<br/>You are not a made up ghost<br/>Or some illusion</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>You are God<br/>The Living Breath that brought me back to life<br/>You are God<br/>The gift of Heavens Bridegroom to His bride</lines>
+    </verse>
+  </lyrics>
+</song>

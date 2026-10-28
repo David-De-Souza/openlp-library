@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>Here I Am To Worship (Light Of The Word)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Light of the world<br/>You stepped down into darkness<br/>Open my eyes let me see</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Beauty that made<br/>This heart adore You<br/>Hope of a life spent with You</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Here I am to worship<br/>Here I am to bow down<br/>Here I am to say that You're my God</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>You're altogether lovely<br/>Altogether worthy<br/>Altogether wonderful to me</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>King of all days<br/>Oh so highly exalted<br/>Glorious in heaven above</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Humbly You came<br/>To the earth You created<br/>All for love's sake became poor</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I'll never know how much it cost<br/>To see my sin upon that cross</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Call upon the name of the Lord<br/>And be saved</lines>
+    </verse>
+  </lyrics>
+</song>

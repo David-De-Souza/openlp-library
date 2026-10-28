@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>As We Gather/Steadfast love</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>As we gather may Your Spirit work within us<br/>As we gather may we glorify Your name</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Knowing well that as<br/>our hearts begin to worship</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>We'll be blessed because we came<br/>We'll be blessed because we came</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>The steadfast love of the Lord never ceases<br/>His mercies never come to an end</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>They are new every morning<br/>New every morning</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Great is Your faithfulness, 0 Lord<br/>Great is Your faithfulness</lines>
+    </verse>
+  </lyrics>
+</song>

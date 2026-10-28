@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:17">
+  <properties>
+    <titles>
+      <title>Fall Like Rain</title>
+    </titles>
+    <authors>
+      <author>Passion</author>
+      <author>Rachel Halbach</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>God, I live to worship You<br/>All my life I offer You<br/>Simple melodies of sacrifice</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Open hands and open heart<br/>You’re the only one I want<br/>Your presence is my treasure, my delight</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Fall like rain<br/>Holy Spirit<br/>Fall like rain</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Holy Spirit<br/>Have Your way<br/>Let Your Glory fall down<br/>Let Your Glory fall down</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>One thing I ask, one thing I seek<br/>So much more than anything<br/>To dwell within Your house for all my days</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Knowing You is everything<br/>So I let go of lesser things<br/>You alone are worthy of my praise<br/>Stir in me a passion for Your Name</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>May I never lose the wonder of Your presence<br/>May I always stand in awe of who You are</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Oh the beauty and the gift of Your friendship<br/>Is unlike anything I’ve ever known</lines>
+    </verse>
+  </lyrics>
+</song>

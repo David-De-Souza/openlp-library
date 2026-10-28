@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:18">
+  <properties>
+    <titles>
+      <title>He's got the whole world</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Traditional - Spiritual</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He's got the whole world in His hands<br/>He's got the whole world in His hands<br/>He's got the whole world in His hands<br/>He's got the whole wide world in His hands</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He's got the little weeny baby in His hands<br/>He's got the little weeny baby in His hands<br/>He's got the little weeny baby in His hands<br/>He's got the whole wide world in His hands</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He's got you and me brother in His hands<br/>He's got you and me sister in His hands<br/>He's got you and me brother in His hands<br/>He's got the whole wide world in His hands</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He's got everybody here in His hands<br/>He's got everybody here in His hands<br/>He's got everybody here in His hands<br/>He's got the whole wide world in His hands</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>O Come Let Us Adore Him</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="SF409, MP490"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O come let us adore Him,<br/>O come let us adore Him,<br/>O come let us adore Him,<br/>Christ the Lord.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>You are seated on a throne of praise<br/>Unto You alone let our voices raise<br/>(x2)</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>The highest praise is Yours<br/>The highest praise is Yours<br/>The highest praise is Yours<br/>In all the earth</lines>
+    </verse>
+  </lyrics>
+</song>

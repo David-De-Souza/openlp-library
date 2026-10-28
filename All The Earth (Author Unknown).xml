@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>All The Earth</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Father, into Your courts I will enter<br/>Maker of heaven and earth<br/>I tremble, in Your holy presence</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Glory, glory in Your sanctuary<br/>Splendour and majesty Lord<br/>Before You, all life adores You</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>All the earth will declare<br/>That Your love is everywhere<br/>The fields will exalt, seas resound</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Hear the trees' joyful cry<br/>Praising You and so will I</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>A new song I'll sing<br/>Lord I will glorify and bless<br/>Your holy name</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Jesus, Lord of all life and salvation<br/>Into your presence we come<br/>We worship you our precious Saviour</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Fill us, fill us with your holy power<br/>Set us aflame with your love<br/>Till nations, all know your glory</lines>
+    </verse>
+  </lyrics>
+</song>

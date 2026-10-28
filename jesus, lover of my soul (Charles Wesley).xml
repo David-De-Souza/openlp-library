@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:19">
+  <properties>
+    <titles>
+      <title>jesus, lover of my soul</title>
+    </titles>
+    <authors>
+      <author>Charles Wesley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Jesus, lover of my soul<br/>Jesus, I will never let You go<br/>You've taken me from the miry clay<br/>You've set my feet upon the rock<br/>And now I know<br/></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I love you (I love you)<br/>I need you (I need you)<br/>Though my world may fall (though my world may fall)<br/>I'll never let You go<br/></lines>
+    </verse>
+    <verse name="v1c">
+      <lines>My Savior (my Savior)<br/>My closest Friend<br/>I will worship You (I will worship You until the very end)</lines>
+    </verse>
+  </lyrics>
+</song>

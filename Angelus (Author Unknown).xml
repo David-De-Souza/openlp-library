@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:16">
+  <properties>
+    <titles>
+      <title>Angelus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The angel of the Lord declared unto Mary<br/>R: And she conceived by the power of the Holy Spirit<br/>Hail Mary...</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Behold the handmaid of the Lord<br/>R: Be it done unto me according to Thy Word<br/>Hail Mary...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Word was made flesh<br/>R: And dwelt among us<br/>Hail Mary...</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pray for us Most Holy Mother of God<br/>R: That we may be made worthy of the promises of Christ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let us pray<br/>R: Pour forth we beseech thee O Lord<br/>Thy grace into our hearts,</lines>
+    </verse>
+    <verse name="v6">
+      <lines>R: That we, to whom the incarnation of Christ, Thy Son<br/>Was made know by the message of an angel<br/>May by His passion and cross</lines>
+    </verse>
+    <verse name="v7">
+      <lines>R: Be brought to the glory of His Resurrection<br/>Through the same Christ our Lord<br/>Amen</lines>
+    </verse>
+  </lyrics>
+</song>

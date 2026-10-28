@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-30T17:07:14">
+  <properties>
+    <titles>
+      <title>O God Beyond All Praising</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">O God beyond all praising,<br/>We worship you today<br/>And sing the love amazing<br/>That songs cannot repay</lines>
+      <lines break="optional">For we can only wonder<br/>At every gift you send,<br/>At blessings without number<br/>And mercies without end</lines>
+      <lines>We lift our hearts before you<br/>And wait upon your word,<br/>We honor and adore you,<br/>Our great and mighty Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Then hear, O gracious Savior,<br/>Accept the love we bring,<br/>That we who know your favor<br/>May serve you as our king</lines>
+      <lines break="optional">And whether our tomorrows<br/>Be filled with good or ill,<br/>We'll triumph through our sorrows<br/>And rise to bless you still</lines>
+      <lines>To marvel at your beauty<br/>And glory in your ways,<br/>And make a joyful duty<br/>Our sacrifice of praise</lines>
+    </verse>
+  </lyrics>
+</song>
