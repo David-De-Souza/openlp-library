@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-29T06:05:51">
+  <properties>
+    <titles>
+      <title>Receive the Fragrance</title>
+    </titles>
+    <authors>
+      <author>Damascus Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who is this King of Glory?<br/>The God who became man<br/>Who is this One we wait for?<br/>The Holy Spotless Lamb</lines>
+    </verse>
+    <verse name="p1a">
+      <lines>Your eyes are like fire<br/>Your hair is like wool<br/>You're Zealous and Holy<br/>You're wonderful</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>Here in this moment<br/>I'm caught in Your gaze<br/>I'm ready to meet you<br/>My King is on His way</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Receive the fragrance<br/>Our worship releases<br/>Rising to Heaven<br/>All for you Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are the King of Glory<br/>The One who conquered death<br/>And now You reign in victory<br/>All praise unto the lamb</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Worthy are You Lord<br/>Worthy are You Lord<br/>Worthy are You Lord<br/>All glory, and honor, and power is Yours</lines>
+    </verse>
+  </lyrics>
+</song>
